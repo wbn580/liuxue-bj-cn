@@ -1,0 +1,77 @@
+---
+export interface Props {
+  title?: string;
+  description?: string;
+  ogImage?: string;
+}
+const {
+  title = '北京留学网 · liuxue.bj.cn',
+  description = '面向北京家庭与学生的本地化留学站：国际部与国际学校、海归落户政策、京内升学与留学资源。本地权威，亲切可信。',
+  ogImage = 'https://img.liuxue.bj.cn/og-default.jpg'
+} = Astro.props;
+const siteName = '北京留学网';
+---
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="baidu-site-verification" content="codeva-gnmxUdWOWi" />
+<meta name="bytedance-verification-code" content="ITV5MlE1ZE+iYJ7F/gml" />
+<title>{title === siteName ? title : `${title} — ${siteName}`}</title>
+<meta name="description" content={description}>
+<meta property="og:title" content={title}>
+<meta property="og:description" content={description}>
+<meta property="og:type" content="website">
+<meta property="og:site_name" content={siteName}>
+<meta property="og:image" content={ogImage}>
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).href}>
+<style is:global>
+  *,::before,::after{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:#F6F1E7;color:#16242E;-webkit-font-smoothing:antialiased;font-family:"Noto Sans SC",system-ui,sans-serif}
+  .font-serif-cn{font-family:"Noto Serif SC",serif}
+  /* lattice bg */
+  .lattice-bg{
+    background-image:
+      linear-gradient(rgba(122,46,42,0.035) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(122,46,42,0.035) 1px, transparent 1px);
+    background-size: 46px 46px;
+  }
+  .hero-gradient{
+    background:
+      radial-gradient(120% 100% at 85% 0%, rgba(182,136,58,0.20) 0%, transparent 55%),
+      radial-gradient(90% 90% at 10% 100%, rgba(46,107,94,0.16) 0%, transparent 50%),
+      linear-gradient(160deg, #16242E 0%, #1C2E3A 45%, #21303B 100%);
+  }
+  .gold-line{height:3px;background:linear-gradient(90deg,#B6883A,#C9A24B,#B6883A)}
+  .seal-stamp{
+    font-family:"Noto Serif SC",serif;
+    letter-spacing:.18em;
+  }
+  .card-hover{transition:transform .35s cubic-bezier(.2,.7,.2,1), box-shadow .35s}
+  .card-hover:hover{transform:translateY(-6px)}
+  .nav-link{position:relative}
+  .nav-link::after{content:'';position:absolute;left:0;bottom:-4px;width:0;height:2px;background:#B6883A;transition:width .3s}
+  .nav-link:hover::after{width:100%}
+  #chatPanel{transition:opacity .3s, transform .3s}
+  .pulse-dot{animation:pulse 2s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(46,107,94,.6)}70%{box-shadow:0 0 0 8px rgba(46,107,94,0)}100%{box-shadow:0 0 0 0 rgba(46,107,94,0)}}
+  .fade-up{opacity:0;transform:translateY(24px);transition:opacity .7s, transform .7s}
+  .fade-up.in{opacity:1;transform:none}
+  details>summary{list-style:none;cursor:pointer}
+  details>summary::-webkit-details-marker{display:none}
+  details[open] .faq-icon{transform:rotate(45deg)}
+  .faq-icon{transition:transform .3s}
+  /* Article prose */
+  .prose{max-width:42rem;margin:0 auto}
+  .prose h2{font-family:"Noto Serif SC",serif;font-size:1.75rem;font-weight:700;margin:2.5rem 0 1rem;color:#16242E}
+  .prose h3{font-family:"Noto Serif SC",serif;font-size:1.35rem;font-weight:600;margin:2rem 0 0.75rem;color:#16242E}
+  .prose p{font-size:1.0625rem;line-height:1.85;color:#5A6670;margin:0 0 1.25rem}
+  .prose ul,.prose ol{margin:0 0 1.25rem 1.5rem;color:#5A6670}
+  .prose li{font-size:1.0625rem;line-height:1.85;margin-bottom:0.5rem}
+  .prose strong{color:#16242E}
+  .prose a{color:#A8443B;text-decoration:underline;text-underline-offset:2px}
+  .prose a:hover{color:#B6883A}
+  .prose blockquote{border-left:3px solid #B6883A;padding:0.5rem 0 0.5rem 1.25rem;margin:1.5rem 0;font-style:italic;color:#5A6670;background:rgba(182,136,58,0.06);border-radius:0 0.5rem 0.5rem 0}
+  .prose img{border-radius:0.75rem;margin:2rem auto;display:block;max-width:100%;height:auto}
+  .prose .callout{background:rgba(168,68,59,0.06);border:1px solid rgba(168,68,59,0.15);border-radius:0.75rem;padding:1rem 1.25rem;margin:1.5rem 0;font-size:0.95rem}
+</style>

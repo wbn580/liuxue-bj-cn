@@ -1,0 +1,30 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <BaseHead title="页面未找到" description="抱歉，您访问的页面不存在。" />
+</head>
+<body>
+  <Header />
+  <main>
+    <section class="py-24 lg:py-32 bg-[#F6F1E7] lattice-bg">
+      <div class="max-w-xl mx-auto px-5 text-center">
+        <span class="seal-stamp text-[#B6883A] text-5xl font-serif-cn block mb-6">肆零肆</span>
+        <h1 class="font-serif-cn font-black text-3xl lg:text-4xl text-[#16242E] mb-4">页面未找到</h1>
+        <p class="text-[#5A6670] text-lg leading-relaxed mb-8">您要找的内容可能已移动，或链接地址有误。不如从首页重新开始？</p>
+        <div class="gold-line max-w-xs mx-auto mb-8"></div>
+        <a href="/" class="inline-flex items-center gap-2 bg-[#7A2E2A] hover:bg-[#A8443B] text-[#F6F1E7] px-6 py-3 rounded-lg font-medium transition" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 12l9-9 9 9M5 10v10a1 1 0 001 1h3m4 0h3a1 1 0 001-1V10"/></svg>
+          返回首页
+        </a>
+      </div>
+    </section>
+  </main>
+  <Footer />
+</body>
+</html>

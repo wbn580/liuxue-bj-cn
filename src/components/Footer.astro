@@ -1,0 +1,53 @@
+---
+const currentYear = new Date().getFullYear();
+---
+<footer class="bg-[#16242E] text-[#F6F1E7]/70">
+  <div class="max-w-7xl mx-auto px-5 lg:px-8 py-14">
+    <div class="grid md:grid-cols-4 gap-10">
+      <div class="md:col-span-2">
+        <div class="flex items-center gap-3 mb-4">
+          <span class="grid place-items-center w-10 h-10 rounded-md bg-[#7A2E2A] text-[#F6F1E7] seal-stamp text-lg font-serif-cn" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">京</span>
+          <span class="font-serif-cn font-bold text-[#F6F1E7] text-lg">北京留学网</span>
+        </div>
+        <p class="text-sm leading-relaxed max-w-md mb-5">面向北京家庭与学生的本地化留学站——国际部与国际学校、海归落户政策、京内升学与留学资源，把世界讲成北京家庭听得懂的话。</p>
+        <p class="text-sm leading-relaxed text-[#F6F1E7]/55 max-w-md">
+          需要更深入的一对一规划？本站内容由
+          <a href="#" class="text-[#C9A24B] hover:text-[#B6883A] underline underline-offset-2 transition">UNILINK</a>
+          提供专业留学支持，可在对话中说明你的情况，我们会帮你对接合适的顾问资源。
+        </p>
+      </div>
+      <div>
+        <h4 class="text-[#F6F1E7] font-semibold mb-4">快速导航</h4>
+        <ul class="space-y-2.5 text-sm">
+          <li><a href="/#intl-school" class="hover:text-[#C9A24B] transition">国际部 / 国际学校</a></li>
+          <li><a href="/#luohu" class="hover:text-[#C9A24B] transition">海归落户政策</a></li>
+          <li><a href="/#stages" class="hover:text-[#C9A24B] transition">分阶段留学</a></li>
+          <li><a href="/#resource" class="hover:text-[#C9A24B] transition">京内留学资源</a></li>
+          <li><a href="/category/intl-schools/" class="hover:text-[#C9A24B] transition">择校文章</a></li>
+          <li><a href="/category/luohu/" class="hover:text-[#C9A24B] transition">落户政策</a></li>
+          <li><a href="/about/" class="hover:text-[#C9A24B] transition">关于本站</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4 class="text-[#F6F1E7] font-semibold mb-4">联系我们</h4>
+        <ul class="space-y-2.5 text-sm">
+          <li class="flex items-center gap-2">
+            <svg class="w-4 h-4 text-[#C9A24B]" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 8l9 6 9-6M3 8v10h18V8M3 8l9-4 9 4"/></svg>
+            <a href="mailto:contact@liuxue.bj.cn" class="hover:text-[#C9A24B] transition">contact@liuxue.bj.cn</a>
+          </li>
+          <li class="flex items-center gap-2">
+            <svg class="w-4 h-4 text-[#C9A24B]" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a2 2 0 01-2.828 0l-4.243-4.243a8 8 0 1111.314 0z"/><circle cx="12" cy="11" r="2.5"/></svg>
+            <span>北京</span>
+          </li>
+          <li class="pt-2">
+            <button onclick="openChat()" class="text-[#C9A24B] hover:text-[#B6883A] transition">在线咨询京小留 →</button>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="border-t border-white/10 mt-10 pt-6 flex flex-col sm:flex-row justify-between items-center gap-3 text-xs text-[#F6F1E7]/45">
+      <span>&copy; {currentYear} 北京留学网 liuxue.bj.cn · 本站内容仅供参考，政策口径以官方最新发布为准</span>
+      <span class="seal-stamp">扎根北京 · 服务留学家庭</span>
+    </div>
+  </div>
+</footer>

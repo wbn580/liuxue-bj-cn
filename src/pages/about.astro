@@ -1,0 +1,64 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import ChatWidget from '../components/ChatWidget.astro';
+---
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <BaseHead title="关于本站" description="北京留学网的编辑取向与内容准则——面向北京家庭，提供本地化、可靠的留学信息。" />
+</head>
+<body>
+  <Header />
+  <main>
+    <section class="py-16 lg:py-20">
+      <div class="max-w-3xl mx-auto px-5 lg:px-8">
+        <nav class="text-sm text-[#5A6670] mb-8">
+          <a href="/" class="hover:text-[#A8443B] transition">首页</a>
+          <span class="mx-2">/</span>
+          <span class="text-[#16242E]">关于本站</span>
+        </nav>
+        
+        <h1 class="font-serif-cn font-black text-3xl lg:text-4xl text-[#16242E] mb-6">关于本站</h1>
+        <div class="gold-line mb-10"></div>
+
+        <div class="prose max-w-none">
+          <p class="text-[#5A6670] text-lg leading-relaxed mb-6">
+            北京留学网（liuxue.bj.cn）是一个面向北京家庭的本地化留学信息站点。我们关注的三件事：国际部与国际学校怎么选、海归落户政策怎么理解、从中学到硕士的留学规划如何一步步推进。
+          </p>
+
+          <h2 class="font-serif-cn text-2xl font-bold text-[#16242E] mt-10 mb-4">编辑取向</h2>
+          <p class="text-[#5A6670] leading-relaxed mb-4">
+            本站的内容生产遵循三个原则：一是本地化——所有选题都围绕北京家庭的实际关切展开，不泛泛而谈；二是可执行——每篇文章都力求提供可落地的信息线索与行动路径；三是保持克制——涉及政策、分数线等敏感内容时，优先标注"以官方最新口径为准"，不编造精确数字。
+          </p>
+          <p class="text-[#5A6670] leading-relaxed mb-4">
+            我们相信留学信息应该被讲清楚、讲透彻，而不是被包装成焦虑。北京家庭的留学需求有很强的地域性——从公办国际部的录取逻辑，到海归落户的窗口期，都不是通用攻略能覆盖的。本站的存在，就是把这些"北京才有的问题"逐一梳理出来。
+          </p>
+
+          <h2 class="font-serif-cn text-2xl font-bold text-[#16242E] mt-10 mb-4">内容范围</h2>
+          <ul class="text-[#5A6670] space-y-2 mb-6">
+            <li>北京国际部与国际学校的类型、入学路径与择校思路</li>
+            <li>留学回国人员落户北京的政策分析与规划建议</li>
+            <li>中学、本科、硕士三阶段的留学路径规划</li>
+            <li>北京本地的认证办理、展会信息与行前资源</li>
+            <li>北京家庭在留学决策中的常见问题与解答</li>
+          </ul>
+
+          <h2 class="font-serif-cn text-2xl font-bold text-[#16242E] mt-10 mb-4">免责声明</h2>
+          <p class="text-[#5A6670] leading-relaxed mb-4">
+            本站内容仅供信息参考，不构成法律、移民或教育建议。各校招生政策、落户条件与材料要求每年可能调整，请以相关主管部门与院校的官方最新公告为准。
+          </p>
+
+          <div class="callout">
+            <p class="text-[#16242E] text-sm">如需更深入的一对一规划，可通过页面右下角的聊天功能联系我们的顾问团队。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <Footer />
+  <ChatWidget />
+</body>
+</html>

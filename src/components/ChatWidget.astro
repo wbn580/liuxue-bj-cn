@@ -1,0 +1,95 @@
+<!-- 聊天 Widget (演示用) -->
+<!-- 悬浮气泡 -->
+<button id="chatBubble" onclick="openChat()" aria-label="打开聊天" class="fixed bottom-6 right-6 z-50 group">
+  <span class="relative grid place-items-center w-16 h-16 rounded-full bg-[#7A2E2A] text-[#F6F1E7] hover:bg-[#A8443B] transition" style="box-shadow:0 18px 50px -16px rgba(22,36,46,0.28)">
+    <span class="absolute -top-0.5 -right-0.5 w-4 h-4 rounded-full bg-emerald-400 border-2 border-[#F6F1E7] pulse-dot"></span>
+    <svg class="w-7 h-7" fill="none" stroke="currentColor" stroke-width="1.7" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M8 12h8M8 8h8m-8 8h5m4-13H5a2 2 0 00-2 2v14l4-4h12a2 2 0 002-2V5a2 2 0 00-2-2z"/></svg>
+  </span>
+</button>
+
+<!-- 聊天面板 -->
+<div id="chatPanel" class="fixed bottom-6 right-6 z-50 w-[calc(100vw-3rem)] sm:w-96 max-w-sm opacity-0 pointer-events-none translate-y-4">
+  <div class="bg-white rounded-2xl overflow-hidden flex flex-col shadow-lg" style="height:min(560px,80vh);box-shadow:0 18px 50px -16px rgba(22,36,46,0.28)">
+    <!-- 头部 -->
+    <div class="hero-gradient text-[#F6F1E7] p-4 flex items-center gap-3">
+      <div class="relative">
+        <span class="grid place-items-center w-11 h-11 rounded-full bg-[#B6883A] text-[#16242E] font-serif-cn font-bold" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">京</span>
+        <span class="absolute -bottom-0.5 -right-0.5 w-3.5 h-3.5 rounded-full bg-emerald-400 border-2 border-[#16242E]"></span>
+      </div>
+      <div class="flex-1 leading-tight">
+        <div class="font-serif-cn font-bold flex items-center gap-2">京小留 <span class="text-[10px] font-sans font-normal text-emerald-300 bg-emerald-400/15 px-1.5 py-0.5 rounded">在线</span></div>
+        <div class="text-[#F6F1E7]/60 text-xs">北京留学 · 本地化助手</div>
+      </div>
+      <button onclick="closeChat()" aria-label="关闭" class="text-[#F6F1E7]/70 hover:text-[#F6F1E7] p-1">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <!-- 消息区 -->
+    <div id="chatMsgs" class="flex-1 overflow-y-auto p-4 space-y-3 bg-[#F6F1E7]/40">
+      <div class="flex gap-2">
+        <span class="grid place-items-center w-8 h-8 rounded-full bg-[#7A2E2A] text-[#F6F1E7] text-xs shrink-0 font-serif-cn">京</span>
+        <div class="bg-white rounded-2xl rounded-tl-sm p-3 text-[14px] text-[#16242E]/90 leading-relaxed shadow-soft max-w-[85%]">
+          你好呀，我是京小留 👋 北京家庭的留学小助手。<br>国际部怎么选、海归落户怎么算、中本硕怎么规划——都可以问我。需要更深入的一对一方案，我也能帮你对接 UNILINK 的顾问资源。
+        </div>
+      </div>
+    </div>
+    <!-- 快捷问题 -->
+    <div class="px-4 pb-2 flex flex-wrap gap-2">
+      <button onclick="quickAsk(this)" class="text-xs bg-[#EDE6D6] hover:bg-[#B6883A]/20 text-[#16242E]/80 px-3 py-1.5 rounded-full transition">国际部怎么选？</button>
+      <button onclick="quickAsk(this)" class="text-xs bg-[#EDE6D6] hover:bg-[#B6883A]/20 text-[#16242E]/80 px-3 py-1.5 rounded-full transition">海归落户条件？</button>
+      <button onclick="quickAsk(this)" class="text-xs bg-[#EDE6D6] hover:bg-[#B6883A]/20 text-[#16242E]/80 px-3 py-1.5 rounded-full transition">高一转轨来得及吗？</button>
+    </div>
+    <!-- 输入区 -->
+    <div class="p-3 border-t border-[#16242E]/10 bg-white flex items-center gap-2">
+      <input id="chatInput" type="text" placeholder="输入你的留学问题…" class="flex-1 bg-[#F6F1E7]/60 border border-[#16242E]/10 rounded-full px-4 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-[#B6883A]/40">
+      <button onclick="sendMsg()" aria-label="发送" class="grid place-items-center w-10 h-10 rounded-full bg-[#7A2E2A] hover:bg-[#A8443B] text-[#F6F1E7] transition shrink-0">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 12l14-7-4 14-3-5-7-2z"/></svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  const panel = document.getElementById('chatPanel');
+  const bubble = document.getElementById('chatBubble');
+  function openChat(){
+    panel.classList.remove('opacity-0','pointer-events-none','translate-y-4');
+    bubble.style.display='none';
+    setTimeout(()=>document.getElementById('chatInput').focus(),200);
+  }
+  function closeChat(){
+    panel.classList.add('opacity-0','pointer-events-none','translate-y-4');
+    bubble.style.display='block';
+  }
+  function pushMsg(text, who){
+    const wrap=document.createElement('div');
+    if(who==='user'){
+      wrap.className='flex justify-end';
+      wrap.innerHTML='<div class="bg-[#B6883A] text-[#16242E] rounded-2xl rounded-tr-sm p-3 text-[14px] leading-relaxed shadow-soft max-w-[85%]">'+text+'</div>';
+    }else{
+      wrap.className='flex gap-2';
+      wrap.innerHTML='<span class="grid place-items-center w-8 h-8 rounded-full bg-[#7A2E2A] text-[#F6F1E7] text-xs shrink-0 font-serif-cn">京</span><div class="bg-white rounded-2xl rounded-tl-sm p-3 text-[14px] text-[#16242E]/90 leading-relaxed shadow-soft max-w-[85%]">'+text+'</div>';
+    }
+    document.getElementById('chatMsgs').appendChild(wrap);
+    document.getElementById('chatMsgs').scrollTop=999999;
+  }
+  function botReply(){
+    setTimeout(()=>pushMsg('这是预览演示界面～ 真实站点上线后，我会结合北京本地政策与院校信息，给你更具体的建议。先告诉我孩子目前所处的阶段和目标国家吧？',''),500);
+  }
+  function sendMsg(){
+    const inp=document.getElementById('chatInput');
+    const v=inp.value.trim();
+    if(!v)return;
+    pushMsg(v,'user');inp.value='';botReply();
+  }
+  function quickAsk(btn){
+    const v=btn.textContent.trim();
+    pushMsg(v,'user');
+    botReply();
+  }
+  // Scroll-triggered fade-up animation
+  const observer=new IntersectionObserver((entries)=>{
+    entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in')})
+  },{threshold:0.15});
+  document.querySelectorAll('.fade-up').forEach(el=>observer.observe(el));
+</script>

@@ -1,0 +1,417 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import ChatWidget from '../components/ChatWidget.astro';
+---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <BaseHead />
+</head>
+<body class="font-sans">
+  <Header />
+
+  <main id="top">
+
+    <!-- ===== HERO ===== -->
+    <section class="hero-gradient text-[#F6F1E7] relative overflow-hidden">
+      <div class="absolute inset-0 lattice-bg opacity-40"></div>
+      <!-- 天际线 SVG -->
+      <svg class="absolute bottom-0 left-0 w-full opacity-[0.13]" viewBox="0 0 1440 200" preserveAspectRatio="none" aria-hidden="true">
+        <path d="M0 200 L0 150 L60 150 L60 120 L110 120 L110 150 L180 150 L180 90 L210 70 L240 90 L240 150 L320 150 L320 110 L360 110 L360 60 L380 45 L400 60 L400 110 L470 110 L470 150 L560 150 L560 100 L620 100 L620 150 L720 150 L720 80 L760 80 L760 130 L840 130 L840 150 L940 150 L940 95 L1000 95 L1000 150 L1100 150 L1100 115 L1180 115 L1180 150 L1280 150 L1280 130 L1360 130 L1360 150 L1440 150 L1440 200 Z" fill="#C9A24B"/>
+      </svg>
+
+      <div class="relative max-w-7xl mx-auto px-5 lg:px-8 py-20 lg:py-28 grid lg:grid-cols-12 gap-10 items-center">
+        <div class="lg:col-span-7">
+          <span class="inline-flex items-center gap-2 text-[#C9A24B] text-sm tracking-widest mb-5 seal-stamp">
+            <span class="w-6 h-px bg-[#C9A24B]"></span>立足北京 · 本地化留学
+          </span>
+          <h1 class="font-serif-cn font-black text-4xl sm:text-5xl lg:text-[56px] leading-[1.15] mb-6">
+            北京家庭的<br class="hidden sm:block">本地化留学指南
+          </h1>
+          <p class="text-[#F6F1E7]/80 text-lg leading-relaxed max-w-xl mb-8">
+            国际部与国际学校怎么选、海归落户政策怎么算、京内升学与留学资源在哪里——
+            把北京家庭最关心的问题，讲清楚、讲透彻。
+          </p>
+
+          <!-- Hero CTA -->
+          <div class="bg-[#F6F1E7]/95 rounded-xl p-2 flex flex-col sm:flex-row gap-2 max-w-xl" style="box-shadow:0 18px 50px -16px rgba(22,36,46,0.28)">
+            <button onclick="openChat()" class="flex-1 flex items-center gap-3 text-left px-4 py-3 rounded-lg hover:bg-[#EDE6D6] transition group">
+              <span class="grid place-items-center w-9 h-9 rounded-full bg-[#7A2E2A] text-[#F6F1E7] text-sm shrink-0">京</span>
+              <span class="text-[#5A6670] group-hover:text-[#16242E]">比如：海淀某中学国际部 vs 朝阳国际学校怎么选？</span>
+            </button>
+            <button onclick="openChat()" class="bg-[#B6883A] hover:bg-[#C9A24B] text-[#16242E] font-semibold px-6 py-3 rounded-lg whitespace-nowrap transition" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+              立即提问
+            </button>
+          </div>
+          <div class="flex flex-wrap gap-x-6 gap-y-2 mt-6 text-[#F6F1E7]/60 text-sm">
+            <span>· 北京国际部 / 国际学校</span>
+            <span>· 海归落户要点</span>
+            <span>· 中本硕分阶段规划</span>
+          </div>
+        </div>
+
+        <!-- Hero 右侧卡片 -->
+        <div class="lg:col-span-5">
+          <div class="bg-[#16242E]/40 border border-[#C9A24B]/30 rounded-2xl p-6 backdrop-blur" style="box-shadow:0 18px 50px -16px rgba(22,36,46,0.28)">
+            <div class="flex items-center justify-between mb-5">
+              <span class="font-serif-cn text-[#C9A24B] text-lg">今日关注</span>
+              <span class="text-[#F6F1E7]/50 text-xs">北京家庭高频问题</span>
+            </div>
+            <ul class="space-y-3 text-[#F6F1E7]/85 text-[15px]">
+              <li class="flex gap-3"><span class="text-[#B6883A]">①</span> 公办国际部与民办国际学校，路径有何不同？</li>
+              <li class="flex gap-3"><span class="text-[#B6883A]">②</span> 海归落户北京，需要满足哪些基本条件？</li>
+              <li class="flex gap-3"><span class="text-[#B6883A]">③</span> 高一转轨国际方向，时间还来得及吗？</li>
+              <li class="flex gap-3"><span class="text-[#B6883A]">④</span> 本科直申与预科，分别适合什么孩子？</li>
+            </ul>
+            <button onclick="openChat()" class="mt-6 w-full bg-[#F6F1E7] text-[#16242E] font-medium py-3 rounded-lg hover:bg-[#EDE6D6] transition">
+              展开和「京小留」聊一聊 →
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 国际部 / 国际学校 ===== -->
+    <section id="intl-school" class="py-20 lg:py-24 bg-[#F6F1E7] lattice-bg">
+      <div class="max-w-7xl mx-auto px-5 lg:px-8">
+        <div class="flex items-end justify-between flex-wrap gap-4 mb-12 fade-up">
+          <div>
+            <span class="seal-stamp text-[#A8443B] text-sm tracking-widest">北京升学第一步</span>
+            <h2 class="font-serif-cn font-bold text-3xl lg:text-4xl text-[#16242E] mt-2">国际部 · 国际学校</h2>
+          </div>
+          <a href="/category/intl-schools/" class="text-[#5A6670] max-w-md text-[15px] hover:text-[#A8443B] transition">
+            公办国际部、民办国际学校、外籍人员子女学校——先弄清楚类型与门槛，再谈选校。浏览文章 →
+          </a>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-6">
+          <article class="card-hover bg-white rounded-2xl p-7 border-t-4 border-[#7A2E2A] fade-up" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <div class="w-12 h-12 rounded-xl bg-[#7A2E2A]/10 grid place-items-center mb-5">
+              <svg class="w-6 h-6 text-[#7A2E2A]" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-6h6v6"/></svg>
+            </div>
+            <h3 class="font-serif-cn font-bold text-xl text-[#16242E] mb-2">公办高中国际部</h3>
+            <p class="text-[#5A6670] text-[15px] leading-relaxed mb-4">海淀、西城、朝阳等区重点中学开设，多走中考提前批录取，课程含 A-Level / IB / AP 等方向。</p>
+            <ul class="text-sm text-[#16242E]/70 space-y-1.5">
+              <li>· 入学多与中考成绩挂钩</li>
+              <li>· 学籍与升学路径需提前确认</li>
+              <li>· 适合学业基础扎实的家庭</li>
+            </ul>
+          </article>
+
+          <article class="card-hover bg-white rounded-2xl p-7 border-t-4 border-[#B6883A] fade-up" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <div class="w-12 h-12 rounded-xl bg-[#B6883A]/10 grid place-items-center mb-5">
+              <svg class="w-6 h-6 text-[#B6883A]" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v18M3 8l9-5 9 5M5 12h14M7 16h10"/></svg>
+            </div>
+            <h3 class="font-serif-cn font-bold text-xl text-[#16242E] mb-2">民办国际学校</h3>
+            <p class="text-[#5A6670] text-[15px] leading-relaxed mb-4">招生政策相对灵活，课程体系多元，部分学校接受非京籍学生，入学含笔试面试评估。</p>
+            <ul class="text-sm text-[#16242E]/70 space-y-1.5">
+              <li>· 课程与升学方向较多样</li>
+              <li>· 入学评估与学费差异较大</li>
+              <li>· 适合早规划国际路径家庭</li>
+            </ul>
+          </article>
+
+          <article class="card-hover bg-white rounded-2xl p-7 border-t-4 border-[#2E6B5E] fade-up" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <div class="w-12 h-12 rounded-xl bg-[#2E6B5E]/10 grid place-items-center mb-5">
+              <svg class="w-6 h-6 text-[#2E6B5E]" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path stroke-linecap="round" d="M3 12h18M12 3a14 14 0 010 18M12 3a14 14 0 000 18"/></svg>
+            </div>
+            <h3 class="font-serif-cn font-bold text-xl text-[#16242E] mb-2">外籍子女学校</h3>
+            <p class="text-[#5A6670] text-[15px] leading-relaxed mb-4">面向具备相应身份条件的家庭，课程国际化程度高，招生资格要求需以学校最新通知为准。</p>
+            <ul class="text-sm text-[#16242E]/70 space-y-1.5">
+              <li>· 招生资格有身份要求</li>
+              <li>· 课程与语言环境国际化</li>
+              <li>· 适合有相应背景的家庭</li>
+            </ul>
+          </article>
+        </div>
+
+        <p class="text-xs text-[#5A6670] mt-6">注：各校招生政策、学籍与升学口径以学校及主管部门最新公告为准。</p>
+      </div>
+    </section>
+
+    <!-- ===== 海归落户政策 ===== -->
+    <section id="luohu" class="py-20 lg:py-24 bg-[#16242E] text-[#F6F1E7] relative overflow-hidden">
+      <div class="absolute inset-0 lattice-bg opacity-20"></div>
+      <div class="relative max-w-7xl mx-auto px-5 lg:px-8">
+        <div class="max-w-3xl mb-12 fade-up">
+          <span class="seal-stamp text-[#C9A24B] text-sm tracking-widest">回京发展第一关</span>
+          <h2 class="font-serif-cn font-bold text-3xl lg:text-4xl mt-2 mb-4">海归落户北京 · 政策要点</h2>
+          <p class="text-[#F6F1E7]/70 text-[15px] leading-relaxed">留学回国人员落户北京，通常围绕学历层次、海外学习时长、回国时间窗口、用人单位资质等维度评估。下列为常见关注点，<span class="text-[#C9A24B]">具体条件、年限与材料清单以北京市最新官方政策为准</span>。</p>
+        </div>
+
+        <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-5">
+          <div class="bg-white/5 border border-[#C9A24B]/20 rounded-xl p-6 fade-up">
+            <span class="seal-stamp text-[#B6883A] text-2xl font-serif-cn">壹</span>
+            <h3 class="font-bold text-lg mt-3 mb-2">学历与学位</h3>
+            <p class="text-[#F6F1E7]/65 text-sm leading-relaxed">通常对取得的海外学历层次有要求，并需完成学历学位认证。</p>
+          </div>
+          <div class="bg-white/5 border border-[#C9A24B]/20 rounded-xl p-6 fade-up">
+            <span class="seal-stamp text-[#B6883A] text-2xl font-serif-cn">贰</span>
+            <h3 class="font-bold text-lg mt-3 mb-2">海外学习时长</h3>
+            <p class="text-[#F6F1E7]/65 text-sm leading-relaxed">对在外实际学习时间往往设有最低要求，建议保留出入境与在读记录。</p>
+          </div>
+          <div class="bg-white/5 border border-[#C9A24B]/20 rounded-xl p-6 fade-up">
+            <span class="seal-stamp text-[#B6883A] text-2xl font-serif-cn">叁</span>
+            <h3 class="font-bold text-lg mt-3 mb-2">回国时间窗口</h3>
+            <p class="text-[#F6F1E7]/65 text-sm leading-relaxed">毕业后回国与申请的时间间隔常被纳入考量，需关注时效要求。</p>
+          </div>
+          <div class="bg-white/5 border border-[#C9A24B]/20 rounded-xl p-6 fade-up">
+            <span class="seal-stamp text-[#B6883A] text-2xl font-serif-cn">肆</span>
+            <h3 class="font-bold text-lg mt-3 mb-2">用人单位资质</h3>
+            <p class="text-[#F6F1E7]/65 text-sm leading-relaxed">是否具备接收落户资质的用人单位，往往是关键环节之一。</p>
+          </div>
+        </div>
+
+        <div class="mt-8 flex flex-col sm:flex-row items-start sm:items-center gap-4 bg-[#B6883A]/15 border border-[#B6883A]/30 rounded-xl p-5 fade-up">
+          <svg class="w-6 h-6 text-[#C9A24B] shrink-0" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v4m0 4h.01M10.3 3.86l-8 14A2 2 0 004 21h16a2 2 0 001.7-3.14l-8-14a2 2 0 00-3.4 0z"/></svg>
+          <p class="text-[#F6F1E7]/85 text-sm flex-1">政策口径每年可能调整，本页不提供精确分值或具体年限。规划落户前，请以官方最新文件为准，或先把你的情况说清楚——</p>
+          <button onclick="openChat()" class="bg-[#F6F1E7] text-[#16242E] font-medium px-5 py-2.5 rounded-lg hover:bg-[#EDE6D6] transition whitespace-nowrap">问问京小留</button>
+        </div>
+
+        <div class="mt-8 text-center">
+          <a href="/category/luohu/" class="inline-flex items-center gap-2 text-[#C9A24B] hover:text-[#B6883A] transition text-[15px]">
+            浏览海归落户全部分析文章 →
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 分阶段留学 ===== -->
+    <section id="stages" class="py-20 lg:py-24 bg-[#F6F1E7] lattice-bg">
+      <div class="max-w-7xl mx-auto px-5 lg:px-8">
+        <div class="text-center max-w-2xl mx-auto mb-14 fade-up">
+          <span class="seal-stamp text-[#A8443B] text-sm tracking-widest">按孩子所处阶段分流</span>
+          <h2 class="font-serif-cn font-bold text-3xl lg:text-4xl text-[#16242E] mt-2 mb-3">你的孩子在哪一步？</h2>
+          <p class="text-[#5A6670] text-[15px]">不同阶段，规划重点完全不同。选一条最贴近的路径开始。</p>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-6">
+          <!-- 中学 -->
+          <a href="/category/stages/?stage=middle" class="card-hover text-left bg-gradient-to-br from-white to-[#EDE6D6] rounded-2xl p-8 border border-[#16242E]/5 fade-up block" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <div class="flex items-center justify-between mb-5">
+              <span class="seal-stamp text-[#7A2E2A] font-serif-cn text-xl">中学留学</span>
+              <span class="text-3xl">🎒</span>
+            </div>
+            <p class="text-[#5A6670] text-[15px] leading-relaxed mb-5">低龄留学与转轨规划：是先读北京国际部过渡，还是直接申请海外中学？关注监护、适应与衔接。</p>
+            <ul class="text-sm text-[#16242E]/70 space-y-1.5 mb-6">
+              <li>· 国际部 / 海外中学路径对比</li>
+              <li>· 语言与课程衔接</li>
+              <li>· 家长陪读与监护安排</li>
+            </ul>
+            <span class="text-[#7A2E2A] font-medium text-sm">规划中学路径 →</span>
+          </a>
+
+          <!-- 本科 -->
+          <a href="/category/stages/?stage=undergrad" class="card-hover text-left bg-gradient-to-br from-white to-[#EDE6D6] rounded-2xl p-8 border border-[#16242E]/5 fade-up block" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <div class="flex items-center justify-between mb-5">
+              <span class="seal-stamp text-[#B6883A] font-serif-cn text-xl">本科留学</span>
+              <span class="text-3xl">🎓</span>
+            </div>
+            <p class="text-[#5A6670] text-[15px] leading-relaxed mb-5">高考后 / 国际课程体系下的本科申请：直申、预科、双录取分别适合什么基础，时间线如何倒排。</p>
+            <ul class="text-sm text-[#16242E]/70 space-y-1.5 mb-6">
+              <li>· 直申 vs 预科路径</li>
+              <li>· 申请季时间线</li>
+              <li>· 文书与背景提升</li>
+            </ul>
+            <span class="text-[#B6883A] font-medium text-sm">规划本科路径 →</span>
+          </a>
+
+          <!-- 硕士 -->
+          <a href="/category/stages/?stage=master" class="card-hover text-left bg-gradient-to-br from-white to-[#EDE6D6] rounded-2xl p-8 border border-[#16242E]/5 fade-up block" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <div class="flex items-center justify-between mb-5">
+              <span class="seal-stamp text-[#2E6B5E] font-serif-cn text-xl">硕士留学</span>
+              <span class="text-3xl">📚</span>
+            </div>
+            <p class="text-[#5A6670] text-[15px] leading-relaxed mb-5">在职 / 应届读研：选校定位、跨专业可行性、申请材料，兼顾未来回京发展与落户考量。</p>
+            <ul class="text-sm text-[#16242E]/70 space-y-1.5 mb-6">
+              <li>· 选校与专业定位</li>
+              <li>· 跨专业申请评估</li>
+              <li>· 衔接回京落户规划</li>
+            </ul>
+            <span class="text-[#2E6B5E] font-medium text-sm">规划硕士路径 →</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 京内留学资源 ===== -->
+    <section id="resource" class="py-20 lg:py-24 bg-[#EDE6D6]">
+      <div class="max-w-7xl mx-auto px-5 lg:px-8">
+        <div class="grid lg:grid-cols-2 gap-12 items-center">
+          <div class="fade-up">
+            <span class="seal-stamp text-[#A8443B] text-sm tracking-widest">就在你身边</span>
+            <h2 class="font-serif-cn font-bold text-3xl lg:text-4xl text-[#16242E] mt-2 mb-5">京内留学资源 · 线下场景</h2>
+            <p class="text-[#5A6670] text-[15px] leading-relaxed mb-8">从认证办理到签证准备，从展会信息到行前指导——北京的本地资源，比你想的更近。我们帮你把分散在各处的信息串成一条清晰的线。</p>
+
+            <div class="space-y-4">
+              <div class="flex gap-4 bg-white rounded-xl p-5" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+                <span class="grid place-items-center w-11 h-11 rounded-lg bg-[#7A2E2A]/10 text-[#7A2E2A] shrink-0">
+                  <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                </span>
+                <div>
+                  <h3 class="font-bold text-[#16242E] mb-1">学历认证与材料办理</h3>
+                  <p class="text-[#5A6670] text-sm">认证流程、所需材料与办理渠道，提前理清不踩坑。</p>
+                </div>
+              </div>
+              <div class="flex gap-4 bg-white rounded-xl p-5" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+                <span class="grid place-items-center w-11 h-11 rounded-lg bg-[#B6883A]/10 text-[#B6883A] shrink-0">
+                  <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 7h18M3 7l2 12a2 2 0 002 2h10a2 2 0 002-2l2-12M8 7V5a4 4 0 018 0v2"/></svg>
+                </span>
+                <div>
+                  <h3 class="font-bold text-[#16242E] mb-1">展会与宣讲信息</h3>
+                  <p class="text-[#5A6670] text-sm">北京本地留学展、院校宣讲与开放日的关注路径。</p>
+                </div>
+              </div>
+              <div class="flex gap-4 bg-white rounded-xl p-5" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+                <span class="grid place-items-center w-11 h-11 rounded-lg bg-[#2E6B5E]/10 text-[#2E6B5E] shrink-0">
+                  <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 19l9-7-9-7-9 7 9 7zm0 0v-8"/></svg>
+                </span>
+                <div>
+                  <h3 class="font-bold text-[#16242E] mb-1">行前与落地指导</h3>
+                  <p class="text-[#5A6670] text-sm">签证准备、行李清单到海外初期适应的本地化建议。</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- 右侧：京味儿插画卡 -->
+          <div class="fade-up">
+            <div class="relative rounded-2xl overflow-hidden bg-[#16242E] aspect-[4/5]" style="box-shadow:0 18px 50px -16px rgba(22,36,46,0.28)">
+              <svg class="absolute inset-0 w-full h-full" viewBox="0 0 400 500" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+                <defs>
+                  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0" stop-color="#1C2E3A"/>
+                    <stop offset="1" stop-color="#16242E"/>
+                  </linearGradient>
+                  <linearGradient id="goldg" x1="0" y1="0" x2="1" y2="1">
+                    <stop offset="0" stop-color="#C9A24B"/>
+                    <stop offset="1" stop-color="#B6883A"/>
+                  </linearGradient>
+                </defs>
+                <rect width="400" height="500" fill="url(#sky)"/>
+                <g stroke="#C9A24B" stroke-opacity="0.12" stroke-width="1">
+                  <line x1="0" y1="120" x2="400" y2="120"/><line x1="0" y1="170" x2="400" y2="170"/>
+                  <line x1="100" y1="80" x2="100" y2="500"/><line x1="200" y1="80" x2="200" y2="500"/><line x1="300" y1="80" x2="300" y2="500"/>
+                </g>
+                <g fill="url(#goldg)" opacity="0.9">
+                  <path d="M120 300 L200 250 L280 300 L280 320 L120 320 Z"/>
+                  <rect x="135" y="320" width="130" height="90"/>
+                  <path d="M110 300 Q120 290 135 300 L135 308 L110 308 Z"/>
+                  <path d="M290 300 Q280 290 265 300 L265 308 L290 308 Z"/>
+                  <path d="M150 260 L200 230 L250 260 L250 272 L150 272 Z"/>
+                </g>
+                <rect x="185" y="350" width="30" height="60" rx="15" fill="#16242E"/>
+                <circle cx="160" cy="345" r="6" fill="#A8443B"/>
+                <circle cx="240" cy="345" r="6" fill="#A8443B"/>
+                <g fill="#C9A24B">
+                  <circle cx="60" cy="70" r="2"/><circle cx="340" cy="100" r="1.5"/><circle cx="300" cy="55" r="2"/><circle cx="90" cy="140" r="1.5"/>
+                </g>
+              </svg>
+              <div class="absolute bottom-0 inset-x-0 p-7 bg-gradient-to-t from-[#16242E] to-transparent">
+                <span class="seal-stamp text-[#C9A24B] text-sm">扎根北京 · 放眼世界</span>
+                <p class="text-[#F6F1E7] font-serif-cn text-xl font-bold mt-1">把世界，讲成北京家庭听得懂的话</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 热门问答 ===== -->
+    <section id="faq" class="py-20 lg:py-24 bg-[#F6F1E7] lattice-bg">
+      <div class="max-w-4xl mx-auto px-5 lg:px-8">
+        <div class="text-center mb-12 fade-up">
+          <span class="seal-stamp text-[#A8443B] text-sm tracking-widest">北京家庭常问</span>
+          <h2 class="font-serif-cn font-bold text-3xl lg:text-4xl text-[#16242E] mt-2">热门问答</h2>
+        </div>
+
+        <div class="space-y-3">
+          <details class="group bg-white rounded-xl border border-[#16242E]/5 fade-up" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <summary class="flex items-center justify-between gap-4 p-5">
+              <span class="font-medium text-[#16242E]">公办国际部和民办国际学校，到底该怎么选？</span>
+              <span class="faq-icon text-[#B6883A] text-2xl leading-none shrink-0">+</span>
+            </summary>
+            <p class="px-5 pb-5 text-[#5A6670] text-[15px] leading-relaxed">两者在入学方式、学籍、课程体系和费用上差别明显。公办国际部多与中考挂钩、性价比高但门槛较高；民办国际学校更灵活、选择更多但需逐校评估。建议结合孩子学业基础、目标国家与家庭预算综合判断。</p>
+          </details>
+          <details class="group bg-white rounded-xl border border-[#16242E]/5 fade-up" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <summary class="flex items-center justify-between gap-4 p-5">
+              <span class="font-medium text-[#16242E]">海归落户北京，大概需要满足哪些条件？</span>
+              <span class="faq-icon text-[#B6883A] text-2xl leading-none shrink-0">+</span>
+            </summary>
+            <p class="px-5 pb-5 text-[#5A6670] text-[15px] leading-relaxed">通常会综合考虑学历层次、海外实际学习时长、毕业回国时间窗口以及接收单位资质等。具体条件、年限与材料每年可能调整，请以北京市最新官方政策为准，建议尽早保留在读与出入境记录。</p>
+          </details>
+          <details class="group bg-white rounded-xl border border-[#16242E]/5 fade-up" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <summary class="flex items-center justify-between gap-4 p-5">
+              <span class="font-medium text-[#16242E]">孩子高一了，现在转国际方向还来得及吗？</span>
+              <span class="faq-icon text-[#B6883A] text-2xl leading-none shrink-0">+</span>
+            </summary>
+            <p class="px-5 pb-5 text-[#5A6670] text-[15px] leading-relaxed">高一转轨在很多家庭中并不少见，关键看目标国家、课程体系（如 A-Level / IB / AP）的衔接节奏与语言准备。越早规划，留给标化与背景提升的时间越充裕，建议尽快把时间线倒排清楚。</p>
+          </details>
+          <details class="group bg-white rounded-xl border border-[#16242E]/5 fade-up" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <summary class="flex items-center justify-between gap-4 p-5">
+              <span class="font-medium text-[#16242E]">本科直申和预科，分别适合什么样的孩子？</span>
+              <span class="faq-icon text-[#B6883A] text-2xl leading-none shrink-0">+</span>
+            </summary>
+            <p class="px-5 pb-5 text-[#5A6670] text-[15px] leading-relaxed">直申通常要求学术与语言达到目标院校门槛；预科则为成绩或语言尚有差距、需要过渡衔接的学生提供缓冲。两者没有优劣之分，取决于孩子当前基础与目标院校要求。</p>
+          </details>
+          <details class="group bg-white rounded-xl border border-[#16242E]/5 fade-up" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <summary class="flex items-center justify-between gap-4 p-5">
+              <span class="font-medium text-[#16242E]">非京籍家庭在北京读国际学校，有哪些注意点？</span>
+              <span class="faq-icon text-[#B6883A] text-2xl leading-none shrink-0">+</span>
+            </summary>
+            <p class="px-5 pb-5 text-[#5A6670] text-[15px] leading-relaxed">部分民办国际学校与外籍人员子女学校对生源户籍或身份有不同要求，公办国际部一般门槛更高。建议优先确认目标学校当年度的招生口径，再据此安排升学路径。</p>
+          </details>
+          <details class="group bg-white rounded-xl border border-[#16242E]/5 fade-up" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <summary class="flex items-center justify-between gap-4 p-5">
+              <span class="font-medium text-[#16242E]">留学回来想在北京发展，规划阶段要注意什么？</span>
+              <span class="faq-icon text-[#B6883A] text-2xl leading-none shrink-0">+</span>
+            </summary>
+            <p class="px-5 pb-5 text-[#5A6670] text-[15px] leading-relaxed">如果未来打算回京发展，建议在选校选专业阶段就把落户相关维度纳入考量，例如学习时长与学历层次。出国前理清这些，比回国后再补救要从容得多。</p>
+          </details>
+          <details class="group bg-white rounded-xl border border-[#16242E]/5 fade-up" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <summary class="flex items-center justify-between gap-4 p-5">
+              <span class="font-medium text-[#16242E]">学历学位认证在北京怎么办，需要准备什么？</span>
+              <span class="faq-icon text-[#B6883A] text-2xl leading-none shrink-0">+</span>
+            </summary>
+            <p class="px-5 pb-5 text-[#5A6670] text-[15px] leading-relaxed">认证一般需要提供学位证书、成绩单及在外学习的相关证明材料。建议在校期间就妥善保存原始材料与记录，回国后按官方最新流程办理，避免临时补材料耽误时间。</p>
+          </details>
+          <details class="group bg-white rounded-xl border border-[#16242E]/5 fade-up" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <summary class="flex items-center justify-between gap-4 p-5">
+              <span class="font-medium text-[#16242E]">预算有限的北京家庭，留学规划如何更稳妥？</span>
+              <span class="faq-icon text-[#B6883A] text-2xl leading-none shrink-0">+</span>
+            </summary>
+            <p class="px-5 pb-5 text-[#5A6670] text-[15px] leading-relaxed">可以从国家与城市的整体生活成本、奖学金与助学机会、是否选择性价比更高的过渡路径等角度综合规划。先把总预算与目标讲清楚，再来匹配可行方案，更不容易跑偏。</p>
+          </details>
+          <details class="group bg-white rounded-xl border border-[#16242E]/5 fade-up" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <summary class="flex items-center justify-between gap-4 p-5">
+              <span class="font-medium text-[#16242E]">什么时候开始准备语言和标化考试比较合适？</span>
+              <span class="faq-icon text-[#B6883A] text-2xl leading-none shrink-0">+</span>
+            </summary>
+            <p class="px-5 pb-5 text-[#5A6670] text-[15px] leading-relaxed">原则是越早越好，给出分留出足够缓冲。具体节奏取决于目标分数、孩子基础与申请季时间点，建议按申请节点倒排出一个可执行的时间表。</p>
+          </details>
+          <details class="group bg-white rounded-xl border border-[#16242E]/5 fade-up" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <summary class="flex items-center justify-between gap-4 p-5">
+              <span class="font-medium text-[#16242E]">2026 / 2027 入学，现在着手准备会不会太早？</span>
+              <span class="faq-icon text-[#B6883A] text-2xl leading-none shrink-0">+</span>
+            </summary>
+            <p class="px-5 pb-5 text-[#5A6670] text-[15px] leading-relaxed">通常不会太早。留学是一项需要时间累积的工程——语言、标化、背景与文书都需要打磨。提前一两年规划，反而能让每一步走得更从容、选择更主动。</p>
+          </details>
+        </div>
+
+        <div class="text-center mt-10 fade-up">
+          <p class="text-[#5A6670] mb-4">没找到你的问题？直接问最快。</p>
+          <button onclick="openChat()" class="inline-flex items-center gap-2 bg-[#7A2E2A] hover:bg-[#A8443B] text-[#F6F1E7] px-6 py-3 rounded-lg font-medium transition" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+            <span class="w-2 h-2 rounded-full bg-emerald-400 pulse-dot"></span>和京小留聊聊你的情况
+          </button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <Footer />
+  <ChatWidget />
+</body>
+</html>

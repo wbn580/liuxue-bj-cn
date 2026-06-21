@@ -1,0 +1,27 @@
+---
+const currentPath = Astro.url.pathname;
+---
+<header class="sticky top-0 z-40 bg-[#F6F1E7]/90 backdrop-blur border-b border-[#16242E]/10">
+  <div class="max-w-7xl mx-auto px-5 lg:px-8 h-16 flex items-center justify-between">
+    <a href="/" class="flex items-center gap-3">
+      <span class="grid place-items-center w-10 h-10 rounded-md bg-[#7A2E2A] text-[#F6F1E7] seal-stamp text-lg font-serif-cn" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">京</span>
+      <span class="leading-tight">
+        <span class="block font-serif-cn font-bold text-[#16242E] text-[17px]">北京留学网</span>
+        <span class="block text-[11px] tracking-widest text-[#5A6670]">liuxue.bj.cn</span>
+      </span>
+    </a>
+    <nav class="hidden lg:flex items-center gap-8 text-[15px] text-[#16242E]/80 font-medium">
+      <a href="/#intl-school" class="nav-link">国际部 / 国际学校</a>
+      <a href="/#luohu" class="nav-link">海归落户</a>
+      <a href="/#stages" class="nav-link">分阶段留学</a>
+      <a href="/#resource" class="nav-link">京内资源</a>
+      <a href="/category/intl-schools/" class:list={["nav-link", currentPath === '/category/intl-schools/' ? 'text-[#B6883A]' : '']}>择校文章</a>
+      <a href="/category/luohu/" class:list={["nav-link", currentPath === '/category/luohu/' ? 'text-[#B6883A]' : '']}>落户政策</a>
+      <a href="/#faq" class="nav-link">热门问答</a>
+    </nav>
+    <button onclick="openChat()" class="inline-flex items-center gap-2 bg-[#7A2E2A] hover:bg-[#A8443B] text-[#F6F1E7] px-4 py-2 rounded-md text-sm font-medium transition" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+      <span class="w-2 h-2 rounded-full bg-emerald-400 pulse-dot"></span>
+      问北京留学问题
+    </button>
+  </div>
+</header>

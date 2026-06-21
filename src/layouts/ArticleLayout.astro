@@ -1,0 +1,72 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import ChatWidget from '../components/ChatWidget.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  article: CollectionEntry<'articles'>;
+}
+
+const { article } = Astro.props;
+const { title, description, category, publishDate, readingTime, ogImage } = article.data;
+const catLabels: Record<string, string> = {
+  'intl-schools': '国际部 / 国际学校',
+  'luohu': '海归落户',
+  'stages': '分阶段留学',
+  'resource': '京内资源',
+  'faq': '留学问答',
+};
+const catLabel = catLabels[category] || category;
+---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <BaseHead title={title} description={description} ogImage={ogImage} />
+</head>
+<body>
+  <Header />
+  <main>
+    <article class="max-w-7xl mx-auto px-5 lg:px-8 py-12 lg:py-16">
+      <!-- Breadcrumb -->
+      <nav class="text-sm text-[#5A6670] mb-8">
+        <a href="/" class="hover:text-[#A8443B] transition">首页</a>
+        <span class="mx-2">/</span>
+        <a href={`/category/${category}/`} class="hover:text-[#A8443B] transition">{catLabel}</a>
+        <span class="mx-2">/</span>
+        <span class="text-[#16242E]">{title}</span>
+      </nav>
+      
+      <!-- Header -->
+      <div class="max-w-3xl mx-auto mb-10">
+        <span class="inline-block text-sm text-[#A8443B] seal-stamp tracking-widest mb-3">{catLabel}</span>
+        <h1 class="font-serif-cn font-black text-3xl lg:text-4xl leading-tight mb-4 text-[#16242E]">{title}</h1>
+        <p class="text-[#5A6670] text-lg leading-relaxed mb-6">{description}</p>
+        <div class="flex items-center gap-4 text-sm text-[#5A6670]">
+          <time datetime={publishDate}>{publishDate}</time>
+          {readingTime && <span>· 约 {readingTime} 分钟</span>}
+        </div>
+      </div>
+      
+      <!-- Gold line -->
+      <div class="gold-line max-w-3xl mx-auto mb-10"></div>
+      
+      <!-- Content -->
+      <div class="prose">
+        <slot />
+      </div>
+      
+      <!-- Related / back -->
+      <div class="max-w-3xl mx-auto mt-16 pt-8 border-t border-[#16242E]/10">
+        <a href={`/category/${category}/`} class="inline-flex items-center gap-2 text-[#A8443B] hover:text-[#B6883A] transition font-medium">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
+          返回{catLabel}分类
+        </a>
+      </div>
+    </article>
+  </main>
+  <Footer />
+  <ChatWidget />
+</body>
+</html>

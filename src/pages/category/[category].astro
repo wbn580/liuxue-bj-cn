@@ -1,0 +1,99 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import ChatWidget from '../../components/ChatWidget.astro';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  const categories = [...new Set(articles.map(a => a.data.category))];
+  return categories.map((category) => ({
+    params: { category },
+    props: { category },
+  }));
+}
+
+const { category } = Astro.props;
+const allArticles = await getCollection('articles');
+const articles = allArticles
+  .filter(a => a.data.category === category)
+  .sort((a, b) => b.data.publishDate.localeCompare(a.data.publishDate));
+
+const catLabels: Record<string, string> = {
+  'intl-schools': '国际部 / 国际学校',
+  'luohu': '海归落户',
+  'stages': '分阶段留学',
+  'resource': '京内资源',
+  'faq': '留学问答',
+};
+const catLabel = catLabels[category] || category;
+const catDescriptions: Record<string, string> = {
+  'intl-schools': '公办国际部、民办国际学校、外籍人员子女学校——北京家庭的择校指南与路径对比。',
+  'luohu': '留学回国人员落户北京政策解读：学历、学习时长、回国窗口与用人单位资质等要点分析。',
+  'stages': '按中学、本科、硕士三阶段梳理留学规划路径，从北京出发，看清每一步。',
+  'resource': '北京本地认证办理、签证准备、展会信息与行前指导——把分散的资源串成清晰的线。',
+  'faq': '北京家庭关于留学的常见问题与详细解答。',
+};
+const catDesc = catDescriptions[category] || '';
+---
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <BaseHead title={catLabel} description={catDesc} />
+</head>
+<body>
+  <Header />
+  <main>
+    <section class="py-16 lg:py-20">
+      <div class="max-w-7xl mx-auto px-5 lg:px-8">
+        <!-- Category header -->
+        <div class="mb-12">
+          <nav class="text-sm text-[#5A6670] mb-6">
+            <a href="/" class="hover:text-[#A8443B] transition">首页</a>
+            <span class="mx-2">/</span>
+            <span class="text-[#16242E]">{catLabel}</span>
+          </nav>
+          <h1 class="font-serif-cn font-black text-3xl lg:text-4xl text-[#16242E] mb-3">{catLabel}</h1>
+          {catDesc && <p class="text-[#5A6670] text-lg max-w-2xl">{catDesc}</p>}
+        </div>
+
+        <div class="gold-line mb-12"></div>
+
+        <!-- Articles grid -->
+        {articles.length > 0 ? (
+          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {articles.map((article) => (
+              <a href={`/${article.slug}/`} class="card-hover bg-white rounded-2xl p-6 border-t-4 border-[#B6883A] block" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+                <span class="text-xs text-[#A8443B] seal-stamp tracking-widest">{catLabel}</span>
+                <h2 class="font-serif-cn font-bold text-lg text-[#16242E] mt-2 mb-2 leading-snug">{article.data.title}</h2>
+                <p class="text-[#5A6670] text-sm leading-relaxed mb-4 line-clamp-2">{article.data.description}</p>
+                <div class="flex items-center gap-3 text-xs text-[#5A6670]">
+                  <time datetime={article.data.publishDate}>{article.data.publishDate}</time>
+                  {article.data.readingTime && <span>· {article.data.readingTime} 分钟</span>}
+                </div>
+              </a>
+            ))}
+          </div>
+        ) : (
+          <div class="text-center py-12 text-[#5A6670]">
+            <p class="text-lg mb-3">该分类下暂无文章</p>
+            <a href="/" class="text-[#A8443B] hover:text-[#B6883A] transition">返回首页</a>
+          </div>
+        )}
+
+        <!-- Back to home -->
+        <div class="mt-12 text-center">
+          <a href="/" class="inline-flex items-center gap-2 text-[#A8443B] hover:text-[#B6883A] transition">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
+            返回首页
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+  <Footer />
+  <ChatWidget />
+</body>
+</html>
