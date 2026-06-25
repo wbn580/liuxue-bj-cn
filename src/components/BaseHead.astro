@@ -24,6 +24,24 @@ const siteName = '北京留学网';
 <meta property="og:image" content={ogImage}>
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site).href}>
+<script type="application/ld+json" set:html={`${JSON.stringify({
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "name": "北京留学网",
+      "url": "https://liuxue.bj.cn",
+      "description": "面向北京家庭与学生的本地化留学站：国际部与国际学校、海归落户政策、京内升学与留学资源。",
+      "sameAs": []
+    },
+    {
+      "@type": "WebSite",
+      "name": "北京留学网",
+      "url": "https://liuxue.bj.cn",
+      "description": "面向北京家庭与学生的本地化留学站。"
+    }
+  ]
+})}`} />
 <style is:global>
   *,::before,::after{box-sizing:border-box;margin:0;padding:0}
   html{scroll-behavior:smooth}
