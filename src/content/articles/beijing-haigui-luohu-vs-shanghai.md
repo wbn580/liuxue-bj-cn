@@ -11,6 +11,8 @@ tags:
   - 归国留学生
   - 政策对比
 ogImage: "https://img.ulec.com.cn/留学/beijing-haigui-luohu-vs-shanghai-2026-1280x854.jpg"
+hideFromHome: true
+
 ---
 
 ## 引言

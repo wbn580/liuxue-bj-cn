@@ -6,6 +6,8 @@ publishDate: '2026-06-15'
 readingTime: 8
 tags: []
 ogImage: "https://img.ulec.com.cn/留学/beijing-faq-country-choice-2026-1880x1291.jpg"
+hideFromHome: true
+
 ---
 
 # 英美澳加怎么选？北京家庭留学目的国选择问答

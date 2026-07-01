@@ -6,6 +6,8 @@ publishDate: '2025-03-28'
 readingTime: 6
 tags: [落户政策, 海归, 硕士, 本科, 北京]
 ogImage: "https://img.ulec.com.cn/留学/beijing-haigui-luohu-master-vs-bachelor-2026-1880x1291.jpg"
+hideFromHome: true
+
 ---
 
 ## 两条路径，一个目标
