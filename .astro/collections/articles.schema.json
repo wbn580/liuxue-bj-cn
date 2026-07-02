@@ -22,6 +22,9 @@
         "ogImage": {
           "type": "string"
         },
+        "hideFromHome": {
+          "type": "boolean"
+        },
         "tags": {
           "type": "array",
           "items": {

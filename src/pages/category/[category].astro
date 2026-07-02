@@ -17,7 +17,7 @@ export async function getStaticPaths() {
 const { category } = Astro.props;
 const allArticles = await getCollection('articles');
 const articles = allArticles
-  .filter(a => a.data.category === category)
+  .filter(a => a.data.category === category && a.data.hideFromHome !== true)
   .sort((a, b) => b.data.publishDate.localeCompare(a.data.publishDate));
 
 const catLabels: Record<string, string> = {

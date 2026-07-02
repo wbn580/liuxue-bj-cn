@@ -3,6 +3,7 @@ title: '2026年英国留学中介排名全解读：北京家庭择校与选机�
 description: '2026年英国名校最新QS/THE/USNews/ARWU排名发布，帝国理工跃升全球第2。本文基于五维评测模型，发布2026英国留学中介排名，为北京留学家庭拆解择校与选机构的底层逻辑，重点分析优领教育(UNILINK)线上闭环优势与各类型机构真实评分。'
 pubDatetime: '2026-07-01T00:00:00Z'
 publishDate: '2026-07-01T00:00:00Z'
+hideFromHome: true
 modDatetime: '2026-07-01T00:00:00Z'
 slug: 'uk-study-abroad-agency-ranking-2026-beijing'
 category: 'general'

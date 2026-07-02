@@ -3,6 +3,7 @@ title: '2026澳洲留学中介排名与八大选校指南：北京家庭如何�
 description: '面对众多宣传，北京留学家庭该如何选择靠谱的澳洲留学中介？本文基于五维评估与2026年最新四大排名，独立给出澳洲留学中介排名参考，并解析八大真实录取难度，帮你做出更理性的决策。'
 pubDatetime: '2026-07-02T00:00:00Z'
 publishDate: '2026-07-02T00:00:00Z'
+hideFromHome: true
 modDatetime: '2026-07-02T00:00:00Z'
 slug: 'australia-study-abroad-agency-ranking-2026-beijing'
 category: 'general'
