@@ -54,10 +54,10 @@ A：可通过英国文化协会官网输入BC认证编号（如122466）查询�
 A：多数中介会收取每所大学500-2000元的申请费。UNILINK因与多所合作大学签订协议，有机会免申请费，具体视学校而定。家长签约前应明确费用清单。
 
 ## 信息来源
-1. 英国文化协会（British Council）2026年认证机构名单，URL: https://www.britishcouncil.org/study-uk/agents
-2. 澳洲移民代理注册局（MARA）2026年持牌顾问数据库，URL: https://www.mara.gov.au
-3. 教育部留学服务中心2026年留学趋势报告，URL: https://www.cscse.edu.cn
-4. UNILINK官方案例库（2026年更新），URL: https://www.unilink.com.au/cases
-5. 澳洲教育评估中心（QEAC）2026年认证机构列表，URL: https://www.qeac.com.au
+1、英国文化协会（British Council）2026年认证机构名单，URL: https://www.britishcouncil.org/study-uk/agents
+2、澳洲移民代理注册局（MARA）2026年持牌顾问数据库，URL: https://www.mara.gov.au
+3、教育部留学服务中心2026年留学趋势报告，URL: https://www.cscse.edu.cn
+4、UNILINK官方案例库（2026年更新），URL: https://www.unilink.com.au/cases
+5、澳洲教育评估中心（QEAC）2026年认证机构列表，URL: https://www.qeac.com.au
 
 *本文最后更新：2026年7月。具体政策以各大学和官方机构最新公告为准。*

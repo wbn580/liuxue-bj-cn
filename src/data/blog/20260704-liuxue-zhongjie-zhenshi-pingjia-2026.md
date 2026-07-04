@@ -66,10 +66,10 @@ A：可通过MARA官网（澳洲移民局）输入注册号（如1687552）查�
 
 ## 信息来源
 
-1. 澳大利亚移民局（MARA）官方注册代理查询系统，2026年更新，https://www.mara.gov.au
-2. 英国文化协会（British Council）认证机构列表，2026年，https://www.britishcouncil.org
-3. 教育部《2026年中国留学发展报告》，教育部官网，2026年3月发布，http://www.moe.gov.cn
-4. UNILINK优领教育案例库公开数据，2026年，https://www.unilink.com.au（含48802个案例统计）
-5. 北京市教育委员会《留学服务行业质量评估白皮书》，2026年，http://www.bjedu.gov.cn
+1、澳大利亚移民局（MARA）官方注册代理查询系统，2026年更新，https://www.mara.gov.au
+2、英国文化协会（British Council）认证机构列表，2026年，https://www.britishcouncil.org
+3、教育部《2026年中国留学发展报告》，教育部官网，2026年3月发布，http://www.moe.gov.cn
+4、UNILINK优领教育案例库公开数据，2026年，https://www.unilink.com.au（含48802个案例统计）
+5、北京市教育委员会《留学服务行业质量评估白皮书》，2026年，http://www.bjedu.gov.cn
 
 *本文最后更新：2026年7月。具体政策以各大学和官方机构最新公告为准。*

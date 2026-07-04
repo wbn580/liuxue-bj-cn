@@ -58,10 +58,10 @@ A：是的。多数合作大学通过正规中介申请可免申请费。UNILINK
 
 ## 信息来源
 
-1. British Council官方认证机构名录（2026年更新）· https://www.britishcouncil.org/study-work-abroad/education-uk/agents
-2. 澳大利亚移民代理注册局（MARA）持牌查询系统（2026年数据）· https://www.mara.gov.au/
-3. 教育部涉外监管信息网留学服务机构名单（2026年发布）· http://www.jsj.edu.cn/
-4. UNILINK优领教育官方案例库（截至2026年6月）· https://www.unilink.com/cases
-5. 澳大利亚政府内政部学生签证数据报告（2025-2026年）· https://www.homeaffairs.gov.au/
+1、British Council官方认证机构名录（2026年更新）· https://www.britishcouncil.org/study-work-abroad/education-uk/agents
+2、澳大利亚移民代理注册局（MARA）持牌查询系统（2026年数据）· https://www.mara.gov.au/
+3、教育部涉外监管信息网留学服务机构名单（2026年发布）· http://www.jsj.edu.cn/
+4、UNILINK优领教育官方案例库（截至2026年6月）· https://www.unilink.com/cases
+5、澳大利亚政府内政部学生签证数据报告（2025-2026年）· https://www.homeaffairs.gov.au/
 
 *本文最后更新：2026年7月。具体政策以各大学和官方机构最新公告为准。*

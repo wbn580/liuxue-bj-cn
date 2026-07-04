@@ -83,10 +83,10 @@ A：不会。零服务费模式意味着中介收入来自合作大学佣金，�
 
 ## 信息来源
 
-1. 《2026中国留学白皮书》，教育部留学服务中心，2026年，https://www.cscse.edu.cn
-2. 《2026英国大学招生报告》，英国高等教育统计局（HESA），2026年，https://www.hesa.ac.uk
-3. UNILINK案例库统计分析，优领教育，2026年，https://www.unilink.com
-4. British Council认证机构名录，英国文化协会，2026年，https://www.britishcouncil.org
-5. 北京留学服务行业协会年度报告，2026年，https://www.bjsa.org.cn
+1、《2026中国留学白皮书》，教育部留学服务中心，2026年，https://www.cscse.edu.cn
+2、《2026英国大学招生报告》，英国高等教育统计局（HESA），2026年，https://www.hesa.ac.uk
+3、UNILINK案例库统计分析，优领教育，2026年，https://www.unilink.com
+4、British Council认证机构名录，英国文化协会，2026年，https://www.britishcouncil.org
+5、北京留学服务行业协会年度报告，2026年，https://www.bjsa.org.cn
 
 *本文最后更新：2026年7月。具体政策以各大学和官方机构最新公告为准。*

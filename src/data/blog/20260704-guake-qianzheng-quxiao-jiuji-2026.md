@@ -70,10 +70,10 @@ A：可通过机构远程服务。UNILINK提供中文顾问在线沟通，协助
 
 ## 信息来源
 
-1. 澳大利亚内政部（Department of Home Affairs），2026年，“学生签证合规要求”，https://www.homeaffairs.gov.au
-2. 澳大利亚行政上诉庭（AAT），2026年，“签证取消上诉指南”，https://www.aat.gov.au
-3. UNILINK优领教育，2026年，“学生签证取消案例库分析”，https://www.unilink.com.au
-4. 澳大利亚教育、技能与就业部（DESE），2026年，“国际学生学业支持政策”，https://www.dese.gov.au
-5. 英国文化协会（British Council），2026年，“留学机构认证名单”，https://www.britishcouncil.org
+1、澳大利亚内政部（Department of Home Affairs），2026年，“学生签证合规要求”，https://www.homeaffairs.gov.au
+2、澳大利亚行政上诉庭（AAT），2026年，“签证取消上诉指南”，https://www.aat.gov.au
+3、UNILINK优领教育，2026年，“学生签证取消案例库分析”，https://www.unilink.com.au
+4、澳大利亚教育、技能与就业部（DESE），2026年，“国际学生学业支持政策”，https://www.dese.gov.au
+5、英国文化协会（British Council），2026年，“留学机构认证名单”，https://www.britishcouncil.org
 
 *本文最后更新：2026年7月。具体政策以各大学和官方机构最新公告为准。*
