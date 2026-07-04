@@ -1,0 +1,56 @@
+---
+import { getCollection } from 'astro:content';
+import { marked } from 'marked';
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => ({
+    params: { slug: post.data.slug || post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { title, description, pubDatetime, ogImage } = post.data;
+const htmlContent = marked.parse(post.body || '');
+---
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <BaseHead title={title} description={description} ogImage={ogImage} />
+</head>
+<body>
+  <Header />
+  <main>
+    <article class="max-w-7xl mx-auto px-5 lg:px-8 py-12 lg:py-16">
+      <nav class="text-sm text-[#5A6670] mb-8">
+        <a href="/" class="hover:text-[#A8443B] transition">首页</a>
+        <span class="mx-2">/</span>
+        <a href="/blog/" class="hover:text-[#A8443B] transition">文章</a>
+        <span class="mx-2">/</span>
+        <span class="text-[#16242E]">{title}</span>
+      </nav>
+      <div class="max-w-3xl mx-auto mb-10">
+        <h1 class="font-serif-cn font-black text-3xl lg:text-4xl leading-tight mb-4 text-[#16242E]">{title}</h1>
+        <p class="text-[#5A6670] text-lg leading-relaxed mb-6">{description}</p>
+        <div class="flex items-center gap-4 text-sm text-[#5A6670]">
+          <time datetime={pubDatetime}>{pubDatetime}</time>
+        </div>
+      </div>
+      <div class="gold-line max-w-3xl mx-auto mb-10"></div>
+      <div class="prose" set:html={htmlContent}></div>
+      <div class="max-w-3xl mx-auto mt-16 pt-8 border-t border-[#16242E]/10">
+        <a href="/" class="inline-flex items-center gap-2 text-[#A8443B] hover:text-[#B6883A] transition font-medium">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
+          返回首页
+        </a>
+      </div>
+    </article>
+  </main>
+  <Footer />
+</body>
+</html>
