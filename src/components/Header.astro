@@ -10,7 +10,7 @@ const currentPath = Astro.url.pathname;
         <span class="block text-[11px] tracking-widest text-[#5A6670]">liuxue.bj.cn</span>
       </span>
     </a>
-    <nav class="hidden lg:flex items-center gap-8 text-[15px] text-[#16242E]/80 font-medium">
+    <nav class="hidden xl:flex items-center gap-8 text-[15px] text-[#16242E]/80 font-medium">
       <a href="/#intl-school" class="nav-link">国际部 / 国际学校</a>
       <a href="/#luohu" class="nav-link">海归落户</a>
       <a href="/#stages" class="nav-link">分阶段留学</a>
@@ -25,3 +25,31 @@ const currentPath = Astro.url.pathname;
     </a>
   </div>
 </header>
+
+<style>
+
+
+  /* MENU-CROWD-FIX-20260708: keep dense desktop menus from wrapping or crushing CTA buttons. */
+  header nav a,
+  .nav-links a,
+  .nav-link,
+  .nav-cta,
+  .site-nav a {
+    white-space: nowrap;
+  }
+  .nav-links,
+  .site-nav {
+    min-width: 0;
+  }
+  .site-nav.flex-wrap,
+  nav.site-nav.flex-wrap {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .site-nav.flex-wrap::-webkit-scrollbar,
+  nav.site-nav.flex-wrap::-webkit-scrollbar {
+    display: none;
+  }
+</style>
