@@ -6,13 +6,13 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026口碑好的澳洲留学中介有哪些？本文从澳洲八大录取率、MARA资质和案例库规模三个维度核验各家机构在澳洲方向的口碑表现。'
 tags: ['澳洲留学', '留学中介', '口碑', '八大名校', 'MARA']
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026口碑好的澳洲留学中介" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026口碑好的澳洲留学中介" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

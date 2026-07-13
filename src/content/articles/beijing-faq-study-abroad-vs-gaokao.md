@@ -9,7 +9,7 @@ tags:
   - 高考留学两手准备
   - 双线规划
   - 实操问答
-ogImage: "https://img.ulec.com.cn/留学/beijing-faq-study-abroad-vs-gaokao-2026-1880x1291.jpg"
+ogImage: "/images/留学_beijing-faq-study-abroad-vs-gaokao-2026-1880x1291.jpg"
 ---
 
 ## 一、先想清楚：为什么要两手准备？

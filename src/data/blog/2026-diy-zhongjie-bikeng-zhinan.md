@@ -4,14 +4,14 @@ title: '2026年留学DIY还是找中介？过来人的血泪教训帮你避坑'
 description: '2026年留学申请中，DIY和找中介各有各的坑。本文收集真实案例中的常见陷阱，帮你提前规避，少走弯路。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026年留学DIY避坑指南" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026年留学DIY避坑指南" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

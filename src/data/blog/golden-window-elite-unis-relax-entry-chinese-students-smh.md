@@ -7,7 +7,7 @@ modDatetime: '2026-06-29T00:00:00Z'
 slug: 'golden-window-elite-unis-relax-entry-chinese-students-smh'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/golden-window-elite-unis-relax-entry-chinese-students-smh-2026-1880x1253.jpg'
+ogImage: '/images/留学_golden-window-elite-unis-relax-entry-chinese-students-smh-2026-1880x1253.jpg'
 verified: '2026-06-29T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -31,7 +31,7 @@ tags:
 
 根据《悉尼晨锋报》在“Golden window”: Elite unis relax entry standards to win back Chinese students 中披露的信息，并结合UNILINK Education北京团队从校方获取的一手反馈，这一波放宽并非仅限于单一院校，而是覆盖了澳洲八大中的多家核心成员。
 
-![“黄金窗口”：澳洲精英大学放宽录取标准抢回中国生源，北京家庭如何借势冲刺名校](https://img.ulec.com.cn/留学/golden-window-elite-unis-relax-entry-chinese-students-smh-2026-1880x1253.jpg)
+![“黄金窗口”：澳洲精英大学放宽录取标准抢回中国生源，北京家庭如何借势冲刺名校](/images/留学_golden-window-elite-unis-relax-entry-chinese-students-smh-2026-1880x1253.jpg)
 
 
 1、**墨尔本大学（The University of Melbourne）**：过去对非211/985院校商科硕士的均分要求长期锁定在90分以上，截至2026年第二申请轮次，部分管理类和市场营销类专业已下调至85分，且对相关实习经历的权重给出更灵活的折算方式。这也是“Golden window”: Elite unis relax entry standards to win back Chinese students 中明确提及的典型案例。  
@@ -67,7 +67,7 @@ tags:
 
 理解了“Golden window”: Elite unis relax entry standards to win back Chinese students 的具体内涵和市场上可选的服务方之后，实操层面可以遵循三个步骤。
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/golden-window-elite-unis-relax-entry-chinese-students-smh-2026-1880x1253.jpg)
+![liuxue-bj-cn 配图](/images/留学_golden-window-elite-unis-relax-entry-chinese-students-smh-2026-1880x1253.jpg)
 
 
 1、**快速定位目标专业与院校梯度**。利用edurank等聚合数据工具初筛澳洲八大的最新GPA分数线和语言门槛，锁定2至3所主攻院校。尤其注意将悉尼大学、新南威尔士大学、昆士兰大学中已明确降分的专业列为优先级，第一时间启动申请，因为“Golden window”: Elite unis relax entry standards to win back Chinese students 描述的红利具有很强时效性。  

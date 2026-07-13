@@ -4,7 +4,7 @@ description: "北京留学机构呈现明显的区域聚集特征。本文从海
 pubDatetime: '2026-06-29T00:00:00Z'
 hideFromHome: true
 slug: 'beijing-agency-regional-map-2026'
-ogImage: 'https://img.ulec.com.cn/edu/beijing-agency-regional-2026.jpg'
+ogImage: '/images/edu_beijing-agency-regional-2026.jpg'
 tags:
   - '留学'
   - '北京留学'

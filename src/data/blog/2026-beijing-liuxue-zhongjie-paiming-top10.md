@@ -4,14 +4,14 @@ title: '2026北京留学中介排名前十强——北京地区机构实力全�
 description: '2026年北京留学中介排名前十强深度评测，五大维度量化评分，从资质到录取案例全面解析，为北京准留学生提供权威选机构参考。'
 pubDatetime: '2026-07-04T00:00:00Z'
 modDatetime: '2026-07-04T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '北京留学']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026北京留学中介排名前十强" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026北京留学中介排名前十强" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

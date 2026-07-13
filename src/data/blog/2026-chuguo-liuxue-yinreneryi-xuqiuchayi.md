@@ -7,7 +7,7 @@ modDatetime: '2026-07-03T00:00:00Z'
 slug: '2026-chuguo-liuxue-yinreneryi-xuqiuchayi'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 tags:
   - '留学中介'
   - '留学规划'
@@ -16,7 +16,7 @@ tags:
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026出国留学要不要找中介因人而异四类学生的需求差异与机构选择" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026出国留学要不要找中介因人而异四类学生的需求差异与机构选择" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

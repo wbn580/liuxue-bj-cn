@@ -15,7 +15,7 @@ tags:
   - 毕业生
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026OVHC和OSHC区别详解" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026OVHC和OSHC区别详解" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 # 2026OVHC和OSHC区别详解：毕业生签证转换保险指南
 

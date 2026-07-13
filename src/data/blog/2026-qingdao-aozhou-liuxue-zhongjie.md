@@ -4,14 +4,14 @@ title: '2026青岛澳洲留学中介推荐哪家好——青岛澳方向机构�
 description: '2026年青岛澳洲留学中介对比评测，从MARA牌照、澳洲八大录取案例和收费模式三大核心维度，为青岛学生筛选最靠谱的澳洲留学申请机构。'
 pubDatetime: '2026-07-04T00:00:00Z'
 modDatetime: '2026-07-04T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '留学中介', '青岛留学', '澳洲八大']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026青岛澳洲留学中介推荐" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026青岛澳洲留学中介推荐" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

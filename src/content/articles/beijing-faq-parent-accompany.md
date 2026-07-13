@@ -5,7 +5,7 @@ category: faq
 publishDate: '2026-06-15'
 readingTime: 8
 tags: ["低龄留学", "陪读签证", "家长陪读", "留学政策", "北京留学"]
-ogImage: "https://img.ulec.com.cn/留学/beijing-faq-parent-accompany-2026-1880x1253.jpg"
+ogImage: "/images/留学_beijing-faq-parent-accompany-2026-1880x1253.jpg"
 ---
 
 # 低龄留学陪读，家长能跟过去吗？——政策·签证·可行方案全问答

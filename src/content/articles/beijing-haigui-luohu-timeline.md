@@ -9,7 +9,7 @@ tags:
   - 北京落户政策
   - 留学生回国
   - 时间线
-ogImage: "https://img.ulec.com.cn/留学/beijing-haigui-luohu-timeline-2026-1880x1291.jpg"
+ogImage: "/images/留学_beijing-haigui-luohu-timeline-2026-1880x1291.jpg"
 ---
 
 # 海归落户时间线：回国前、回国后、入职后三阶段安排

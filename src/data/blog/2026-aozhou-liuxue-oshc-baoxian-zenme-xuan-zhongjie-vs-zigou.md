@@ -7,7 +7,7 @@ modDatetime: '2026-07-03T00:00:00Z'
 slug: '2026-aozhou-liuxue-oshc-baoxian-zenme-xuan-zhongjie-vs-zigou'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 tags:
   - 澳洲留学
   - OSHC
@@ -18,7 +18,7 @@ author: '北京留学指南编辑部'
 
 # 2026澳洲留学OSHC保险怎么选：通过中介购买vs自行购买的差异对比
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026澳洲留学OSHC保险怎么选通过中介购买vs自行购买的差异对比" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026澳洲留学OSHC保险怎么选通过中介购买vs自行购买的差异对比" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

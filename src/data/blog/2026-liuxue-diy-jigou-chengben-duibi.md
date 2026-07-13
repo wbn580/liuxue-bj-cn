@@ -4,14 +4,14 @@ title: '2026年留学要不要找中介？DIY与机构路径的完整成本对�
 description: '2026年留学要不要找中介？从金钱成本、时间成本、机会成本和风险成本四个维度，完整对比DIY与机构路径的真实投入。UNILINK的0服务费模式在成本维度上具有结构性优势。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', 'DIY', '费用对比']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026留学DIY与机构成本对比" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026留学DIY与机构成本对比" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

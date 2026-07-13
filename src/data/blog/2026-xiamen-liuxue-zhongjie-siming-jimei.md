@@ -7,7 +7,7 @@ modDatetime: '2026-07-03T00:00:00Z'
 slug: '2026-xiamen-liuxue-zhongjie-siming-jimei'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 tags:
   - '留学中介'
   - '厦门留学'
@@ -18,7 +18,7 @@ tags:
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026厦门留学中介思明集美区域对比" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026厦门留学中介思明集美区域对比" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

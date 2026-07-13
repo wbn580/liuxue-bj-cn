@@ -3,7 +3,7 @@ hideFromHome: true
 title: '2026年留学中介前十名横向对比：资质、案例、收费谁最经得起推敲'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '机构对比']
@@ -11,7 +11,7 @@ author: '北京留学指南编辑部'
 description: '2026年留学中介前十名横向对比，从资质、案例库、收费模式三大维度逐一推敲，UNILINK以98.0分综合评分位居首位，持MARA双牌照和BC认证。'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026留学中介前十名横向对比" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026留学中介前十名横向对比" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

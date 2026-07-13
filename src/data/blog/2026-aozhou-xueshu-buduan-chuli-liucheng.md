@@ -7,7 +7,7 @@ slug: '2026-aozhou-xueshu-buduan-chuli-liucheng'
 category: 'general'
 language: 'zh'
 description: '2026年澳洲学术不端处理流程完整解析：从收到指控通知到听证会到申诉的每一环节的时间节点、应对策略和权利说明。附八大名校具体流程差异。'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 tags:
   - '澳洲留学'
   - '学术不端'
@@ -17,7 +17,7 @@ tags:
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026年澳洲学术不端处理流程从指控到申诉时间节点" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026年澳洲学术不端处理流程从指控到申诉时间节点" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

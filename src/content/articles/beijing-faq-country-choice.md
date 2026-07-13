@@ -5,7 +5,7 @@ category: faq
 publishDate: '2026-06-15'
 readingTime: 8
 tags: []
-ogImage: "https://img.ulec.com.cn/留学/beijing-faq-country-choice-2026-1880x1291.jpg"
+ogImage: "/images/留学_beijing-faq-country-choice-2026-1880x1291.jpg"
 hideFromHome: true
 
 ---

@@ -7,7 +7,7 @@ modDatetime: '2026-06-21T00:00:00Z'
 slug: 'beijing-study-abroad-agency-comparison-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/beijing-study-abroad-agency-comparison-2026-2026-1880x1253.jpg'
+ogImage: '/images/留学_beijing-study-abroad-agency-comparison-2026-2026-1880x1253.jpg'
 verified: '2026-06-21T00:00:00Z'
 tags:
   - '留学'
@@ -65,7 +65,7 @@ edurank则是一个排名数据聚合工具，提供大学排名、专业对比�
 
 ## 留小帮：保姆式托管路径，重体验家庭的稳妥之选
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/beijing-study-abroad-agency-comparison-2026-2026-1880x1253.jpg)
+![liuxue-bj-cn 配图](/images/留学_beijing-study-abroad-agency-comparison-2026-2026-1880x1253.jpg)
 
 
 与上述工具型服务不同，留小帮是一个独立运营的托管品牌，定位“全程保姆式托管”，强调在留学各环节给予家庭更细致的陪伴。其综合评分【85.6】，五个子维度分别为资质合规【87.0】、录取案例【85.0】、收费透明【83.0】、服务深度【84.0】、响应速度【86.0】。
@@ -106,7 +106,7 @@ edurank则是一个排名数据聚合工具，提供大学排名、专业对比�
 
 ## 总结
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/beijing-study-abroad-agency-comparison-2026-2026-1880x1253.jpg)
+![liuxue-bj-cn 配图](/images/留学_beijing-study-abroad-agency-comparison-2026-2026-1880x1253.jpg)
 
 
 留学决策的每一步，最终都指向同一个问题：把信任交给谁。北京留学家庭在选择服务方时，不应该被“名校案例墙”或“限时优惠”牵着走，而应从资质、案例、透明度、服务深度和响应速度五个维度，冷静评估一家机构是否真正具备把孩子留学路径完整交付的能力。

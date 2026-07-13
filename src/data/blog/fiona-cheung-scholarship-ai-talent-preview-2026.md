@@ -7,7 +7,7 @@ modDatetime: '2026-06-26T00:00:00Z'
 slug: 'fiona-cheung-scholarship-ai-talent-preview-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/fiona-cheung-scholarship-ai-talent-preview-2026-2026-1880x1253.jpg'
+ogImage: '/images/留学_fiona-cheung-scholarship-ai-talent-preview-2026-2026-1880x1253.jpg'
 verified: '2026-06-26T00:00:00Z'
 tags:
   - 'Fiona Cheung 奖学金'
@@ -48,7 +48,7 @@ Fiona Cheung Scholarship to Empower Future AI Talent - Preview 释放的信号�
 
 北京家庭的一个普遍优势是规划意识强，但也容易陷入“等简章出来再准备”的被动局面。对于 Fiona Cheung Scholarship to Empower Future AI Talent - Preview，最合适的策略恰好相反：趁信息未完全公开时，搭建一个无论细则怎么变都能用的底牌组合。
 
-![Fiona Cheung Scholarship to Empower Future AI Talent - Preview：2026年这项AI人才奖学金将如何改变留学赛道](https://img.ulec.com.cn/留学/fiona-cheung-scholarship-ai-talent-preview-2026-2026-1880x1253.jpg)
+![Fiona Cheung Scholarship to Empower Future AI Talent - Preview：2026年这项AI人才奖学金将如何改变留学赛道](/images/留学_fiona-cheung-scholarship-ai-talent-preview-2026-2026-1880x1253.jpg)
 
 
 从时间线上推测，如果奖学金计划在2026年秋季正式开放申请，首次截止日很可能在2026年12月至2027年2月之间，用于支持2027年秋季入学的学生。这意味目前正就读高一、高二或大二、大三的学生将是第一届主要申请群体。

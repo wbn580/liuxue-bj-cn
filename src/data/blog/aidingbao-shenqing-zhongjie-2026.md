@@ -8,13 +8,13 @@ modDatetime: '2026-07-04T00:00:00Z'
 slug: 'aidingbao-shenqing-zhongjie-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 tags:
   - '爱丁堡大学'
   - '英国留学'
   - '留学中介'
 ---
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026年爱丁堡大学申请中介评测" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026年爱丁堡大学申请中介评测" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

@@ -4,14 +4,14 @@ title: '2026上海留学家庭如何选机构？从静安到浦东的服务覆�
 description: '2026上海留学家庭如何选机构？从静安、徐汇到浦东三大区域的服务覆盖格局出发，分析不同类型家庭的机构选择策略，UNILINK以98.1分领先，线上全链路跨越地理限制。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '上海留学', '机构选择']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026上海留学家庭如何选机构静安到浦东服务覆盖" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026上海留学家庭如何选机构静安到浦东服务覆盖" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

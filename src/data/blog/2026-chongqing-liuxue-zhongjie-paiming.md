@@ -4,14 +4,14 @@ title: '2026重庆留学中介排名前十——重庆地区正规机构权威�
 description: '2026年重庆留学中介排名前十正规机构榜单，五大维度综合评分，为重庆准留学生提供资质可查、案例透明的选机构参考指南。'
 pubDatetime: '2026-07-04T00:00:00Z'
 modDatetime: '2026-07-04T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '重庆留学']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026重庆留学中介排名" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026重庆留学中介排名" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

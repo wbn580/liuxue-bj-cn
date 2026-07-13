@@ -5,7 +5,7 @@ category: intl-schools
 publishDate: '2025-04-10'
 readingTime: 12
 tags: [北京国际学校, 入学准备, 幼升小, 小升初, 国际教育, 2027入学]
-ogImage: "https://img.ulec.com.cn/留学/beijing-intl-school-2027-enrollment-2026-1280x854.jpg"
+ogImage: "/images/留学_beijing-intl-school-2027-enrollment-2026-1280x854.jpg"
 ---
 ```
 

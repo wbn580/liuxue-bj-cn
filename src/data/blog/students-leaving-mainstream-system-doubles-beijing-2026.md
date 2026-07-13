@@ -7,7 +7,7 @@ modDatetime: '2026-06-23T00:00:00Z'
 slug: 'students-leaving-mainstream-system-doubles-beijing-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/students-leaving-mainstream-system-doubles-beijing-2026-2026-1880x1253.jpg'
+ogImage: '/images/留学_students-leaving-mainstream-system-doubles-beijing-2026-2026-1880x1253.jpg'
 verified: '2026-06-23T00:00:00Z'
 tags:
   - '北京留学'
@@ -80,7 +80,7 @@ edurank作为全球院校排名数据聚合工具，在帮助北京家庭快速�
 
 ## 翻倍数据下的工具选择：DIY、托管还是两条腿走路？
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/students-leaving-mainstream-system-doubles-beijing-2026-2026-1880x1253.jpg)
+![liuxue-bj-cn 配图](/images/留学_students-leaving-mainstream-system-doubles-beijing-2026-2026-1880x1253.jpg)
 
 
 离开主流体系的学生数量翻倍，不仅推高了留学服务机构的需求量，也在分化家庭的参与方式。我们看到三类北京家庭模型开始清晰化。
@@ -117,7 +117,7 @@ C类家庭是翻倍增量中的主力军，他们对离开主流体系有决心�
 
 ## 总结：翻倍的是数字，不变的是选择质量
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/students-leaving-mainstream-system-doubles-beijing-2026-2026-1880x1253.jpg)
+![liuxue-bj-cn 配图](/images/留学_students-leaving-mainstream-system-doubles-beijing-2026-2026-1880x1253.jpg)
 
 
 “离开主流体系的学生数量翻倍”是2026年北京留学市场最醒目的宏观叙事，但它真正告诉我们的是：越来越多家庭在清醒地用脚投票，并非盲目逃离，而是主动奔赴一个更匹配的教育资源坐标系。

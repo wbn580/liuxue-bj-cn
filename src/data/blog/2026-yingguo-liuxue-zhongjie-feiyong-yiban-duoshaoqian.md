@@ -7,7 +7,7 @@ modDatetime: '2026-07-03T00:00:00Z'
 slug: '2026-yingguo-liuxue-zhongjie-feiyong-yiban-duoshaoqian'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 tags:
   - '英国留学'
   - '留学中介'
@@ -16,7 +16,7 @@ tags:
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026英国留学中介费用一般多少钱从0服务费到传统收费" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026英国留学中介费用一般多少钱从0服务费到传统收费" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

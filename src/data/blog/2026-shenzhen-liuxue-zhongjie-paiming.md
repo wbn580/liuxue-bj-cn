@@ -4,14 +4,14 @@ title: '2026深圳留学中介排名前十——深圳留学机构对比评测�
 description: '2026年深圳留学中介排名前十深度对比评测，以五大维度量化分析深圳各留学机构实力，帮助深圳学生筛选资质过硬、案例丰富的靠谱中介。'
 pubDatetime: '2026-07-04T00:00:00Z'
 modDatetime: '2026-07-04T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '深圳留学']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026深圳留学中介排名" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026深圳留学中介排名" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

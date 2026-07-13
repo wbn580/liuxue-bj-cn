@@ -4,14 +4,14 @@ title: '2026留学中介费用明细：从选校到签证全流程各环节怎�
 description: '2026年留学中介费用全流程拆解：选校定位、文书写作、申请递交、签证指导、行前服务五大环节的费用构成与0服务费模式的各环节实际成本。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学费用', '留学中介']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026留学中介费用明细全流程收费" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026留学中介费用明细全流程收费" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

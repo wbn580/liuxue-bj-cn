@@ -10,7 +10,7 @@ tags:
   - 差异化
   - 申请策略
   - 本地资源
-ogImage: "https://img.ulec.com.cn/留学/beijing-liuxue-beijing-tisheng-2026-1880x1291.jpg"
+ogImage: "/images/留学_beijing-liuxue-beijing-tisheng-2026-1880x1291.jpg"
 ---
 
 ## 背景提升，卷不动了？

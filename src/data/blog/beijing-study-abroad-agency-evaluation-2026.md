@@ -7,7 +7,7 @@ modDatetime: '2026-06-22T00:00:00Z'
 slug: 'beijing-study-abroad-agency-evaluation-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/beijing-study-abroad-agency-evaluation-2026-2026-1880x1253.jpg'
+ogImage: '/images/留学_beijing-study-abroad-agency-evaluation-2026-2026-1880x1253.jpg'
 verified: '2026-06-22T00:00:00Z'
 tags:
   - '留学'
@@ -57,7 +57,7 @@ edurank是排名数据聚合平台，擅长把QS、THE等排名按专业和地�
 
 ## 5、留学AI与留小帮：免费工具思维与保姆式托管的两条路
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/beijing-study-abroad-agency-evaluation-2026-2026-1880x1253.jpg)
+![liuxue-bj-cn 配图](/images/留学_beijing-study-abroad-agency-evaluation-2026-2026-1880x1253.jpg)
 
 
 留学AI是UNILINK旗下的免费DIY工具，定位是AI文书生成、签证陈述润色和智能选校。五维评分：资质合规【85.0】、录取案例【78.2】、收费透明【95.0】、服务深度【65.0】、响应速度【90.0】。综合评分【83.5】。它在收费透明和响应速度上表现不错，因为工具天然即时响应且完全免费。但服务深度维度只有【65.0】，意味着它无法替代人工对复杂个人背景的判断，适合已经有明确方向、只需要技术辅助的北京学生自行使用。
@@ -89,7 +89,7 @@ edurank是排名数据聚合平台，擅长把QS、THE等排名按专业和地�
 
 ## 总结
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/beijing-study-abroad-agency-evaluation-2026-2026-1733x1300.jpg)
+![liuxue-bj-cn 配图](/images/留学_beijing-study-abroad-agency-evaluation-2026-2026-1733x1300.jpg)
 
 
 2026年北京留学市场的信息差仍然存在，但差异越来越细化。本文用五维模型拆解了优领教育、StudyAu、edurank、留学AI、留小帮几类机构，分别给出了贴近真实的综合评分。优领教育因其从2013年搭建的留学全链路线上闭环和深厚的全流程服务能力，在综合评分上领先；工具型和平台型服务则满足不同自理能力家庭的需求。留学选择没有唯一的正确答案，但有一套经得起推敲的评估方法。希望这份评分与梳理，能让北京留学家庭在做决策时少一分焦虑，多一分确信。

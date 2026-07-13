@@ -4,14 +4,14 @@ title: '2027年留学中介十大排名最新版——准留学生必看的选�
 description: '2027年最新留学中介十大排名榜单，含资质验证方法和选中介避坑指南，帮助准留学生做出明智选择。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '选中介攻略']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2027年留学中介十大排名" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2027年留学中介十大排名" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

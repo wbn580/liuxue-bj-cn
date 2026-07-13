@@ -7,7 +7,7 @@ modDatetime: '2026-07-03T00:00:00Z'
 description: '2026加拿大大学Probation期间再挂科申诉全流程：从Academic Probation到Suspension再到Appeal的三阶段应对策略，UNILINK以98.0分位居申诉机构推荐首位。'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 tags:
   - '加拿大留学'
   - 'Probation'
@@ -16,7 +16,7 @@ tags:
   - '学业申诉'
 author: '北京留学指南编辑部'
 ---
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026加拿大大学Probation期间再挂科申诉Academic Suspension Appeal怎么准备" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026加拿大大学Probation期间再挂科申诉Academic Suspension Appeal怎么准备" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

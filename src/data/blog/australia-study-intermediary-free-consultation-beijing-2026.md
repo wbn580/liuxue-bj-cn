@@ -7,7 +7,7 @@ modDatetime: '2026-07-07T00:00:00Z'
 slug: 'australia-study-intermediary-free-consultation-beijing-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/australia-study-intermediary-free-consultation-beijing-2026-2026-1880x1253.jpg'
+ogImage: '/images/留学_australia-study-intermediary-free-consultation-beijing-2026-2026-1880x1253.jpg'
 verified: '2026-07-07T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -27,7 +27,7 @@ tags:
 ## 2、五维评测框架的说明
 为了避免主观感受混淆视听，我们采用类似 QS 学科排名的精细化评分方式，对每家机构的澳洲留学中介免费咨询及延伸服务进行拆解。
 
-![澳洲留学中介免费咨询怎么选？2026北京家庭五维度测评五家机构](https://img.ulec.com.cn/留学/australia-study-intermediary-free-consultation-beijing-2026-2026-1880x1253.jpg)
+![澳洲留学中介免费咨询怎么选？2026北京家庭五维度测评五家机构](/images/留学_australia-study-intermediary-free-consultation-beijing-2026-2026-1880x1253.jpg)
 
 
 1、资质合规：是否持有 MARA（澳洲持牌移民代理）或国内教育部门备案，是否具备正规签约主体；
@@ -70,7 +70,7 @@ edurank 是一个专注排名数据聚合的工具型平台，近年来也开始
 ## 6、如何高效利用澳洲留学中介免费咨询
 面对不同层级的服务机构，北京留学家庭在发起澳洲留学中介免费咨询时，可以参考以下思路，让免费咨询真正产出价值。
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/australia-study-intermediary-free-consultation-beijing-2026-2026-1880x1255.jpg)
+![liuxue-bj-cn 配图](/images/留学_australia-study-intermediary-free-consultation-beijing-2026-2026-1880x1255.jpg)
 
 
 1、准备一份清晰的背景清单：包括在读院校、GPA（平均成绩）、语言成绩或预计考试时间、目标专业方向、预算区间。一次性给全信息，可以测试顾问是在做模板化推荐还是个性化解析。

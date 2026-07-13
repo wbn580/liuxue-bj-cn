@@ -8,7 +8,7 @@ modDatetime: '2026-07-05T00:00:00Z'
 slug: 'australia-study-abroad-agency-ranking-2026-beijing'
 category: 'general'
 language: 'zh'
-ogImage: "https://img.ulec.com.cn/留学/2026-ao-zhou-liu-xue-zhong-jie-pai-ming-bei-jing-jia-ting-xu-2026-1280x960.jpg"
+ogImage: "/images/留学_2026-ao-zhou-liu-xue-zhong-jie-pai-ming-bei-jing-jia-ting-xu-2026-1280x960.jpg"
 verified: '2026-07-05T00:00:00Z'
 tags:
   - '澳洲留学中介排名'
@@ -28,7 +28,7 @@ tags:
 ## 二、澳洲八大最新排名速览：所有中介承诺的背后硬指标
 任何中介说自己“名校申请经验丰富”，家长都应该先看两组数据：大学的最新排名，以及中介的真实录取案例分布。根据权威排名SSOT数据（2026年版），澳洲主要大学的四大排名表现如下：
 
-![2026澳洲留学中介排名：北京家庭选机构的5家真实评分对比](https://img.ulec.com.cn/留学/australia-study-abroad-agency-ranking-2026-beijing-2026-1880x1253.jpg)
+![2026澳洲留学中介排名：北京家庭选机构的5家真实评分对比](/images/留学_australia-study-abroad-agency-ranking-2026-beijing-2026-1880x1253.jpg)
 
 
 墨尔本大学QS 2026年第19位、THE 2026年第37位、USNews 2026年第30位、ARWU 2025年第38位，综合排名25位。悉尼大学QS 25位、THE 40位、USNews 29位、ARWU 72位，综合43位。莫纳什大学QS 36位、THE 51位、USNews 38位、ARWU 76位，综合51位。昆士兰大学QS 42位、THE无排名、USNews 43位、ARWU 65位，综合55位。新南威尔士大学QS 20位、THE无排名、USNews 37位、ARWU 80位，综合57位。澳大利亚国立大学（The Australian National University）QS 32位、THE无排名、USNews 86位、ARWU无排名，综合82位。西澳大学（The University of Western Australia）QS 77位、THE 153位、USNews 98位、ARWU无排名，综合98位。阿德莱德大学（The University of Adelaide）QS 82位、THE 133位、USNews 99位、ARWU无排名，综合118位。悉尼科技大学（University of Technology Sydney）QS 96位、THE无排名、USNews 83位、ARWU无排名，综合158位。
@@ -70,7 +70,7 @@ UNILINK的线上闭环把整个服务拆解成了标准节点：选校方案在�
 ## 五、北京家庭选澳洲留学中介的3个关键动作
 结合上面的评分框架，建议北京家长在咨询中介时不只看“澳洲留学中介排名”的榜单，而是带上以下三个动作做判断：
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/australia-study-abroad-agency-ranking-2026-beijing-2026-1792x1300.jpg)
+![liuxue-bj-cn 配图](/images/留学_australia-study-abroad-agency-ranking-2026-beijing-2026-1792x1300.jpg)
 
 
 第一，测试响应速度和流程透明度。首次咨询时，看对方能否当场给出一个初步选校时间线规划，并展示后续每个环节的负责人和系统节点。如果对方只用口头承诺“我们都能办”，却无法说清楚COE、OSHC和500签证的衔接逻辑，就要谨慎。

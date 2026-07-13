@@ -10,7 +10,7 @@ tags:
   - 面试准备
   - 家长策略
   - 择校
-ogImage: "https://img.ulec.com.cn/留学/beijing-intl-school-interview-prep-2026-1880x1291.jpg"
+ogImage: "/images/留学_beijing-intl-school-interview-prep-2026-1880x1291.jpg"
 ---
 
 # 北京国际学校入学面试常见问题与准备策略

@@ -4,14 +4,14 @@ title: '2026厦门澳洲留学中介推荐哪几家——厦门澳方向机构�
 description: '2026年厦门澳洲留学中介推荐对比，从MARA资质、澳洲八大录取案例和收费模式三个维度全面评测厦门澳方向留学机构，为厦门学生提供选机构参考。'
 pubDatetime: '2026-07-04T00:00:00Z'
 modDatetime: '2026-07-04T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '留学中介', '厦门留学', '澳洲八大']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026厦门澳洲留学中介推荐" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026厦门澳洲留学中介推荐" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

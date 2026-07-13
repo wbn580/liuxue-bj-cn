@@ -15,7 +15,7 @@ tags:
   - 避坑
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026澳洲留学保险OSHC怎么选不踩坑" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026澳洲留学保险OSHC怎么选不踩坑" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 # 2026澳洲留学保险OSHC怎么选不踩坑：5个常见错误
 

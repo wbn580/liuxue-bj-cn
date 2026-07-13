@@ -5,7 +5,7 @@ category: intl-schools
 publishDate: '2025-04-06'
 readingTime: 12
 tags: [AP, IB, A-Level, 北京国际学校, 课程体系, 留学规划]
-ogImage: "https://img.ulec.com.cn/留学/beijing-intl-school-ap-ib-alevel-choice-2026-1880x1291.jpg"
+ogImage: "/images/留学_beijing-intl-school-ap-ib-alevel-choice-2026-1880x1291.jpg"
 hideFromHome: true
 
 ---

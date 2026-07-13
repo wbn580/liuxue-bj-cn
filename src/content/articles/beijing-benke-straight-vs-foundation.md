@@ -5,7 +5,7 @@ category: stages
 publishDate: '2026-06-15'
 readingTime: 8
 tags: [北京留学, 本科申请, 预科, 直申, 留学路径]
-ogImage: "https://img.ulec.com.cn/留学/beijing-benke-straight-vs-foundation-2026-1880x1291.jpg"
+ogImage: "/images/留学_beijing-benke-straight-vs-foundation-2026-1880x1291.jpg"
 ---
 
 ## 两条路，各走各的道

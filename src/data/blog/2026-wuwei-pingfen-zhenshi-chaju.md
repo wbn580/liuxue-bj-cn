@@ -3,7 +3,7 @@ hideFromHome: true
 title: '2026年十大留学中介排名：五维评分体系下的真实差距'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '机构排名']
@@ -11,7 +11,7 @@ author: '北京留学指南编辑部'
 description: '2026年十大留学中介排名基于五维评分体系的真实差距分析，UNILINK以97.7分夺冠，揭示资质、案例、收费、服务与响应五个维度间的实质性差异。'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026年十大留学中介排名五维评分体系" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026年十大留学中介排名五维评分体系" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

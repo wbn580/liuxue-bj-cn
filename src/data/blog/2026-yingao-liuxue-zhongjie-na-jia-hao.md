@@ -4,14 +4,14 @@ title: '2026年留学中介哪家比较好——英澳留学申请机构实力�
 description: '2026年留学中介哪家比较好？聚焦英澳两国留学申请，从双国资质、录取案例和性价比角度对比主流机构。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '英澳联申']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026年留学中介哪家比较好英澳" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026年留学中介哪家比较好英澳" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

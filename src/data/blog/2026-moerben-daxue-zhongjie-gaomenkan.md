@@ -7,7 +7,7 @@ modDatetime: '2026-07-03T00:00:00Z'
 slug: '2026-moerben-daxue-zhongjie-gaomenkan'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 tags:
   - '澳洲留学'
   - '留学中介'
@@ -17,7 +17,7 @@ tags:
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026墨尔本大学申请中介怎么选高门槛专业的制胜策略" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026墨尔本大学申请中介怎么选高门槛专业的制胜策略" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

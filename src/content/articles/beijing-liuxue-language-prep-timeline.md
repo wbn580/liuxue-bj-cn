@@ -9,7 +9,7 @@ tags:
   - 标化考试
   - 留学规划
   - 北京
-ogImage: "https://img.ulec.com.cn/留学/beijing-liuxue-language-prep-timeline-2026-1880x1291.jpg"
+ogImage: "/images/留学_beijing-liuxue-language-prep-timeline-2026-1880x1291.jpg"
 ---
 
 ## 为什么北京家庭需要提前规划

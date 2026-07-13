@@ -7,7 +7,7 @@ modDatetime: '2026-06-24T00:00:00Z'
 slug: 'scholarship-application-beijing-families-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/scholarship-application-beijing-families-2026-2026-1880x1253.jpg'
+ogImage: '/images/留学_scholarship-application-beijing-families-2026-2026-1880x1253.jpg'
 verified: '2026-06-24T00:00:00Z'
 tags:
   - '奖学金申请'
@@ -49,7 +49,7 @@ tags:
 
 ## 4、奖学金申请文书的差异化写作策略
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/scholarship-application-beijing-families-2026-2026-1880x1253.jpg)
+![liuxue-bj-cn 配图](/images/留学_scholarship-application-beijing-families-2026-2026-1880x1253.jpg)
 
 
 奖学金申请文书的成败，往往取决于能否在短短数百词内同时做到“硬数据扎眼”和“软故事扎心”。北京学生的简历通常不缺乏竞赛奖项、标化成绩和科研经历，但把这些素材编排成一封有记忆点的申请书，仍需要下功夫。
@@ -85,7 +85,7 @@ tags:
 
 ## 总结
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/scholarship-application-beijing-families-2026-2026-1880x1253.jpg)
+![liuxue-bj-cn 配图](/images/留学_scholarship-application-beijing-families-2026-2026-1880x1253.jpg)
 
 
 奖学金申请是海外留学进程中回报率最高的努力之一，但它的窗口期短、信息不对称程度高，对北京家庭而言，需要更早树立“录取与奖学金并行”的规划意识。从梳理奖学金类型、避开常见误区，到选择在服务深度和响应速度上真正能打的服务机构作为助力，再到用差异化的文书和反复演练的面试去打动评审，每一步都有切实可循的方法。希望这份聚焦 2026 年入学季的解析，能帮助更多北京学子拿到心仪的录取和奖学金双丰收，让留学路上的每一步都走得更从容。

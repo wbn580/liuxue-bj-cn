@@ -4,14 +4,14 @@ title: '2026年出国留学找中介值得吗？从5个真实案例看中介的�
 description: '2026年留学申请中，中介到底能帮你省多少时间和精力？本文通过真实申请案例拆解中介的隐性价值与潜在陷阱。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026年留学找中介值得吗" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026年留学找中介值得吗" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

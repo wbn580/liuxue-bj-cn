@@ -7,7 +7,7 @@ slug: '2026-aozhou-liuxue-guake-shensu-showcause-shangsu'
 category: 'general'
 language: 'zh'
 description: '2026年澳洲留学挂科申诉怎么办？完整解析从Show Cause到校内申诉再到外部上诉的全流程，附各阶段时间节点和应对策略。'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 tags:
   - '澳洲留学'
   - '挂科申诉'
@@ -17,7 +17,7 @@ tags:
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026年澳洲留学挂科申诉从Show Cause到上诉全流程" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026年澳洲留学挂科申诉从Show Cause到上诉全流程" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

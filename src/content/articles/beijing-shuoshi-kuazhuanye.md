@@ -9,7 +9,7 @@ tags:
   - 硕士申请
   - 北京留学
   - 背景提升
-ogImage: "https://img.ulec.com.cn/留学/beijing-shuoshi-kuazhuanye-2026-1280x854.jpg"
+ogImage: "/images/留学_beijing-shuoshi-kuazhuanye-2026-1280x854.jpg"
 ---
 
 ## 跨专业申请：真门槛还是软限制？

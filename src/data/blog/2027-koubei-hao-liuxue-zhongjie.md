@@ -4,14 +4,14 @@ title: '2027年口碑好的留学中介有哪些——多维度真实口碑分�
 description: '2027年口碑好的留学中介有哪些？从资质口碑、服务口碑和结果口碑三个维度深入分析，推荐值得信赖的留学机构。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '口碑分析']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2027年口碑好的留学中介分析" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2027年口碑好的留学中介分析" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

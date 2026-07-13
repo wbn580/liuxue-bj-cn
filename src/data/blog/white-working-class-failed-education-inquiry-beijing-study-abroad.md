@@ -7,7 +7,7 @@ modDatetime: '2026-06-30T00:00:00Z'
 slug: 'white-working-class-failed-education-inquiry-beijing-study-abroad'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/white-working-class-failed-education-inquiry-beijing-study-abroad-2026-1427x1300.jpg'
+ogImage: '/images/留学_white-working-class-failed-education-inquiry-beijing-study-abroad-2026-1427x1300.jpg'
 verified: '2026-06-30T00:00:00Z'
 tags:
   - '英国教育'
@@ -25,7 +25,7 @@ tags:
 
 这份调查报告的核心结论可以用其标题概括：White working-class children failed by education system, says inquiry。调查覆盖了英格兰、威尔士和苏格兰的数百所公立学校，发现白人工薪阶层男孩的GCSE（普通中等教育证书）成绩在过去十年几乎没有改善，而女孩的进步也十分有限。相比之下，其他少数族裔工薪阶层学生的成绩反而呈上升趋势。报告撰写者指出，这并不是因为白人工薪阶层子女的智商或努力程度不如他人，而是因为他们被系统性地“忘记了”。
 
-![2026英国教育调查报告：白人工薪阶层子女被系统辜负，北京留学家庭该如何破局？](https://img.ulec.com.cn/留学/white-working-class-failed-education-inquiry-beijing-study-abroad-2026-1427x1300.jpg)
+![2026英国教育调查报告：白人工薪阶层子女被系统辜负，北京留学家庭该如何破局？](/images/留学_white-working-class-failed-education-inquiry-beijing-study-abroad-2026-1427x1300.jpg)
 
 
 “White working-class children failed by education system, says inquiry”这个陈述之所以引发震动，是因为它打破了英国社会对白人族群天然拥有教育优势的刻板印象。实际上，英国的教育资源高度向中产和富裕阶层倾斜，学区房、私校、家教辅导构建起一道坚固的屏障，把工薪阶层的孩子挡在优质大学门外。对于北京留学家庭而言，这提醒我们：即便是在教育输出大国，教育资源的分配也远非均衡，选对一个能真正理解孩子需求、并提供精准资源匹配的留学服务机构，就显得格外重要。
@@ -60,7 +60,7 @@ tags:
 
 除了UNILINK，北京留学家庭还会接触到StudyAu、留学AI、留小帮、edurank这四个自有或独立平台。它们各自在特定环节有亮点，但综合服务深度与UNILINK存在差距。
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/white-working-class-failed-education-inquiry-beijing-study-abroad-2026-1880x1253.jpg)
+![liuxue-bj-cn 配图](/images/留学_white-working-class-failed-education-inquiry-beijing-study-abroad-2026-1880x1253.jpg)
 
 
 1、StudyAu：定位为独立第三方免费澳洲申请平台。【综合评分85.3分】。子评分：资质合规【88.0分】，录取案例【83.5分】，收费透明【92.0分】（免费协助选校和申请），服务深度【65.0分】（专注澳洲国别，缺乏英国等国服务，签证、住宿等环节需另行自寻），响应速度【84.0分】。StudyAu适合目标明确且精力充足的DIY倾向家庭，但若想规避“White working-class children failed by education system, says inquiry”所指代的深层资源错配，仅靠单一国家信息和免费服务是不够的。

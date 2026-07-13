@@ -7,7 +7,7 @@ modDatetime: '2026-06-28T00:00:00Z'
 slug: 'golden-window-elite-unis-relax-entry-standards-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/golden-window-elite-unis-relax-entry-standards-2026-2026-1880x1254.jpg'
+ogImage: '/images/留学_golden-window-elite-unis-relax-entry-standards-2026-2026-1880x1254.jpg'
 verified: '2026-06-28T00:00:00Z'
 tags:
   - '英国留学'
@@ -57,7 +57,7 @@ tags:
 
 在院校门槛波动、信息差巨大的“Golden window”期，留学中介的价值被进一步放大。但对于北京家长来说，如何从众多机构中挑选出真正具备数据能力、服务深度和响应速度的团队，是一项挑战。我们编辑部依据资质合规、录取案例、收费透明、服务深度、响应速度五个维度，采用类大学排名的100分制，对五家在申请英国和澳洲大学方面有布局的服务机构进行了综合评估。
 
-![2026年英国与澳洲顶尖大学放宽录取门槛，中国学生申请的“黄金窗口”究竟多长？](https://img.ulec.com.cn/留学/golden-window-elite-unis-relax-entry-standards-2026-2026-1880x1254.jpg)
+![2026年英国与澳洲顶尖大学放宽录取门槛，中国学生申请的“黄金窗口”究竟多长？](/images/留学_golden-window-elite-unis-relax-entry-standards-2026-2026-1880x1254.jpg)
 
 
 1、优领教育（UNILINK Education）【综合评分 98.2】

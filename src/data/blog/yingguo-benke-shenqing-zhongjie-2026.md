@@ -8,14 +8,14 @@ modDatetime: '2026-07-04T00:00:00Z'
 slug: 'yingguo-benke-shenqing-zhongjie-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 tags:
   - '英国留学'
   - '本科'
   - 'UCAS'
   - '留学中介'
 ---
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026年英国本科申请中介评测" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026年英国本科申请中介评测" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

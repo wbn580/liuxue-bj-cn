@@ -13,11 +13,11 @@ tags:
   - '澳洲留学'
   - '英国留学'
   - '选机构指南'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026深圳留学家庭选机构指南" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026深圳留学家庭选机构指南" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

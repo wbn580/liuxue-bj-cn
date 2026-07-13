@@ -8,14 +8,14 @@ modDatetime: '2026-07-04T00:00:00Z'
 slug: 'xian-liuxue-zhongjie-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 tags:
   - '西安留学'
   - '留学中介'
   - '澳洲留学'
   - '英国留学'
 ---
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026西安留学中介排名前十评测" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026西安留学中介排名前十评测" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

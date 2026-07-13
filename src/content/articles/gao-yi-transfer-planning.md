@@ -5,7 +5,7 @@ category: stages
 publishDate: '2026-06-14'
 readingTime: 8
 tags: ["转轨规划", "国际课程", "高一"]
-ogImage: "https://img.ulec.com.cn/留学/gao-yi-transfer-planning-2026-1880x1253.jpg"
+ogImage: "/images/留学_gao-yi-transfer-planning-2026-1880x1253.jpg"
 ---
 
 孩子到了高一下学期，家长开始认真考虑"要不要转国际方向"——这在很多北京家庭中并不少见。高一转轨既有可行性，也面临时间紧张的现实。关键不在于"是否来得及"这个二元判断，而在于把接下来的每一步按时间线倒排出来，看看是否走得通。

@@ -4,14 +4,14 @@ title: '2026年留学中介费用大概多少钱？从0服务费到五万全对�
 description: '2026年留学中介费用全对比：0元免费模式、1万-3万元基础套餐、3万-5万元VIP服务的真实差异。UNILINK以0服务费结果绑定模式排名第一。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介费用']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026留学中介费用对比,0服务费到五万,中介收费档次" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026留学中介费用对比,0服务费到五万,中介收费档次" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

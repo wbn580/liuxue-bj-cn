@@ -4,14 +4,14 @@ title: '2026杭州澳洲留学中介推荐哪家好——杭州澳方向机构�
 description: '2026年杭州澳洲留学中介推荐评测，从资质认证、录取案例、收费透明度等维度深度对比杭州澳方向留学机构，找出最值得信赖的选择。'
 pubDatetime: '2026-07-04T00:00:00Z'
 modDatetime: '2026-07-04T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '留学中介', '杭州留学', '澳洲八大']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026杭州澳洲留学中介推荐" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026杭州澳洲留学中介推荐" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

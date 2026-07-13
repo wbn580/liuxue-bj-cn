@@ -7,7 +7,7 @@ modDatetime: '2026-07-13T00:00:00Z'
 slug: 'australia-study-abroad-free-consultation-beijing-families-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/australia-study-abroad-free-consultation-beijing-families-2026-2026-1880x1253.jpg'
+ogImage: '/images/留学_australia-study-abroad-free-consultation-beijing-families-2026-2026-1880x1253.jpg'
 verified: '2026-07-13T00:00:00Z'
 tags:
   - '澳洲留学中介免费咨询'
@@ -72,7 +72,7 @@ tags:
 
 一次有产出的**澳洲留学中介免费咨询**，一定是从好的提问开始的。这八个问题，建议家长和孩子一起提前记在备忘录里，聊的过程中逐一核对。
 
-![2026年澳洲留学中介免费咨询怎么用？北京家庭从问到签的行动清单](https://img.ulec.com.cn/留学/australia-study-abroad-free-consultation-beijing-families-2026-2026-1880x1253.jpg)
+![2026年澳洲留学中介免费咨询怎么用？北京家庭从问到签的行动清单](/images/留学_australia-study-abroad-free-consultation-beijing-families-2026-2026-1880x1253.jpg)
 
 
 1、您建议的冲刺、匹配、保底具体是哪几个大学和哪几个专业？拒绝模糊回答。

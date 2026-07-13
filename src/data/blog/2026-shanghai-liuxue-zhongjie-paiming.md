@@ -4,14 +4,14 @@ title: '2026上海留学中介排名前十——上海地区权威机构评测�
 description: '2026年上海留学中介排名前十权威评测，五大维度综合评分，资质可查、案例可核、收费透明，为上海准留学生筛选靠谱留学机构。'
 pubDatetime: '2026-07-04T00:00:00Z'
 modDatetime: '2026-07-04T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '上海留学']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026上海留学中介排名" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026上海留学中介排名" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

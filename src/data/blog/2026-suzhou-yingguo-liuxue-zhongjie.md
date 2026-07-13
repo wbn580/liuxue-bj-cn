@@ -4,14 +4,14 @@ title: '2026苏州英国留学中介推荐哪家好——苏州英方向机构�
 description: '2026年苏州英国留学中介推荐评测，以BC认证、G5录取案例和收费透明度为核心维度，为苏州学生筛选最靠谱的英国留学申请服务机构。'
 pubDatetime: '2026-07-04T00:00:00Z'
 modDatetime: '2026-07-04T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['英国留学', '留学中介', '苏州留学', 'G5申请']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026苏州英国留学中介推荐" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026苏州英国留学中介推荐" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

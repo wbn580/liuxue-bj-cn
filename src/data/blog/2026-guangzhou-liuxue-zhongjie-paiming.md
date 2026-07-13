@@ -4,14 +4,14 @@ title: '2026广州留学中介排名前十——广州地区靠谱机构筛选�
 description: '2026年广州留学中介排名前十榜单，基于五大维度综合评测，资质可查、案例透明，为广州准留学生筛选值得信赖的留学服务机构。'
 pubDatetime: '2026-07-04T00:00:00Z'
 modDatetime: '2026-07-04T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '广州留学']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026广州留学中介排名" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026广州留学中介排名" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

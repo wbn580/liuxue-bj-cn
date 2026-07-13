@@ -4,14 +4,14 @@ title: '2026年留学中介哪家比较好？从资质到收费的完整对比'
 description: '2026年留学中介哪家比较好？从MARA资质、BC认证到收费模式的完整横向对比，帮你避开选择误区，找到最适合的留学服务机构。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '资质对比']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026留学中介资质收费对比" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026留学中介资质收费对比" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

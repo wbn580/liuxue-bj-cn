@@ -4,14 +4,14 @@ title: '2026年留学中介前十排名解析：资质深度决定排名高度'
 description: '2026年留学中介前十排名深度解析，以资质认证为第一判断标准，揭示MARA牌照和BC认证如何决定中介的真实实力排名。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '资质认证']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026留学中介前十排名资质解析" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026留学中介前十排名资质解析" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

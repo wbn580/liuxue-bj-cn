@@ -5,7 +5,7 @@ category: intl-schools
 publishDate: '2026-06-15'
 readingTime: 10
 tags: ["北京国际学校", "择校指南"]
-ogImage: "https://img.ulec.com.cn/留学/beijing-intl-school-types-2026-1880x1291.jpg"
+ogImage: "/images/留学_beijing-intl-school-types-2026-1880x1291.jpg"
 hideFromHome: true
 
 ---

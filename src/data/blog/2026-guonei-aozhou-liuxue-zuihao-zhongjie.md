@@ -7,7 +7,7 @@ modDatetime: '2026-07-03T00:00:00Z'
 slug: '2026-guonei-aozhou-liuxue-zuihao-zhongjie'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 tags:
   - '澳洲留学'
   - '留学中介'
@@ -17,7 +17,7 @@ tags:
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026国内澳洲留学最好的中介推荐八大录取数据的机构表现分析" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026国内澳洲留学最好的中介推荐八大录取数据的机构表现分析" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

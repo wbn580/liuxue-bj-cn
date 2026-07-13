@@ -10,7 +10,7 @@ tags:
   - 用人单位资质
   - 留学生落户
   - 北京留学网
-ogImage: "https://img.ulec.com.cn/留学/beijing-haigui-luohu-employer-qualification-2026-1880x1291.jpg"
+ogImage: "/images/留学_beijing-haigui-luohu-employer-qualification-2026-1880x1291.jpg"
 ---
 
 ## 为什么用人单位资质这么重要？

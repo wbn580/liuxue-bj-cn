@@ -4,14 +4,14 @@ title: '2027年北京留学中介哪家比较好——北京地区机构实力�
 description: '2027年北京留学中介哪家比较好？针对北京地区申请者的需求特点，从资质、案例和本地服务角度全面评测主流机构。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '北京留学']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2027年北京留学中介哪家好" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2027年北京留学中介哪家好" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

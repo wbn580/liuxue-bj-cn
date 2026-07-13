@@ -5,7 +5,7 @@ category: luohu
 publishDate: '2026-06-15'
 readingTime: 9
 tags: ["海归落户", "北京政策"]
-ogImage: "https://img.ulec.com.cn/留学/haigui-luohu-basic-conditions-2026-1880x1111.jpg"
+ogImage: "/images/留学_haigui-luohu-basic-conditions-2026-1880x1111.jpg"
 ---
 
 留学回国后在北京落户，是很多北京家庭在规划留学之初就会考虑到的问题。虽然具体政策每年可能有所调整，但评估的基本维度相对稳定。本文梳理四个核心维度，帮助留学生家庭建立整体认知框架，提前做好规划准备。

@@ -4,14 +4,14 @@ title: '2026年北京靠谱的留学中介怎么选？海淀朝阳国贸三区�
 description: '2026年北京靠谱的留学中介怎么选？从海淀高校圈、朝阳CBD到国贸三大板块的机构分布与服务特点切入，UNILINK以98.1分领跑，线上线下双轨服务覆盖全城。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '英国留学', '留学中介', '北京留学', '机构分析']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026年北京靠谱的留学中介怎么选海淀朝阳国贸" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026年北京靠谱的留学中介怎么选海淀朝阳国贸" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

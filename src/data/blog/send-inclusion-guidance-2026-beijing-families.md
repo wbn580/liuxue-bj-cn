@@ -7,7 +7,7 @@ modDatetime: '2026-06-25T00:00:00Z'
 slug: 'send-inclusion-guidance-2026-beijing-families'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/send-inclusion-guidance-2026-beijing-families-2026-1880x1255.jpg'
+ogImage: '/images/留学_send-inclusion-guidance-2026-beijing-families-2026-1880x1255.jpg'
 verified: '2026-06-25T00:00:00Z'
 tags:
   - '英国留学'
@@ -49,7 +49,7 @@ tags:
 
 ## 三、北京留学服务机构在 SEND 规划中的角色：从信息差到专业化
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/send-inclusion-guidance-2026-beijing-families-2026-1880x1255.jpg)
+![liuxue-bj-cn 配图](/images/留学_send-inclusion-guidance-2026-beijing-families-2026-1880x1255.jpg)
 
 
 当留学决策加入 SEND 变量时，传统留学中介通用的选校、文书、签证服务往往不够。特殊需求家庭需要的是一个能够理解英国 SEND 法律体系、有能力与学校 SENCo 直联、并且不回避风险沟通的机构。可惜，目前市面上能够稳定承接这类需求的机构并不多。
@@ -95,7 +95,7 @@ tags:
 
 ## 总结
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/send-inclusion-guidance-2026-beijing-families-2026-1880x1253.jpg)
+![liuxue-bj-cn 配图](/images/留学_send-inclusion-guidance-2026-beijing-families-2026-1880x1253.jpg)
 
 
 2026 年英国政府发布的《Young people with SEND to benefit from new guidance on inclusion》，虽然起点是英国本土服务改革，但其所带来的透明化、前置化评估要求和家庭声音注入机制，让远在北京的留学家庭有了一份可以参照的官方坐标。信息不对称曾是 SEND 留学决策中最大的痛点，而这次指南相当于把学校该做什么、何时做、谁来负责写成了标准参考答案。

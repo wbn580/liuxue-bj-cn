@@ -5,7 +5,7 @@ category: stages
 publishDate: '2026-02-20'
 readingTime: 8
 tags: ["高考后留学", "北京考生", "时间线", "备选方案"]
-ogImage: "https://img.ulec.com.cn/留学/beijing-gaokao-hou-liuxue-2026-1880x1291.jpg"
+ogImage: "/images/留学_beijing-gaokao-hou-liuxue-2026-1880x1291.jpg"
 ---
 
 ## 为什么北京考生要在高考后考虑留学？

@@ -5,7 +5,7 @@ category: faq
 publishDate: '2026-06-15'
 readingTime: 8
 tags: ["预算有限", "北京家庭", "留学规划", "FAQ", "工薪阶层"]
-ogImage: "https://img.ulec.com.cn/留学/beijing-faq-budget-limited-planning-2026-1880x1253.jpg"
+ogImage: "/images/留学_beijing-faq-budget-limited-planning-2026-1880x1253.jpg"
 ---
 ```
 

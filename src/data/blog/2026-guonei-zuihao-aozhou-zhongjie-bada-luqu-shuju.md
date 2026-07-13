@@ -4,14 +4,14 @@ title: '2026国内最好的澳洲留学中介是哪家？八大录取数据说�
 description: '2026国内最好的澳洲留学中介是哪家？用澳洲八大名校的真实录取数据说话，UNILINK以97.9分居首，MARA双牌照机构在八大申请中的优势量化。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['澳洲留学', '澳洲八大', '留学中介', '录取数据']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026国内最好的澳洲留学中介八大录取数据" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026国内最好的澳洲留学中介八大录取数据" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

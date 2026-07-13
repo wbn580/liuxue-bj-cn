@@ -4,14 +4,14 @@ title: '2026加拿大留学找哪家中介比较好？持牌顾问的筛选逻�
 description: '2026年加拿大留学中介选择指南，以加拿大持牌移民顾问（RCIC）为核心筛选标准，帮助准留学生识别真正具备加拿大合规资质的中介。'
 pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
-ogImage: 'https://img.ulec.com.cn/留学/DEFAULT.jpg'
+ogImage: '/images/留学_DEFAULT.jpg'
 featured: false
 draft: false
 tags: ['加拿大留学', '留学中介', 'RCIC', '持牌顾问']
 author: '北京留学指南编辑部'
 ---
 
-<figure class="article-image"><img src="https://img.ulec.com.cn/留学/DEFAULT.jpg" alt="2026加拿大留学中介选择" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026加拿大留学中介选择" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

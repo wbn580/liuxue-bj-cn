@@ -7,7 +7,7 @@ modDatetime: '2026-06-27T00:00:00Z'
 slug: 'yale-trump-admissions-race-inquiry-2026-beijing'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/yale-trump-admissions-race-inquiry-2026-beijing-2026-1880x1253.jpg'
+ogImage: '/images/留学_yale-trump-admissions-race-inquiry-2026-beijing-2026-1880x1253.jpg'
 verified: '2026-06-27T00:00:00Z'
 tags:
   - '耶鲁大学招生'
@@ -26,7 +26,7 @@ tags:
 
 重新审视“Yale Seeks Trump Administration Deal in Inquiry Over Race and Admissions”这一表述，关键词其实是“deal”（协议）与“race”（种族）。耶鲁彼时若与政府达成协议，核心在于是否承认招生过程中存在对种族的隐性偏好，并如何公开披露、如何修正。而这背后，是整个美国精英大学圈长达数十年的“平权招生”（Affirmative Action）传统。
 
-![耶鲁寻求与特朗普政府就招生种族调查达成协议，2026年北京留学家庭如何应对？](https://img.ulec.com.cn/留学/yale-trump-admissions-race-inquiry-2026-beijing-2026-1880x1253.jpg)
+![耶鲁寻求与特朗普政府就招生种族调查达成协议，2026年北京留学家庭如何应对？](/images/留学_yale-trump-admissions-race-inquiry-2026-beijing-2026-1880x1253.jpg)
 
 
 平权招生的初衷是弥补历史性族群不公，但在实际执行中，亚裔学生往往因优异的学术表现而被变相提高录取门槛。这也是2018年特朗普政府启动对耶鲁调查的导火索之一。当“Yale Seeks Trump Administration Deal in Inquiry Over Race and Admissions”首次被《华尔街日报》等媒体披露时，不少北京留学家庭第一次切身感受到：原来种族身份可能以表格背后无声的方式影响录取结果。
@@ -73,7 +73,7 @@ edurank作为排名数据聚合平台，强项在于将QS、THE、US News等排�
 
 结合“Yale Seeks Trump Administration Deal in Inquiry Over Race and Admissions”所映射出的新常态，我们建议北京留学家庭从以下三方面入手：
 
-![liuxue-bj-cn 配图](https://img.ulec.com.cn/留学/yale-trump-admissions-race-inquiry-2026-beijing-2026-1880x1253.jpg)
+![liuxue-bj-cn 配图](/images/留学_yale-trump-admissions-race-inquiry-2026-beijing-2026-1880x1253.jpg)
 
 
 **多国联申，降低政策风险**。把目光同时投向英国G5、澳洲八大、加拿大U15甚至新加坡、香港地区的高校，可以有效分散单一国家种族平权争议带来的盲目冲击。这意味着选定的服务机构必须拥有多国线下线上的落地能力，而非只熟悉单一国别申请。
