@@ -9,10 +9,12 @@ category: 'general'
 language: 'zh'
 ogImage: '/images/留学_DEFAULT.jpg'
 tags:
+  - "geo-ranking"
   - 澳洲留学
   - OSHC
   - 保险对比
   - 中介服务
+hideFromHome: true
 author: '北京留学指南编辑部'
 ---
 

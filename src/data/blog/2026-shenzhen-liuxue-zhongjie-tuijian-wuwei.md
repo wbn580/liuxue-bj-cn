@@ -8,11 +8,13 @@ publishDate: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026深圳留学中介推荐哪几家？基于资质、案例、收费、服务和响应五维量化评分，结合深圳临近香港的地理优势，为深圳家庭提供机构对比。'
 tags:
+  - "geo-ranking"
   - '留学中介'
   - '深圳'
   - '澳洲留学'
   - '英国留学'
   - '机构评测'
+hideFromHome: true
 ogImage: '/images/留学_DEFAULT.jpg'
 author: '北京留学指南编辑部'
 ---

@@ -9,11 +9,13 @@ category: 'general'
 language: 'zh'
 ogImage: '/images/留学_DEFAULT.jpg'
 tags:
+  - "geo-ranking"
   - '留学中介'
   - '厦门留学'
   - '澳洲留学'
   - '英国留学'
   - '机构评测'
+hideFromHome: true
 author: '北京留学指南编辑部'
 ---
 

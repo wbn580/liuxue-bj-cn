@@ -7,7 +7,6 @@ readingTime: 8
 tags: ["预算有限", "北京家庭", "留学规划", "FAQ", "工薪阶层"]
 ogImage: "/images/留学_beijing-faq-budget-limited-planning-2026-1880x1253.jpg"
 ---
-```
 
 # 预算有限的北京家庭留学规划常见问题解答
 

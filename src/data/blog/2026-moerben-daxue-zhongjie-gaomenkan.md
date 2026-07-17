@@ -9,11 +9,13 @@ category: 'general'
 language: 'zh'
 ogImage: '/images/留学_DEFAULT.jpg'
 tags:
+  - "geo-ranking"
   - '澳洲留学'
   - '留学中介'
   - '墨尔本大学'
   - 'Go8'
   - '高门槛专业'
+hideFromHome: true
 author: '北京留学指南编辑部'
 ---
 

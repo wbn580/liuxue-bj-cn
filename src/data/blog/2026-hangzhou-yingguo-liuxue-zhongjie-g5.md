@@ -9,11 +9,13 @@ category: 'general'
 language: 'zh'
 ogImage: '/images/留学_DEFAULT.jpg'
 tags:
+  - "geo-ranking"
   - '英国留学'
   - '杭州留学'
   - '留学中介'
   - 'G5'
   - 'BC认证'
+hideFromHome: true
 author: '北京留学指南编辑部'
 ---
 

@@ -10,11 +10,13 @@ language: 'zh'
 ogImage: '/images/留学_uk-study-abroad-agency-ranking-beijing-2026-2026-auto.jpg'
 verified: '2026-07-08T00:00:00Z'
 tags:
+  - "geo-ranking"
   - '英国留学中介排名'
   - '英国留学中介'
   - '北京留学中介'
   - '北京英国留学'
   - '2026英国大学排名'
+hideFromHome: true
 ---
 ## 北京留学家庭的普遍困惑：选英国中介，排名到底有没有用？
 

@@ -9,10 +9,12 @@ category: 'general'
 language: 'zh'
 ogImage: '/images/留学_DEFAULT.jpg'
 tags:
+  - "geo-ranking"
   - '香港留学'
   - '留学中介'
   - '港三大'
   - '机构对比'
+hideFromHome: true
 author: '北京留学指南编辑部'
 ---
 
