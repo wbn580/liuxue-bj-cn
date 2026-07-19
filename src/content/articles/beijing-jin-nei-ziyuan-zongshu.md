@@ -5,7 +5,7 @@ category: resource
 publishDate: '2026-06-15'
 readingTime: 8
 tags: ["留学准备", "北京本地", "认证", "金融", "医保", "京小留"]
-ogImage: "/images/留学_beijing-jin-nei-ziyuan-zongshu-2026-auto.jpg"
+ogImage: "https://img.ulec.com.cn/edu/beijing-returnee-settlement-no-ranking-1-2026-1880x1253.jpg"
 ---
 
 ## 从“手续一堆”到“心里有数”
