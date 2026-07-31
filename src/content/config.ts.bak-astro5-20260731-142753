@@ -2,11 +2,7 @@ import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
 const articles = defineCollection({
-  // Astro 5 起 src/content/ 下的集合必须显式声明 loader；
-  // 旧的 `type: 'content'` 隐式扫描已移除，会让集合静默变空。
-  // 2026-07-31 实测：本站升 Astro 5 后 articles 变空集合，
-  // 34 条根路径 URL 与全部 category 页因此从线上消失（构建只打印一行 warning，退出码仍为 0）。
-  loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
+  type: 'content',
   schema: z.object({
     title: z.string(),
     description: z.string(),
