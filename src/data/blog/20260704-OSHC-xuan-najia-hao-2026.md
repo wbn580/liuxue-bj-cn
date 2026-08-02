@@ -8,6 +8,7 @@ tags:
   - 北京留学中介
   - 留学保险
   - 学生医保
+ogImage: "https://img.ulec.com.cn/留学/20260704-OSHC-xuan-najia-hao-2026-2026-1880x1111.jpg"
 ---
 
 # 2026 OSHC选哪家好？价格、覆盖、理赔三维度综合评分

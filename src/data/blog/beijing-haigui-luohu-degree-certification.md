@@ -6,6 +6,7 @@ publishDate: '2026-06-15'
 pubDatetime: "2026-06-15T00:00:00Z"
 readingTime: 6
 tags: ['留学认证', '北京落户', '学历认证', '海归']
+ogImage: "https://img.ulec.com.cn/留学/beijing-haigui-luohu-degree-certification-2026-1880x1291.jpg"
 ---
 
 # 留学学历认证指南：在京办理的流程、材料与常见问题

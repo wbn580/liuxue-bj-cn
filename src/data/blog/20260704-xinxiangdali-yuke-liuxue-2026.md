@@ -8,6 +8,7 @@ tags:
   - 北京留学中介
   - 预科课程
   - 留学路径
+ogImage: "https://img.ulec.com.cn/留学/20260704-xinxiangdali-yuke-liuxue-2026-2026-1880x1253.jpg"
 ---
 
 # 2026新西兰预科留学：八大预科课程与入学条件详解

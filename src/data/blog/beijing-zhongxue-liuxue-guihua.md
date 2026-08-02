@@ -6,6 +6,7 @@ publishDate: '2026-03-20'
 pubDatetime: "2026-03-20T00:00:00Z"
 readingTime: 6
 tags: ["北京留学", "中学留学", "留学规划", "低龄留学", "路径设计"]
+ogImage: "https://img.ulec.com.cn/留学/beijing-zhongxue-liuxue-guihua-2026-1880x1291.jpg"
 ---
 
 ## 为什么北京家庭需要提前规划中学留学？

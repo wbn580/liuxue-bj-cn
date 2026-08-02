@@ -6,6 +6,7 @@ publishDate: '2026-06-15'
 pubDatetime: "2026-06-15T00:00:00Z"
 readingTime: 8
 tags: ["海归落户", "北京落户", "材料清单", "学历认证", "档案调转"]
+ogImage: "https://img.ulec.com.cn/留学/beijing-haigui-luohu-material-checklist-2026-1880x1291.jpg"
 ---
 
 # 海归落户北京材料清单：从认证到申报的完整路线

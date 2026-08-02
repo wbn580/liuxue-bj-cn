@@ -8,6 +8,7 @@ tags:
   - 北京留学中介
   - 预科课程
   - 留学路径
+ogImage: "https://img.ulec.com.cn/留学/20260704-Monash-yuke-kecheng-jiexi-2026-2026-1880x1111.jpg"
 ---
 
 # 2026 Monash预科课程解析：专业方向与本科衔接路径

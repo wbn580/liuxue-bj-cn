@@ -8,7 +8,7 @@ slug: 'liuxue-bj-cn-guide-2026-07-31-8f5d203aa2'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: ''
+ogImage: "https://img.ulec.com.cn/留学/liuxue-bj-cn-guide-2026-07-31-8f5d203aa2-2026-1880x1253.jpg"
 verified: '2026-07-31T00:00:00Z'
 tags:
   - '时间管理'

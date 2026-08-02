@@ -13,6 +13,7 @@ tags:
   - OVHC
   - 485签证
   - 毕业生
+ogImage: "https://img.ulec.com.cn/留学/2026-ovhc-vs-oshc-graduate-switch-2026-1880x1253.jpg"
 ---
 
 <figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026OVHC和OSHC区别详解" width="1200" height="800" loading="lazy" decoding="async" /></figure>

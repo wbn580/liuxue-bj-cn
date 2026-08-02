@@ -11,6 +11,7 @@ tags:
   - 申请指南
   - 择校
   - 留学家庭
+ogImage: "https://img.ulec.com.cn/留学/beijing-intl-school-admission-flow-2026-1880x1291.jpg"
 ---
 
 # 北京国际学校入学流程详解：从报名到录取的每一步

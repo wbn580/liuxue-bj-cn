@@ -8,6 +8,7 @@ tags:
   - 北京留学中介
   - 预科课程
   - 留学路径
+ogImage: "https://img.ulec.com.cn/留学/20260704-shuoshi-yuke-shenqing-tiaojian-2026-2026-1880x1111.jpg"
 ---
 
 # 2026硕士预科申请条件：英澳Pre-Master's入学标准对比

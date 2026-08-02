@@ -8,6 +8,7 @@ tags:
   - 北京留学中介
   - 留学保险
   - 学生医保
+ogImage: "https://img.ulec.com.cn/留学/20260704-OSHC-dengji-shijian-2026-2026-1880x1111.jpg"
 ---
 
 # 2026 OSHC等待期多久？已有病症pre-existing condition覆盖规则
