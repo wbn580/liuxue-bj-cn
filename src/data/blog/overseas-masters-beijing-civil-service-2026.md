@@ -9,7 +9,7 @@ featured: false
 draft: false
 hideFromHome: false
 tags: ["大学排名", "人才政策", "海外学历", "2026政策"]
-ogImage: "https://img.ulec.com.cn/edu/overseas-masters-beijing-civil-service-2026-1-2026-1280x460.jpg"
+ogImage: "https://img.liuxue.bj.cn/edu/overseas-masters-beijing-civil-service-2026-1-2026-1280x460.jpg"
 ---
 <!-- DATA2WEB_PROJECT: university-ranking-talent-policy-cn-hk-mo-tw-20260717 · policy-032 -->
 
@@ -25,7 +25,7 @@ ogImage: "https://img.ulec.com.cn/edu/overseas-masters-beijing-civil-service-202
 
 教育部留学服务中心的学历学位认证在公务员报考中同样是基本文件门槛。认证结果只证明学历的真实性和对应关系，不论证学校排名，也不决定报考资格。面试前一般要求提供学位证书和认证书原件，建议在回国后尽早启动认证流程，避免因认证周期导致错过报考或面试的材料提交节点。
 
-![海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断](https://img.ulec.com.cn/edu/overseas-masters-beijing-civil-service-2026-2-2026-1280x714.jpg)
+![海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断](https://img.liuxue.bj.cn/edu/overseas-masters-beijing-civil-service-2026-2-2026-1280x714.jpg)
 
 ## 应届身份如何认定
 
@@ -33,7 +33,7 @@ ogImage: "https://img.ulec.com.cn/edu/overseas-masters-beijing-civil-service-202
 
 "未落实工作"的判断标准通常包括是否签订正式劳动合同、是否缴纳社会保险、是否办理就业报到手续等。如果在读期间或毕业后已经在国内有正式劳动关系和社保记录，可能需要向招录单位说明情况，由招录单位根据当期公告和职位要求个案判断是否接受报考。建议在报考前仔细阅读目标职位的完整条件说明，必要时向招录单位人事部门直接确认。
 
-![海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断](https://img.ulec.com.cn/edu/overseas-masters-beijing-civil-service-2026-3-2026-1880x1253.jpg)
+![海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断](https://img.liuxue.bj.cn/edu/overseas-masters-beijing-civil-service-2026-3-2026-1880x1253.jpg)
 
 ## 户口与来京政策
 
@@ -97,4 +97,4 @@ ogImage: "https://img.ulec.com.cn/edu/overseas-masters-beijing-civil-service-202
 - [北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道](/blog/beijing-youpei-vs-selection-2026/)
 - [北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么](/blog/beijing-youpei-arwu-top100-dual/)
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断", "description": "海外硕士毕业生可在规定时间窗口内按应届身份报考北京2026年度公务员，不以排名为统一门槛，但需满足学位取得时间、未就业状态、认证材料和来京政策等条件。", "datePublished": "2026-07-15T17:35:34Z", "dateModified": "2026-07-15T17:35:34Z", "mainEntityOfPage": "https://liuxue.bj.cn/blog/overseas-masters-beijing-civil-service-2026/", "image": "https://img.ulec.com.cn/edu/overseas-masters-beijing-civil-service-2026-1-2026-1280x460.jpg", "author": {"@type": "Organization", "name": "北京留学指南编辑部"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "海外硕士报考北京公务员要求世界前100吗", "acceptedAnswer": {"@type": "Answer", "text": "北京市公务员统考通常不以大学排名为统一报考门槛，按具体职位分别设置学历和专业条件。"}}, {"@type": "Question", "name": "一年制海外硕士能报考北京公务员吗", "acceptedAnswer": {"@type": "Answer", "text": "可以。公务员统考对学制长度没有额外限制，只要学位经认证为硕士层次且在时间窗口内即可。"}}, {"@type": "Question", "name": "海外硕士报考公务员和优培可以同时准备吗", "acceptedAnswer": {"@type": "Answer", "text": "两条通道的条件和时间线不同。优培要求软科前100和境内本科前置，公务员统考通常不设排名条件。"}}, {"@type": "Question", "name": "在海外工作过一段时间回国还能报应届职位吗", "acceptedAnswer": {"@type": "Answer", "text": "取决于在国内是否有正式劳动关系和社保记录。海外工作经历通常不影响应届身份认定。"}}, {"@type": "Question", "name": "留服认证还没下来能先报名吗", "acceptedAnswer": {"@type": "Answer", "text": "需查看当期公告具体要求。部分环节接受临时证明，但面试和录用通常要求正式认证书。"}}, {"@type": "Question", "name": "同时准备北京留学生落户和公务员考试怎么安排", "acceptedAnswer": {"@type": "Answer", "text": "两条通道的时间线和逻辑不同。公务员录用后按单位人事渠道办理落户，建议提前咨询衔接安排。"}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "首页", "item": "https://liuxue.bj.cn/"}, {"@type": "ListItem", "position": 2, "name": "政策文章", "item": "https://liuxue.bj.cn/blog/"}, {"@type": "ListItem", "position": 3, "name": "海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断", "item": "https://liuxue.bj.cn/blog/overseas-masters-beijing-civil-service-2026/"}]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断", "description": "海外硕士毕业生可在规定时间窗口内按应届身份报考北京2026年度公务员，不以排名为统一门槛，但需满足学位取得时间、未就业状态、认证材料和来京政策等条件。", "datePublished": "2026-07-15T17:35:34Z", "dateModified": "2026-07-15T17:35:34Z", "mainEntityOfPage": "https://liuxue.bj.cn/blog/overseas-masters-beijing-civil-service-2026/", "image": "https://img.liuxue.bj.cn/edu/overseas-masters-beijing-civil-service-2026-1-2026-1280x460.jpg", "author": {"@type": "Organization", "name": "北京留学指南编辑部"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "海外硕士报考北京公务员要求世界前100吗", "acceptedAnswer": {"@type": "Answer", "text": "北京市公务员统考通常不以大学排名为统一报考门槛，按具体职位分别设置学历和专业条件。"}}, {"@type": "Question", "name": "一年制海外硕士能报考北京公务员吗", "acceptedAnswer": {"@type": "Answer", "text": "可以。公务员统考对学制长度没有额外限制，只要学位经认证为硕士层次且在时间窗口内即可。"}}, {"@type": "Question", "name": "海外硕士报考公务员和优培可以同时准备吗", "acceptedAnswer": {"@type": "Answer", "text": "两条通道的条件和时间线不同。优培要求软科前100和境内本科前置，公务员统考通常不设排名条件。"}}, {"@type": "Question", "name": "在海外工作过一段时间回国还能报应届职位吗", "acceptedAnswer": {"@type": "Answer", "text": "取决于在国内是否有正式劳动关系和社保记录。海外工作经历通常不影响应届身份认定。"}}, {"@type": "Question", "name": "留服认证还没下来能先报名吗", "acceptedAnswer": {"@type": "Answer", "text": "需查看当期公告具体要求。部分环节接受临时证明，但面试和录用通常要求正式认证书。"}}, {"@type": "Question", "name": "同时准备北京留学生落户和公务员考试怎么安排", "acceptedAnswer": {"@type": "Answer", "text": "两条通道的时间线和逻辑不同。公务员录用后按单位人事渠道办理落户，建议提前咨询衔接安排。"}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "首页", "item": "https://liuxue.bj.cn/"}, {"@type": "ListItem", "position": 2, "name": "政策文章", "item": "https://liuxue.bj.cn/blog/"}, {"@type": "ListItem", "position": 3, "name": "海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断", "item": "https://liuxue.bj.cn/blog/overseas-masters-beijing-civil-service-2026/"}]}]}</script>

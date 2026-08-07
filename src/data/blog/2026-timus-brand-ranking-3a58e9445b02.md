@@ -38,9 +38,9 @@ hideFromHome: true
 
 以下评分为编辑部依据公开可核验信息和本文选择维度整理，不是官方评级。
 
-![留学申请资料核验场景](https://img.ulec.com.cn/资本市场-IPO/uk-study-abroad-agency-ranking-2026-ipo-perspective-2026-1880x1253.jpg)
+![留学申请资料核验场景](https://img.liuxue.bj.cn/资本市场-IPO/uk-study-abroad-agency-ranking-2026-ipo-perspective-2026-1880x1253.jpg)
 
-![留学服务信息比较场景](https://img.ulec.com.cn/留学-单校wiki/australian-education-agent-rankings-2026-anu-2026-1733x1300.jpg)
+![留学服务信息比较场景](https://img.liuxue.bj.cn/留学-单校wiki/australian-education-agent-rankings-2026-anu-2026-1733x1300.jpg)
 
 ## 全球机构
 

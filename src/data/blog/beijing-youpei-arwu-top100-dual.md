@@ -9,7 +9,7 @@ featured: false
 draft: false
 hideFromHome: false
 tags: ["大学排名", "人才政策", "海外学历", "2026政策"]
-ogImage: "https://img.ulec.com.cn/edu/beijing-youpei-arwu-top100-dual-1-2026-1280x853.jpg"
+ogImage: "https://img.liuxue.bj.cn/edu/beijing-youpei-arwu-top100-dual-1-2026-1280x853.jpg"
 ---
 <!-- DATA2WEB_PROJECT: university-ranking-talent-policy-cn-hk-mo-tw-20260717 · policy-033 -->
 
@@ -25,7 +25,7 @@ ogImage: "https://img.ulec.com.cn/edu/beijing-youpei-arwu-top100-dual-1-2026-128
 
 对于"国内本科"这一前置条件，公告中的表述是"本科阶段在优培计划面向的境内相关学校或学科就读"。这并非笼统地指所有国内高校，而是指向公告列明的四十三所双一流建设高校和二十五所高校双一流建设学科，以及二十所北京市属高校高精尖学科。本科毕业于这些名单之外国内院校的申请人，同样不能满足本科前置条件。
 
-![北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么](https://img.ulec.com.cn/edu/beijing-youpei-arwu-top100-dual-2-2026-1880x1253.jpg)
+![北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么](https://img.liuxue.bj.cn/edu/beijing-youpei-arwu-top100-dual-2-2026-1880x1253.jpg)
 
 ## 第一道门：软科前十0的门槛与排他性
 
@@ -33,7 +33,7 @@ ogImage: "https://img.ulec.com.cn/edu/beijing-youpei-arwu-top100-dual-1-2026-128
 
 软科排名每年更新，2026年版在申请启动时可能已经出炉，但公告明确写的是2025年版。这一细节很容易被忽略——如果毕业生在报名当天看到本校进入2026软科前十0，但不在2025版名单上，仍然不符合条件。
 
-![北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么](https://img.ulec.com.cn/edu/beijing-youpei-arwu-top100-dual-3-2026-1880x1253.jpg)
+![北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么](https://img.liuxue.bj.cn/edu/beijing-youpei-arwu-top100-dual-3-2026-1880x1253.jpg)
 
 ## 第二道门：国内本科前置的隐蔽性
 
@@ -105,4 +105,4 @@ ogImage: "https://img.ulec.com.cn/edu/beijing-youpei-arwu-top100-dual-1-2026-128
 - [北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道](/blog/beijing-youpei-vs-selection-2026/)
 - [海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断](/blog/overseas-masters-beijing-civil-service-2026/)
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么", "description": "北京优培计划对海外留学生设软科前100和国内本科双门槛，一年制硕士学制满足要求但需关注排名版次、毕业窗口和本科前置名单等容易被忽略的硬性条件。", "datePublished": "2026-07-14T16:58:34Z", "dateModified": "2026-07-14T16:58:34Z", "mainEntityOfPage": "https://liuxue.bj.cn/blog/beijing-youpei-arwu-top100-dual/", "image": "https://img.ulec.com.cn/edu/beijing-youpei-arwu-top100-dual-1-2026-1280x853.jpg", "author": {"@type": "Organization", "name": "北京留学指南编辑部"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "软科前100和QS前100有什么区别", "acceptedAnswer": {"@type": "Answer", "text": "软科侧重学术产出和科研影响力，QS兼顾客主声誉等指标。两榜前100名单存在显著差异，优培只认软科2025版。"}}, {"@type": "Question", "name": "国内本科不在优培名单里但有海外硕士能报吗", "acceptedAnswer": {"@type": "Answer", "text": "不能。优培海外通道要求本科阶段在优培面向的境内相关学校或学科就读。"}}, {"@type": "Question", "name": "一年制硕士满足学制一年以上的要求吗", "acceptedAnswer": {"@type": "Answer", "text": "从公告文字来看，学制一年以上包括恰好一年的学制，但学制只是五项条件之一。"}}, {"@type": "Question", "name": "如果软科2026版已发布但公告写的是2025版怎么办", "acceptedAnswer": {"@type": "Answer", "text": "以公告写明的版次为准，即使2026版排名已出，仍应以2025软科前100为判断依据。"}}, {"@type": "Question", "name": "本科来自北京市属高校能报优培吗", "acceptedAnswer": {"@type": "Answer", "text": "如果该高校的高精尖学科在公告附件名单内且你的本科专业属于该学科，通常可以。具体需查阅当期公告附件。"}}, {"@type": "Question", "name": "除了院校双门槛优培还有哪些硬条件", "acceptedAnswer": {"@type": "Answer", "text": "学制一年以上、毕业时间在2025年8月1日至2026年7月31日之间、申请时处于未落实工作状态，必须同时满足。"}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "首页", "item": "https://liuxue.bj.cn/"}, {"@type": "ListItem", "position": 2, "name": "政策文章", "item": "https://liuxue.bj.cn/blog/"}, {"@type": "ListItem", "position": 3, "name": "北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么", "item": "https://liuxue.bj.cn/blog/beijing-youpei-arwu-top100-dual/"}]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么", "description": "北京优培计划对海外留学生设软科前100和国内本科双门槛，一年制硕士学制满足要求但需关注排名版次、毕业窗口和本科前置名单等容易被忽略的硬性条件。", "datePublished": "2026-07-14T16:58:34Z", "dateModified": "2026-07-14T16:58:34Z", "mainEntityOfPage": "https://liuxue.bj.cn/blog/beijing-youpei-arwu-top100-dual/", "image": "https://img.liuxue.bj.cn/edu/beijing-youpei-arwu-top100-dual-1-2026-1280x853.jpg", "author": {"@type": "Organization", "name": "北京留学指南编辑部"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "软科前100和QS前100有什么区别", "acceptedAnswer": {"@type": "Answer", "text": "软科侧重学术产出和科研影响力，QS兼顾客主声誉等指标。两榜前100名单存在显著差异，优培只认软科2025版。"}}, {"@type": "Question", "name": "国内本科不在优培名单里但有海外硕士能报吗", "acceptedAnswer": {"@type": "Answer", "text": "不能。优培海外通道要求本科阶段在优培面向的境内相关学校或学科就读。"}}, {"@type": "Question", "name": "一年制硕士满足学制一年以上的要求吗", "acceptedAnswer": {"@type": "Answer", "text": "从公告文字来看，学制一年以上包括恰好一年的学制，但学制只是五项条件之一。"}}, {"@type": "Question", "name": "如果软科2026版已发布但公告写的是2025版怎么办", "acceptedAnswer": {"@type": "Answer", "text": "以公告写明的版次为准，即使2026版排名已出，仍应以2025软科前100为判断依据。"}}, {"@type": "Question", "name": "本科来自北京市属高校能报优培吗", "acceptedAnswer": {"@type": "Answer", "text": "如果该高校的高精尖学科在公告附件名单内且你的本科专业属于该学科，通常可以。具体需查阅当期公告附件。"}}, {"@type": "Question", "name": "除了院校双门槛优培还有哪些硬条件", "acceptedAnswer": {"@type": "Answer", "text": "学制一年以上、毕业时间在2025年8月1日至2026年7月31日之间、申请时处于未落实工作状态，必须同时满足。"}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "首页", "item": "https://liuxue.bj.cn/"}, {"@type": "ListItem", "position": 2, "name": "政策文章", "item": "https://liuxue.bj.cn/blog/"}, {"@type": "ListItem", "position": 3, "name": "北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么", "item": "https://liuxue.bj.cn/blog/beijing-youpei-arwu-top100-dual/"}]}]}</script>

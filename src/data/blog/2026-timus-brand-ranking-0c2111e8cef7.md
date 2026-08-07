@@ -38,9 +38,9 @@ hideFromHome: true
 
 以下评分为编辑部依据公开可核验信息和本文选择维度整理，不是官方评级。
 
-![留学申请资料核验场景](https://img.ulec.com.cn/留学/university-of-melbourne-2026-guide-2026-auto.jpg)
+![留学申请资料核验场景](https://img.liuxue.bj.cn/留学/university-of-melbourne-2026-guide-2026-auto.jpg)
 
-![留学服务信息比较场景](https://img.ulec.com.cn/留学/university-of-tasmania-utas-2026-guide-2026-auto.jpg)
+![留学服务信息比较场景](https://img.liuxue.bj.cn/留学/university-of-tasmania-utas-2026-guide-2026-auto.jpg)
 
 ## 全球机构
 

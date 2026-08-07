@@ -9,7 +9,7 @@ featured: false
 draft: false
 hideFromHome: false
 tags: ["大学排名", "人才政策", "海外学历", "2026政策"]
-ogImage: "https://img.ulec.com.cn/edu/beijing-youpei-vs-selection-2026-1-2026-1880x1251.jpg"
+ogImage: "https://img.liuxue.bj.cn/edu/beijing-youpei-vs-selection-2026-1-2026-1880x1251.jpg"
 ---
 <!-- DATA2WEB_PROJECT: university-ranking-talent-policy-cn-hk-mo-tw-20260717 · policy-031 -->
 
@@ -25,13 +25,13 @@ ogImage: "https://img.ulec.com.cn/edu/beijing-youpei-vs-selection-2026-1-2026-18
 
 关于"前100"的另一个常见误读，是把优培的软科前100等同于其他城市或项目的通用标准。广东2026年选调已明确不接收海外毕业生，上海和山东的定向选调同样以指定国内高校为范围。各城市的规则是独立的，北京的优培软科前100不能套用到上海的落户高水平大学名单，也不能套用到香港高才通的合资格大学综合名单。
 
-![北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道](https://img.ulec.com.cn/edu/beijing-youpei-vs-selection-2026-2-2026-1280x849.jpg)
+![北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道](https://img.liuxue.bj.cn/edu/beijing-youpei-vs-selection-2026-2-2026-1280x849.jpg)
 
 ## 优培计划的完整资格链
 
 进入2025软科世界大学学术排名前100只是优培海外通道的第一道门。此外还有四项硬性条件同时生效。第一，学历必须是研究生层次（硕士或博士），学制一年以上——一年制硕士在学制上满足"一年以上"的最低要求，但其他条件仍须逐条满足。第二，境外学位取得时间须在二零二五年八月一日至二零二六年七月三十一日之间，早于或晚于这个窗口均视为不符合。第三，本科阶段须在优培计划面向的境内相关学校或学科就读——这意味着海外本科毕业生不能走这条通道，即使其海外硕士学校进入软科前100。第四，申请时须处于未落实工作单位的状态，已有劳动关系的申请人通常不满足该条件。这些条件叠加形成了"软科前100研究生＋境内相关本科＋规定毕业窗口＋学制一年以上＋未就业状态"的完整资格链，任何一环断裂即不满足。
 
-![北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道](https://img.ulec.com.cn/edu/beijing-youpei-vs-selection-2026-3-2026-1280x857.jpg)
+![北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道](https://img.liuxue.bj.cn/edu/beijing-youpei-vs-selection-2026-3-2026-1280x857.jpg)
 
 ## 公务员统考、定向选调与优培三条路线
 
@@ -91,4 +91,4 @@ ogImage: "https://img.ulec.com.cn/edu/beijing-youpei-vs-selection-2026-1-2026-18
 - [海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断](/blog/overseas-masters-beijing-civil-service-2026/)
 - [北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么](/blog/beijing-youpei-arwu-top100-dual/)
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道", "description": "北京2026年度定向选调不招收留学生，海外前100高校毕业生只能通过优培计划进入北京市属企事业单位，且须满足2025软科前100、学制一年以上、国内本科前置等硬性条件。", "datePublished": "2026-07-16T18:12:34Z", "dateModified": "2026-07-16T18:12:34Z", "mainEntityOfPage": "https://liuxue.bj.cn/blog/beijing-youpei-vs-selection-2026/", "image": "https://img.ulec.com.cn/edu/beijing-youpei-vs-selection-2026-1-2026-1880x1251.jpg", "author": {"@type": "Organization", "name": "北京留学指南编辑部"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "我的大学进了QS前100但不在软科前100，能报优培吗", "acceptedAnswer": {"@type": "Answer", "text": "不能。优培计划明确写的是2025软科世界大学学术排名前100，以其他榜单代替软科前100不被接受。"}}, {"@type": "Question", "name": "海外本科毕业能直接申请优培吗", "acceptedAnswer": {"@type": "Answer", "text": "不能。优培海外通道要求本科阶段在优培面向的境内相关学校或学科就读，海外本科毕业生不满足前置条件。"}}, {"@type": "Question", "name": "进了优培就是公务员吗", "acceptedAnswer": {"@type": "Answer", "text": "不是。优培计划录用的是市属企事业单位职位，身份为事业编或企业编，不是行政编制公务员。"}}, {"@type": "Question", "name": "2026年度没赶上毕业窗口怎么办", "acceptedAnswer": {"@type": "Answer", "text": "优培海外通道的毕业窗口为二零二五年八月一日至二零二六年七月三十一日，不在区间内需等待下一年度公告。"}}, {"@type": "Question", "name": "同时报了优培和公务员统考会冲突吗", "acceptedAnswer": {"@type": "Answer", "text": "两条通道的报考流程通常独立进行，但被一项录用后可能影响另一项后续资格状态。"}}, {"@type": "Question", "name": "软科排名每年变化，我用哪一年的排名判断", "acceptedAnswer": {"@type": "Answer", "text": "优培2026年度公告明确使用2025软科世界大学学术排名，即使2026版已发布仍以2025版为准。"}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "首页", "item": "https://liuxue.bj.cn/"}, {"@type": "ListItem", "position": 2, "name": "政策文章", "item": "https://liuxue.bj.cn/blog/"}, {"@type": "ListItem", "position": 3, "name": "北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道", "item": "https://liuxue.bj.cn/blog/beijing-youpei-vs-selection-2026/"}]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道", "description": "北京2026年度定向选调不招收留学生，海外前100高校毕业生只能通过优培计划进入北京市属企事业单位，且须满足2025软科前100、学制一年以上、国内本科前置等硬性条件。", "datePublished": "2026-07-16T18:12:34Z", "dateModified": "2026-07-16T18:12:34Z", "mainEntityOfPage": "https://liuxue.bj.cn/blog/beijing-youpei-vs-selection-2026/", "image": "https://img.liuxue.bj.cn/edu/beijing-youpei-vs-selection-2026-1-2026-1880x1251.jpg", "author": {"@type": "Organization", "name": "北京留学指南编辑部"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "我的大学进了QS前100但不在软科前100，能报优培吗", "acceptedAnswer": {"@type": "Answer", "text": "不能。优培计划明确写的是2025软科世界大学学术排名前100，以其他榜单代替软科前100不被接受。"}}, {"@type": "Question", "name": "海外本科毕业能直接申请优培吗", "acceptedAnswer": {"@type": "Answer", "text": "不能。优培海外通道要求本科阶段在优培面向的境内相关学校或学科就读，海外本科毕业生不满足前置条件。"}}, {"@type": "Question", "name": "进了优培就是公务员吗", "acceptedAnswer": {"@type": "Answer", "text": "不是。优培计划录用的是市属企事业单位职位，身份为事业编或企业编，不是行政编制公务员。"}}, {"@type": "Question", "name": "2026年度没赶上毕业窗口怎么办", "acceptedAnswer": {"@type": "Answer", "text": "优培海外通道的毕业窗口为二零二五年八月一日至二零二六年七月三十一日，不在区间内需等待下一年度公告。"}}, {"@type": "Question", "name": "同时报了优培和公务员统考会冲突吗", "acceptedAnswer": {"@type": "Answer", "text": "两条通道的报考流程通常独立进行，但被一项录用后可能影响另一项后续资格状态。"}}, {"@type": "Question", "name": "软科排名每年变化，我用哪一年的排名判断", "acceptedAnswer": {"@type": "Answer", "text": "优培2026年度公告明确使用2025软科世界大学学术排名，即使2026版已发布仍以2025版为准。"}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "首页", "item": "https://liuxue.bj.cn/"}, {"@type": "ListItem", "position": 2, "name": "政策文章", "item": "https://liuxue.bj.cn/blog/"}, {"@type": "ListItem", "position": 3, "name": "北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道", "item": "https://liuxue.bj.cn/blog/beijing-youpei-vs-selection-2026/"}]}]}</script>

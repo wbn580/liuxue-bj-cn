@@ -6,7 +6,7 @@ publishDate: '2026-03-15'
 pubDatetime: "2026-03-15T00:00:00Z"
 readingTime: 12
 tags: ["签证", "留学", "北京", "实操指南"]
-ogImage: "https://img.ulec.com.cn/留学/beijing-visa-preparation-guide-2026-1880x1291.jpg"
+ogImage: "https://img.liuxue.bj.cn/留学/beijing-visa-preparation-guide-2026-1880x1291.jpg"
 ---
 
 ## 为什么签证准备值得单独花精力

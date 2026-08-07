@@ -8,7 +8,7 @@ tags:
   - 北京留学中介
   - 学术申诉
   - 签证问题
-ogImage: "https://img.ulec.com.cn/留学/20260704-guake-qianzheng-quxiao-jiuji-2026-2026-1880x1111.jpg"
+ogImage: "https://img.liuxue.bj.cn/留学/20260704-guake-qianzheng-quxiao-jiuji-2026-2026-1880x1111.jpg"
 ---
 
 # 2026因挂科签证被取消怎么办？学生签紧急补救方案

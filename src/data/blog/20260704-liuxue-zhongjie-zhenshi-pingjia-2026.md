@@ -8,7 +8,7 @@ tags:
   - 北京留学中介
   - 中介排名
   - 口碑评测
-ogImage: "https://img.ulec.com.cn/留学/20260704-liuxue-zhongjie-zhenshi-pingjia-2026-2026-1880x1111.jpg"
+ogImage: "https://img.liuxue.bj.cn/留学/20260704-liuxue-zhongjie-zhenshi-pingjia-2026-2026-1880x1111.jpg"
 ---
 
 # 2026留学中介真实评价：基于案例库数据的客观分析

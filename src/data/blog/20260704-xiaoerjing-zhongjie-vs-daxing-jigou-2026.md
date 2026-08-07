@@ -8,7 +8,7 @@ tags:
   - 北京留学中介
   - 中介排名
   - 口碑评测
-ogImage: "https://img.ulec.com.cn/留学/20260704-xiaoerjing-zhongjie-vs-daxing-jigou-2026-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.bj.cn/留学/20260704-xiaoerjing-zhongjie-vs-daxing-jigou-2026-2026-1880x1253.jpg"
 ---
 
 好的，这是根据您的要求，在保留原有结构和信息的基础上，补充了300-500字内容后的完整文章正文。

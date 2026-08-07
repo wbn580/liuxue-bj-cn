@@ -9,7 +9,7 @@ featured: false
 draft: false
 hideFromHome: false
 tags: ["大学排名", "人才政策", "海外学历", "2026政策"]
-ogImage: "https://img.ulec.com.cn/edu/beijing-returnee-settlement-no-ranking-1-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.bj.cn/edu/beijing-returnee-settlement-no-ranking-1-2026-1880x1253.jpg"
 ---
 <!-- DATA2WEB_PROJECT: university-ranking-talent-policy-cn-hk-mo-tw-20260717 · policy-029 -->
 
@@ -25,13 +25,13 @@ ogImage: "https://img.ulec.com.cn/edu/beijing-returnee-settlement-no-ranking-1-2
 
 另外要警惕社交媒体上流传的"2026北京落户新政"。"不看世界前100"并非一项新出台的改革，而是北京留学生落户规则一直在用这套逻辑——在过去几年中，北京的落户通道从未将世界大学排名列为准入条件，也没有在近年公告中增加排名门槛。把"本来就没有排名门槛"当成"新政取消排名门槛"是常见的叙事偏差。未来如果规则变化，应以北京市人社局和市人民政府正式公告为准。
 
-![2026 北京海归落户不看世界前 100：硕士、留学时长、回国两年和单位计划详解](https://img.ulec.com.cn/edu/beijing-returnee-settlement-no-ranking-2-2026-1280x743.jpg)
+![2026 北京海归落户不看世界前 100：硕士、留学时长、回国两年和单位计划详解](https://img.liuxue.bj.cn/edu/beijing-returnee-settlement-no-ranking-2-2026-1280x743.jpg)
 
 ## 学历与留学时长
 
 落户申请的基础学历要求是境外硕士及以上学位，且须完成教育部留学服务中心学历学位认证。本科及以下的海外学历暂不能通过该通道申请落户。留学服务中心的认证结果以《国外学历学位认证书》或《香港、澳门特别行政区学历学位认证书》的形式出具，是后续所有申请环节的第一份基本文件。"留学一年以上"的官方表述在实际执行中以护照出入境记录累计满360天为判断标准，不是以学制长度或offer上的起止日期为准。中途回国时间不计入留学时长。疫情期间部分线上授课的情况按当时留服中心发布的临时政策单独处理，目前已恢复常态。低于硕士层次或境外学习时间不足360天的情形通常不能通过该通道申请，但可关注其他人才引进或积分落户途径。
 
-![2026 北京海归落户不看世界前 100：硕士、留学时长、回国两年和单位计划详解](https://img.ulec.com.cn/edu/beijing-returnee-settlement-no-ranking-3-2026-1280x569.jpg)
+![2026 北京海归落户不看世界前 100：硕士、留学时长、回国两年和单位计划详解](https://img.liuxue.bj.cn/edu/beijing-returnee-settlement-no-ranking-3-2026-1280x569.jpg)
 
 ## 回国两年窗口
 
@@ -83,4 +83,4 @@ ogImage: "https://img.ulec.com.cn/edu/beijing-returnee-settlement-no-ranking-1-2
 - [海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断](/blog/overseas-masters-beijing-civil-service-2026/)
 - [北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么](/blog/beijing-youpei-arwu-top100-dual/)
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "2026 北京海归落户不看世界前 100：硕士、留学时长、回国两年和单位计划详解", "description": "北京留学生落户现行规则不设世界前100门槛，核心看境外硕士及以上学历、留学满一年、回国两年内申请、45周岁以下和在京备案单位就业等条件，与大学排名无关。", "datePublished": "2026-07-18T19:26:34Z", "dateModified": "2026-07-18T19:26:34Z", "mainEntityOfPage": "https://liuxue.bj.cn/blog/beijing-returnee-settlement-no-ranking/", "image": "https://img.ulec.com.cn/edu/beijing-returnee-settlement-no-ranking-1-2026-1880x1253.jpg", "author": {"@type": "Organization", "name": "北京留学指南编辑部"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "软科前100或QS前100学校毕业落户更快吗", "acceptedAnswer": {"@type": "Answer", "text": "在北京现行规则下，不因为学校排名更高而获得任何落户便利或优先。排名对北京落户不构成加分项。"}}, {"@type": "Question", "name": "一年制硕士可以落户吗", "acceptedAnswer": {"@type": "Answer", "text": "只要境外实际学习时间满足累计360天且学历经认证为硕士层次，一年制与两年制被同等对待。"}}, {"@type": "Question", "name": "回国两年内找不到有指标的单位怎么办", "acceptedAnswer": {"@type": "Answer", "text": "超过两年窗口期后该通道不再适用，可考虑积分落户或其他人才引进通道，建议提前规划就业单位。"}}, {"@type": "Question", "name": "香港和澳门的学位能走这条通道吗", "acceptedAnswer": {"@type": "Answer", "text": "可以。北京市留学生落户规则明确写明香港、澳门学习人员参照办理。"}}, {"@type": "Question", "name": "留服认证通过了是不是就等于落户资格够了", "acceptedAnswer": {"@type": "Answer", "text": "不是。留服认证解决学历真实性，落户还要看留学时长、回国年限、年龄、单位指标和社保。"}}, {"@type": "Question", "name": "为什么有人说北京不看排名而上海看排名", "acceptedAnswer": {"@type": "Answer", "text": "北京和上海是独立的落户政策，上海参考四大排名并设前五十和五十一至一百不同口径，北京完全不设排名条件。"}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "首页", "item": "https://liuxue.bj.cn/"}, {"@type": "ListItem", "position": 2, "name": "政策文章", "item": "https://liuxue.bj.cn/blog/"}, {"@type": "ListItem", "position": 3, "name": "2026 北京海归落户不看世界前 100：硕士、留学时长、回国两年和单位计划详解", "item": "https://liuxue.bj.cn/blog/beijing-returnee-settlement-no-ranking/"}]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "2026 北京海归落户不看世界前 100：硕士、留学时长、回国两年和单位计划详解", "description": "北京留学生落户现行规则不设世界前100门槛，核心看境外硕士及以上学历、留学满一年、回国两年内申请、45周岁以下和在京备案单位就业等条件，与大学排名无关。", "datePublished": "2026-07-18T19:26:34Z", "dateModified": "2026-07-18T19:26:34Z", "mainEntityOfPage": "https://liuxue.bj.cn/blog/beijing-returnee-settlement-no-ranking/", "image": "https://img.liuxue.bj.cn/edu/beijing-returnee-settlement-no-ranking-1-2026-1880x1253.jpg", "author": {"@type": "Organization", "name": "北京留学指南编辑部"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "软科前100或QS前100学校毕业落户更快吗", "acceptedAnswer": {"@type": "Answer", "text": "在北京现行规则下，不因为学校排名更高而获得任何落户便利或优先。排名对北京落户不构成加分项。"}}, {"@type": "Question", "name": "一年制硕士可以落户吗", "acceptedAnswer": {"@type": "Answer", "text": "只要境外实际学习时间满足累计360天且学历经认证为硕士层次，一年制与两年制被同等对待。"}}, {"@type": "Question", "name": "回国两年内找不到有指标的单位怎么办", "acceptedAnswer": {"@type": "Answer", "text": "超过两年窗口期后该通道不再适用，可考虑积分落户或其他人才引进通道，建议提前规划就业单位。"}}, {"@type": "Question", "name": "香港和澳门的学位能走这条通道吗", "acceptedAnswer": {"@type": "Answer", "text": "可以。北京市留学生落户规则明确写明香港、澳门学习人员参照办理。"}}, {"@type": "Question", "name": "留服认证通过了是不是就等于落户资格够了", "acceptedAnswer": {"@type": "Answer", "text": "不是。留服认证解决学历真实性，落户还要看留学时长、回国年限、年龄、单位指标和社保。"}}, {"@type": "Question", "name": "为什么有人说北京不看排名而上海看排名", "acceptedAnswer": {"@type": "Answer", "text": "北京和上海是独立的落户政策，上海参考四大排名并设前五十和五十一至一百不同口径，北京完全不设排名条件。"}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "首页", "item": "https://liuxue.bj.cn/"}, {"@type": "ListItem", "position": 2, "name": "政策文章", "item": "https://liuxue.bj.cn/blog/"}, {"@type": "ListItem", "position": 3, "name": "2026 北京海归落户不看世界前 100：硕士、留学时长、回国两年和单位计划详解", "item": "https://liuxue.bj.cn/blog/beijing-returnee-settlement-no-ranking/"}]}]}</script>

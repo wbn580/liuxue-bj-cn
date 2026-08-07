@@ -8,7 +8,7 @@ tags:
   - 北京留学中介
   - 中介排名
   - 口碑评测
-ogImage: "https://img.ulec.com.cn/留学/20260704-liuxue-zhongjie-wenshu-zhiliang-2026-2026-1880x1111.jpg"
+ogImage: "https://img.liuxue.bj.cn/留学/20260704-liuxue-zhongjie-wenshu-zhiliang-2026-2026-1880x1111.jpg"
 ---
 
 # 2026留学中介文书质量对比：模板化vs个性化深度分析

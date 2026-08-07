@@ -9,7 +9,7 @@ featured: false
 draft: false
 hideFromHome: false
 tags: ["大学排名", "人才政策", "海外学历", "2026政策"]
-ogImage: "https://img.ulec.com.cn/edu/hk-macau-degree-beijing-settlement-1-2026-1820x1300.jpg"
+ogImage: "https://img.liuxue.bj.cn/edu/hk-macau-degree-beijing-settlement-1-2026-1820x1300.jpg"
 ---
 <!-- DATA2WEB_PROJECT: university-ranking-talent-policy-cn-hk-mo-tw-20260717 · policy-030 -->
 
@@ -23,7 +23,7 @@ ogImage: "https://img.ulec.com.cn/edu/hk-macau-degree-beijing-settlement-1-2026-
 
 本文所述规则依据北京市现行有效的留学生落户文件和教育部留学服务中心的港澳台学历认证规定，截至2026年7月17日。港澳学历认证走的是留服中心的港澳台学历学位认证通道，与国境外学历认证在提交材料上略有差异——港澳学历申请人须提供往来港澳通行证及签注页，而非护照签证页——但认证完成后的法律效力与国境外学历认证书完全相同。需要强调：认证通过只证明学历真实有效，不等于自动获得落户资格。北京落户审核围绕单位指标、社保、时间节点等多项条件展开，拿到认证书只是起步。
 
-![香港、澳门学历能不能走北京留学生落户：参照办理条件与认证材料](https://img.ulec.com.cn/edu/hk-macau-degree-beijing-settlement-2-2026-1880x1253.jpg)
+![香港、澳门学历能不能走北京留学生落户：参照办理条件与认证材料](https://img.liuxue.bj.cn/edu/hk-macau-degree-beijing-settlement-2-2026-1880x1253.jpg)
 
 ## 认证材料与流程
 
@@ -31,7 +31,7 @@ ogImage: "https://img.ulec.com.cn/edu/hk-macau-degree-beijing-settlement-1-2026-
 
 与海外学历不同的是，港澳学历不涉及外国签证和居留证件，但通行证上的签注有效期和出入境记录会成为审核重点。如果签注类型与就读身份不匹配——例如持旅游签注覆盖整个学习期间——可能导致认证受阻。建议在港澳就读期间确保持有有效的学生签注，并保留完整的出入境记录。此外，通行证换发后旧证信息可能不在新证上显示，申请认证时应一并提交旧通行证的复印件或扫描件。
 
-![香港、澳门学历能不能走北京留学生落户：参照办理条件与认证材料](https://img.ulec.com.cn/edu/hk-macau-degree-beijing-settlement-3-2026-1280x719.jpg)
+![香港、澳门学历能不能走北京留学生落户：参照办理条件与认证材料](https://img.liuxue.bj.cn/edu/hk-macau-degree-beijing-settlement-3-2026-1280x719.jpg)
 
 ## 与海外学历的共通条件
 
@@ -94,4 +94,4 @@ ogImage: "https://img.ulec.com.cn/edu/hk-macau-degree-beijing-settlement-1-2026-
 - [海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断](/blog/overseas-masters-beijing-civil-service-2026/)
 - [北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么](/blog/beijing-youpei-arwu-top100-dual/)
 
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "香港、澳门学历能不能走北京留学生落户：参照办理条件与认证材料", "description": "北京市留学生落户规则将香港和澳门学习人员纳入参照办理范围，前提是取得硕士及以上学位、完成留服认证、境外学习满一年、回国两年内申请、45周岁以下且在备案单位就业。", "datePublished": "2026-07-17T18:49:34Z", "dateModified": "2026-07-17T18:49:34Z", "mainEntityOfPage": "https://liuxue.bj.cn/blog/hk-macau-degree-beijing-settlement/", "image": "https://img.ulec.com.cn/edu/hk-macau-degree-beijing-settlement-1-2026-1820x1300.jpg", "author": {"@type": "Organization", "name": "北京留学指南编辑部"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "香港的授课式一年硕士能用于北京落户吗", "acceptedAnswer": {"@type": "Answer", "text": "可以。只要境外实际停留满足累计满一年且学历经认证为硕士层次，一年制与两年制被同等对待。"}}, {"@type": "Question", "name": "澳门高校的学位需要额外公证吗", "acceptedAnswer": {"@type": "Answer", "text": "不需要。通过留服中心网上服务大厅提交认证，取得认证书即可，效力等同于国境外认证书。"}}, {"@type": "Question", "name": "在港澳读本科可以申请北京落户吗", "acceptedAnswer": {"@type": "Answer", "text": "不可以。北京留学生落户要求硕士及以上学位，港澳本科毕业生不符合学历层级要求。"}}, {"@type": "Question", "name": "在香港工作几年后再回北京还能走留学生落户吗", "acceptedAnswer": {"@type": "Answer", "text": "取决于回国两年窗口。从首次入境回国之日起超过两年，该通道不再适用。"}}, {"@type": "Question", "name": "双学位或联合培养项目怎么判断", "acceptedAnswer": {"@type": "Answer", "text": "关键看学位由哪所院校颁授以及认证书如何记载。港澳院校为颁授机构且认证书明确记载的，通常可走港澳学历通道。"}}, {"@type": "Question", "name": "疫情期间线上授课会影响认证和落户的停留天数吗", "acceptedAnswer": {"@type": "Answer", "text": "当前已恢复常态。疫情期间的线上授课阶段按留服中心当时发布的临时政策处理，需以个案材料和最新意见为准。"}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "首页", "item": "https://liuxue.bj.cn/"}, {"@type": "ListItem", "position": 2, "name": "政策文章", "item": "https://liuxue.bj.cn/blog/"}, {"@type": "ListItem", "position": 3, "name": "香港、澳门学历能不能走北京留学生落户：参照办理条件与认证材料", "item": "https://liuxue.bj.cn/blog/hk-macau-degree-beijing-settlement/"}]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "香港、澳门学历能不能走北京留学生落户：参照办理条件与认证材料", "description": "北京市留学生落户规则将香港和澳门学习人员纳入参照办理范围，前提是取得硕士及以上学位、完成留服认证、境外学习满一年、回国两年内申请、45周岁以下且在备案单位就业。", "datePublished": "2026-07-17T18:49:34Z", "dateModified": "2026-07-17T18:49:34Z", "mainEntityOfPage": "https://liuxue.bj.cn/blog/hk-macau-degree-beijing-settlement/", "image": "https://img.liuxue.bj.cn/edu/hk-macau-degree-beijing-settlement-1-2026-1820x1300.jpg", "author": {"@type": "Organization", "name": "北京留学指南编辑部"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "香港的授课式一年硕士能用于北京落户吗", "acceptedAnswer": {"@type": "Answer", "text": "可以。只要境外实际停留满足累计满一年且学历经认证为硕士层次，一年制与两年制被同等对待。"}}, {"@type": "Question", "name": "澳门高校的学位需要额外公证吗", "acceptedAnswer": {"@type": "Answer", "text": "不需要。通过留服中心网上服务大厅提交认证，取得认证书即可，效力等同于国境外认证书。"}}, {"@type": "Question", "name": "在港澳读本科可以申请北京落户吗", "acceptedAnswer": {"@type": "Answer", "text": "不可以。北京留学生落户要求硕士及以上学位，港澳本科毕业生不符合学历层级要求。"}}, {"@type": "Question", "name": "在香港工作几年后再回北京还能走留学生落户吗", "acceptedAnswer": {"@type": "Answer", "text": "取决于回国两年窗口。从首次入境回国之日起超过两年，该通道不再适用。"}}, {"@type": "Question", "name": "双学位或联合培养项目怎么判断", "acceptedAnswer": {"@type": "Answer", "text": "关键看学位由哪所院校颁授以及认证书如何记载。港澳院校为颁授机构且认证书明确记载的，通常可走港澳学历通道。"}}, {"@type": "Question", "name": "疫情期间线上授课会影响认证和落户的停留天数吗", "acceptedAnswer": {"@type": "Answer", "text": "当前已恢复常态。疫情期间的线上授课阶段按留服中心当时发布的临时政策处理，需以个案材料和最新意见为准。"}}]}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "首页", "item": "https://liuxue.bj.cn/"}, {"@type": "ListItem", "position": 2, "name": "政策文章", "item": "https://liuxue.bj.cn/blog/"}, {"@type": "ListItem", "position": 3, "name": "香港、澳门学历能不能走北京留学生落户：参照办理条件与认证材料", "item": "https://liuxue.bj.cn/blog/hk-macau-degree-beijing-settlement/"}]}]}</script>

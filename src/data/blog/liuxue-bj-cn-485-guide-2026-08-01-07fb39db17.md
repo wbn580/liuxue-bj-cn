@@ -8,7 +8,7 @@ slug: 'liuxue-bj-cn-485-guide-2026-08-01-07fb39db17'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/liuxue-bj-cn-485-guide-2026-08-01-07fb39db17-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.liuxue.bj.cn/留学/liuxue-bj-cn-485-guide-2026-08-01-07fb39db17-image-01-2026-1880x1253.jpg'
 verified: '2026-08-01T00:00:00Z'
 tags:
   - '485签证'
@@ -29,7 +29,7 @@ tags:
 
 要想顺利获得485二签，你需要满足以下几个关键条件：
 
-![学生在澳大利亚偏远地区大学校园中交流学习](https://img.ulec.com.cn/留学/liuxue-bj-cn-485-guide-2026-08-01-07fb39db17-image-01-2026-1880x1253.jpg)
+![学生在澳大利亚偏远地区大学校园中交流学习](https://img.liuxue.bj.cn/留学/liuxue-bj-cn-485-guide-2026-08-01-07fb39db17-image-01-2026-1880x1253.jpg)
 
 
 - **学历要求**：在指定的偏远地区院校完成了至少2学年的全日制学习，并取得了本科、硕士或博士等符合条件的学位。该院校必须是CRICOS注册的澳大利亚教育机构，且校区位于政府划定的偏远地区邮编范围内。
@@ -41,7 +41,7 @@ tags:
 
 获得485二签后，你将额外拥有1年或2年的全职工作权利。这段时间是积累澳大利亚本地工作经验的黄金时期，可以为未来的职业发展、雇主担保移民或技术移民加分打下基础。
 
-![年轻专业人士在澳大利亚偏远地区办公室工作](https://img.ulec.com.cn/留学/liuxue-bj-cn-485-guide-2026-08-01-07fb39db17-image-02-2026-1880x1057.jpg)
+![年轻专业人士在澳大利亚偏远地区办公室工作](https://img.liuxue.bj.cn/留学/liuxue-bj-cn-485-guide-2026-08-01-07fb39db17-image-02-2026-1880x1057.jpg)
 
 
 - **无工作限制**：二签期间你可以为任何雇主工作，也可以从事任何职业，无需与所学专业直接相关。这为探索不同行业、尝试多种岗位提供了灵活性。

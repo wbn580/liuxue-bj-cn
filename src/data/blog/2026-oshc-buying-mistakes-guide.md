@@ -13,7 +13,7 @@ tags:
   - 澳洲留学
   - 医保
   - 避坑
-ogImage: "https://img.ulec.com.cn/留学/2026-oshc-buying-mistakes-guide-2026-1880x1111.jpg"
+ogImage: "https://img.liuxue.bj.cn/留学/2026-oshc-buying-mistakes-guide-2026-1880x1111.jpg"
 ---
 
 <figure class="article-image"><img src="/images/留学_DEFAULT.jpg" alt="2026澳洲留学保险OSHC怎么选不踩坑" width="1200" height="800" loading="lazy" decoding="async" /></figure>

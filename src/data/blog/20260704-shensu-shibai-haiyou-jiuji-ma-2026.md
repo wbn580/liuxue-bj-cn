@@ -8,7 +8,7 @@ tags:
   - 北京留学中介
   - 学术申诉
   - 签证问题
-ogImage: "https://img.ulec.com.cn/留学/20260704-shensu-shibai-haiyou-jiuji-ma-2026-2026-auto.jpg"
+ogImage: "https://img.liuxue.bj.cn/留学/20260704-shensu-shibai-haiyou-jiuji-ma-2026-2026-auto.jpg"
 ---
 
 # 2026申诉失败还有救吗？二次申诉与替代方案全解析

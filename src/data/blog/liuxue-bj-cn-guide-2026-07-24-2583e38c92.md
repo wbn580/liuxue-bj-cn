@@ -8,7 +8,7 @@ slug: 'liuxue-bj-cn-guide-2026-07-24-2583e38c92'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/liuxue-bj-cn-guide-2026-07-24-2583e38c92-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.liuxue.bj.cn/留学/liuxue-bj-cn-guide-2026-07-24-2583e38c92-image-01-2026-1880x1253.jpg'
 verified: '2026-07-24T00:00:00Z'
 tags:
   - '时间块规划法'
@@ -29,7 +29,7 @@ tags:
 - **第三象限：紧急但不重要**——临时邀约、非核心消息，可委托或快速处理；
 - **第四象限：不重要且不紧急**——低价值娱乐，尽量减少。
 
-![留学生使用手帐进行时间块规划和优先级分类的桌面场景](https://img.ulec.com.cn/留学/liuxue-bj-cn-guide-2026-07-24-2583e38c92-image-01-2026-1880x1253.jpg)
+![留学生使用手帐进行时间块规划和优先级分类的桌面场景](https://img.liuxue.bj.cn/留学/liuxue-bj-cn-guide-2026-07-24-2583e38c92-image-01-2026-1880x1253.jpg)
 
 
 留学生常面临多重压力，运用该矩阵可以避免陷入“瞎忙”状态，确保关键学业任务不被琐事挤占。建议每周初将待办事项填入对应象限，并优先完成第二象限任务，以保持长期学业与生活的平衡。

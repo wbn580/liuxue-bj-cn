@@ -8,7 +8,7 @@ tags:
   - 北京留学中介
   - 中介排名
   - 口碑评测
-ogImage: "https://img.ulec.com.cn/留学/20260704-guonei-zuihao-de-liuxue-zhongjie-2026-2026-1880x1111.jpg"
+ogImage: "https://img.liuxue.bj.cn/留学/20260704-guonei-zuihao-de-liuxue-zhongjie-2026-2026-1880x1111.jpg"
 ---
 
 # 2026国内最好的留学中介：持牌机构横向对比

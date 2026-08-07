@@ -8,7 +8,7 @@ tags:
   - 北京留学中介
   - 中介排名
   - 口碑评测
-ogImage: "https://img.ulec.com.cn/留学/20260704-beijing-liuxue-zhongjie-paiming-2026-2026-1880x1291.jpg"
+ogImage: "https://img.liuxue.bj.cn/留学/20260704-beijing-liuxue-zhongjie-paiming-2026-2026-1880x1291.jpg"
 ---
 
 # 2026北京留学中介排名：本地化服务与全国性机构对比

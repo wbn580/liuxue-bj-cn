@@ -6,7 +6,7 @@ publishDate: '2025-04-10'
 pubDatetime: "2025-04-10T00:00:00Z"
 readingTime: 12
 tags: ["非京籍", "北京国际学校", "入学政策", "择校", "四证"]
-ogImage: "https://img.ulec.com.cn/留学/beijing-intl-school-fei-jingji-2026-1880x1291.jpg"
+ogImage: "https://img.liuxue.bj.cn/留学/beijing-intl-school-fei-jingji-2026-1880x1291.jpg"
 ---
 
 # 非京籍家庭在北京读国际学校：政策、路径与注意事项

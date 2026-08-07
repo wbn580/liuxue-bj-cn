@@ -6,7 +6,7 @@ publishDate: '2026-06-15'
 pubDatetime: "2026-06-15T00:00:00Z"
 readingTime: 8
 tags: ["留学准备", "北京本地", "认证", "金融", "医保", "京小留"]
-ogImage: "https://img.ulec.com.cn/edu/beijing-returnee-settlement-no-ranking-1-2026-1880x1253.jpg"
+ogImage: "https://img.liuxue.bj.cn/edu/beijing-returnee-settlement-no-ranking-1-2026-1880x1253.jpg"
 ---
 
 ## 从“手续一堆”到“心里有数”

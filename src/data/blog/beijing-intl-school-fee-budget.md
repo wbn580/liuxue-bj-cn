@@ -6,7 +6,7 @@ publishDate: '2025-06-19'
 pubDatetime: "2025-06-19T00:00:00Z"
 readingTime: 8
 tags: [北京国际学校, 费用, 隐性支出, 留学预算, 家长指南]
-ogImage: "https://img.ulec.com.cn/留学/beijing-intl-school-fee-budget-2026-1280x854.jpg"
+ogImage: "https://img.liuxue.bj.cn/留学/beijing-intl-school-fee-budget-2026-1280x854.jpg"
 ---
 
 # 北京国际学校费用全览：学费之外的隐性支出值得关注

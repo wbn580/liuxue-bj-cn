@@ -6,7 +6,7 @@ publishDate: '2026-03-15'
 pubDatetime: "2026-03-15T00:00:00Z"
 readingTime: 9
 tags: ['行前准备', '海外落地', '留学实用清单', '北京留学生']
-ogImage: "https://img.ulec.com.cn/留学/beijing-xingqian-zhunbei-2026-1880x1291.jpg"
+ogImage: "https://img.liuxue.bj.cn/留学/beijing-xingqian-zhunbei-2026-1880x1291.jpg"
 ---
 
 # 从北京出发：行前准备与海外落地初期实用清单
