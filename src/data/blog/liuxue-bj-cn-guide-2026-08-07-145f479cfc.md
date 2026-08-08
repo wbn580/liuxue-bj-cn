@@ -8,7 +8,7 @@ slug: 'liuxue-bj-cn-guide-2026-08-07-145f479cfc'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/liuxue-bj-cn-guide-2026-08-07-145f479cfc-image-01-2026-1280x853.jpg'
+ogImage: 'https://img.liuxue.bj.cn/留学/liuxue-bj-cn-guide-2026-08-07-145f479cfc-image-01-2026-1280x853.jpg'
 verified: '2026-08-07T00:00:00Z'
 tags:
   - '澳洲留学'
@@ -23,7 +23,7 @@ tags:
 
 价格区间因学校和房型而异，通常每周在数百澳元不等。申请截止日期各校不同，且热门宿舍往往满位较快，因此建议学生尽早递交申请，以提高获得理想宿舍的机会。
 
-![澳洲大学校内宿舍建筑](https://img.ulec.com.cn/留学/liuxue-bj-cn-guide-2026-08-07-145f479cfc-image-01-2026-1280x853.jpg)
+![澳洲大学校内宿舍建筑](https://img.liuxue.bj.cn/留学/liuxue-bj-cn-guide-2026-08-07-145f479cfc-image-01-2026-1280x853.jpg)
 
 
 ## 申请建议
