@@ -17,7 +17,7 @@ const siteName = '北京留学网';
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="baidu-site-verification" content="codeva-gnmxUdWOWi" />
 <meta name="bytedance-verification-code" content="ITV5MlE1ZE+iYJ7F/gml" />
-<title>{title === siteName ? title : `${title} — ${siteName}`}</title>
+<title>{title && (title === siteName || title.toLowerCase().includes(siteName.toLowerCase())) ? title : `${title} — ${siteName}`}</title>
 <meta name="description" content={description}>
 <meta property="og:title" content={title}>
 <meta property="og:description" content={description}>

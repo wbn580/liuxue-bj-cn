@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+/* UX fix (batch02): ensure mobile tap targets meet 44x44 minimum */
+@media (max-width: 768px) {
+  nav a, header a, footer a, .btn, button, input, select, textarea, a.btn, [role="button"] {
+    min-height: 44px;
+    min-width: 44px;
+    display: inline-flex;
+    align-items: center;
+  }
+}
