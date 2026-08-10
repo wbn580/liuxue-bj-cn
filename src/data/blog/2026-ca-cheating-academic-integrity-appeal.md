@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年加拿大大学作弊指控申诉全解析：从Instructor Meeting到Senate Appeals Committee的完整流程与申诉顾问横向对比。'
 tags: ['加拿大', '作弊指控', 'Academic Integrity']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

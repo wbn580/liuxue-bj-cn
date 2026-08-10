@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '基于2026年真实留学生用户反馈，五维对比澳洲五大OSHC保险公司的理赔速度、到账时效和服务体验，帮你选出理赔最快的方案。'
 tags: ['澳洲留学', 'OSHC保险', '保险理赔', '保险公司对比', '留学生医保']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

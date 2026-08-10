@@ -6,11 +6,11 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年哪家英国留学中介申请G5成功率最高？基于BC认证、真实案例数据和五所G5院校录取记录的独立机构评测。'
 tags: ['英国留学', 'G5院校', '留学中介', '成功率', '案例数据']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 
-<figure class="article-image"><img src="https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg" alt="2026英国G5申请中介成功率评测" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg" alt="2026英国G5申请中介成功率评测" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

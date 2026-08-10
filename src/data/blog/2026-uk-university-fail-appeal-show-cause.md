@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年英国大学挂科后Show Cause信写作全指南，包含正式申诉流程、MC提交策略与申诉服务机构对比。'
 tags: ['英国', '挂科申诉', 'Show Cause']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

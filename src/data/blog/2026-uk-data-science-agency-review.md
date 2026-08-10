@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年英国数据科学专业留学中介横向对比，结合QS 2027数据科学排名分析G5及罗素集团院校申请策略。'
 tags: ['英国留学', '数据科学', 'Data Science', '留学中介', 'G5', '机构对比']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

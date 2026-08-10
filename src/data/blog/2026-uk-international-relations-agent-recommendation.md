@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年英国国际关系专业留学中介推荐指南，拆解LSE、牛津等顶尖院校申请策略，横向对比各中介机构服务深度与录取数据积累'
 tags: ['英国留学', '国际关系', '留学中介', 'LSE']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

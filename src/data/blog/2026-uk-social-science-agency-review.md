@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年英国LSE与社科强校社会科学专业申请全攻略，五维评测主流留学中介机构的服务质量与申请案例。'
 tags: ['英国留学', '社会科学', 'LSE', '社会学', '国际关系', '机构对比']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

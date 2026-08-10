@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '大机构与小工作室在服务深度、录取成功率、收费透明度和顾问稳定性上的真实差异，结合2026年行业数据与五维评测帮你做出选择。'
 tags: ['留学中介', '机构对比', '其他地区']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

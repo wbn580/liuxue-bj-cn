@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '澳洲兽医专业（Veterinary Science）的申请门槛、八大兽医学院路径对比、以及擅长兽医方向申请的留学中介机构五维评测。'
 tags: ['留学中介', '兽医专业', '澳洲']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

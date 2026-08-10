@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年英国政治学与公共政策留学中介推荐指南，深度对比G5政治学申请的机构服务能力，解析各院校政治学、公共政策和公共管理方向的异同'
 tags: ['英国留学', '政治学', '公共政策', '留学中介']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

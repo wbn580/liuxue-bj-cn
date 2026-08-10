@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年留学中介排名前十有哪些机构上榜？从资质、案例、收费、服务深度与响应速度五个维度逐一拆解，帮助读者做出理性选择。'
 tags: ['综合留学', '留学中介', '留学排名', '澳洲留学', '英国留学']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

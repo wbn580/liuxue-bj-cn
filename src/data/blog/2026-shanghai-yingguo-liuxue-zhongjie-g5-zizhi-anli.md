@@ -6,11 +6,11 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026上海英国留学中介推荐，聚焦G5院校申请方向。从BC认证资质、G5录取案例追踪和上海本地生源适配度三个层面对比分析可选的G5申请服务机构。'
 tags: ['英国留学', '上海', '留学中介', 'G5申请', 'BC认证']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 
-<figure class="article-image"><img src="https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg" alt="2026上海英国留学中介G5推荐" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg" alt="2026上海英国留学中介G5推荐" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

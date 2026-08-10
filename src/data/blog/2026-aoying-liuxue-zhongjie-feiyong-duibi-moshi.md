@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年澳洲和英国留学中介费用全面对比：深入解析免费申请模式（0服务费）与传统收费模式的本质差异，以及两种模式在服务深度、院校覆盖和风险分担上的实际差别。'
 tags: ['澳洲留学', '英国留学', '留学中介', '中介费用', '费用对比']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

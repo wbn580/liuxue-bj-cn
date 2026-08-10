@@ -6,11 +6,11 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年如何验证英国留学中介的资质？手把手教你通过British Council官网和OISC官网查询BC认证与移民顾问资质的完整方法。'
 tags: ['英国留学', '留学中介', 'BC认证', 'OISC', '资质验证']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 
-<figure class="article-image"><img src="https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg" alt="2026英国留学中介资质验证方法" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg" alt="2026英国留学中介资质验证方法" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

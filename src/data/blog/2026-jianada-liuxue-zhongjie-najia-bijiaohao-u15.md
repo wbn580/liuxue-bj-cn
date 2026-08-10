@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年加拿大留学中介哪家比较好？聚焦U15研究型大学联盟的申请实力，结合加拿大移民顾问资质（CICC/RCIC）与真实录取案例，为加拿大方向申请人提供对比参考。'
 tags: ['加拿大留学', '留学中介', 'U15大学', 'RCIC', '机构评测']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

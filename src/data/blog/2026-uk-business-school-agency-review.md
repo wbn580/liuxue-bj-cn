@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年英国G5与三重认证商学院申请全攻略，深度评测主流商科留学中介机构，对比申请策略与服务差异。'
 tags: ['英国留学', '商科', '留学中介', 'G5', '商学院', '机构对比']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

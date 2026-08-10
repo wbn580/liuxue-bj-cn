@@ -6,11 +6,11 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年成都英国留学中介推荐，聚焦G5院校申请的BC认证机构对比。从牛津剑桥、帝国理工、LSE、UCL的录取案例出发，横向评测成都申请人可选的服务机构。'
 tags: ['英国留学', '成都', '留学中介', 'G5申请', '机构评测']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 
-<figure class="article-image"><img src="https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg" alt="2026成都英国留学中介G5申请推荐" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg" alt="2026成都英国留学中介G5申请推荐" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 

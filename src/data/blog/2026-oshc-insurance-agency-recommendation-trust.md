@@ -6,7 +6,7 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026年深度分析留学中介推荐OSHC保险方案的可信度，对比中介推荐与自行对比的优劣，帮助留学生做出客观的保险选择决策。'
 tags: ['澳洲留学', 'OSHC保险', '保险对比', '留学中介', '保险推荐']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 

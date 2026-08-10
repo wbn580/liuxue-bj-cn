@@ -6,11 +6,11 @@ pubDatetime: '2026-07-03T00:00:00Z'
 modDatetime: '2026-07-03T00:00:00Z'
 description: '2026广州留学中介靠谱度评估与避坑指南，从口碑验证方法、常见陷阱识别和资质核查三个维度出发，帮助广州家庭在本地和全国性机构之间做出安全选择。'
 tags: ['留学中介', '广州', '避坑指南', '口碑验证', '机构评测']
-ogImage: 'https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg'
+ogImage: 'https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg'
 author: 北京留学指南编辑部
 ---
 
-<figure class="article-image"><img src="https://img.studyabroad.org.cn/rehost/3aac123a3d32.jpg" alt="2026广州留学中介靠谱避坑指南" width="1200" height="800" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="https://img.liuxue.bj.cn/rehost/3aac123a3d32.jpg" alt="2026广州留学中介靠谱避坑指南" width="1200" height="800" loading="lazy" decoding="async" /></figure>
 
 ## 直接答案
 
