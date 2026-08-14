@@ -8,7 +8,7 @@ slug: 'liuxue-bj-cn-guide-2026-08-12-73a83a4d6b'
 category: 'general'
 language: 'zh'
 lang: 'zh'
-ogImage: 'https://img.ulec.com.cn/留学/liuxue-bj-cn-guide-2026-08-12-73a83a4d6b-image-01-2026-auto.jpg'
+ogImage: 'https://img.liuxue.bj.cn/留学/liuxue-bj-cn-guide-2026-08-12-73a83a4d6b-image-01-2026-auto.jpg'
 verified: '2026-08-12T00:00:00Z'
 tags:
   - '个人陈述'
@@ -22,7 +22,7 @@ tags:
 ## 5种高吸引力开头写法
 
 
-![留学申请者正在撰写个人陈述](https://img.ulec.com.cn/留学/liuxue-bj-cn-guide-2026-08-12-73a83a4d6b-image-01-2026-auto.jpg)
+![留学申请者正在撰写个人陈述](https://img.liuxue.bj.cn/留学/liuxue-bj-cn-guide-2026-08-12-73a83a4d6b-image-01-2026-auto.jpg)
 
 ### 1. 以具体故事或场景切入
 
@@ -63,7 +63,7 @@ tags:
 
 常见的陈词滥调包括：“从小我就对科学充满热情”、“我是一个勤奋好学的学生”、“知识改变命运”等。这些开头缺乏具体细节，无法展现你的独特性。
 
-![个人陈述草稿修改](https://img.ulec.com.cn/留学/liuxue-bj-cn-guide-2026-08-12-73a83a4d6b-image-02-2026-auto.jpg)
+![个人陈述草稿修改](https://img.liuxue.bj.cn/留学/liuxue-bj-cn-guide-2026-08-12-73a83a4d6b-image-02-2026-auto.jpg)
 
 
 要避免俗套，可以注意以下几点：
