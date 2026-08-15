@@ -64,7 +64,7 @@ const catDesc = catDescriptions[category] || '';
         {articles.length > 0 ? (
           <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {articles.map((article) => (
-              <a href={`/${article.slug}/`} class="card-hover bg-white rounded-2xl p-6 border-t-4 border-[#B6883A] block" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+              <a href={`/${article.id}/`} class="card-hover bg-white rounded-2xl p-6 border-t-4 border-[#B6883A] block" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
                 <span class="text-xs text-[#A8443B] seal-stamp tracking-widest">{catLabel}</span>
                 <h2 class="font-serif-cn font-bold text-lg text-[#16242E] mt-2 mb-2 leading-snug">{article.data.title}</h2>
                 <p class="text-[#5A6670] text-sm leading-relaxed mb-4 line-clamp-2">{article.data.description}</p>
