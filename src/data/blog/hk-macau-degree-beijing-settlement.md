@@ -69,8 +69,6 @@ ogImage: "https://img.liuxue.bj.cn/edu/hk-macau-degree-beijing-settlement-1-2026
 
 当前已恢复常态。疫情期间的线上授课阶段按留服中心当时发布的临时政策处理，需以个案材料和认证机构的最新意见为准，不同时间段的处理方式可能有差异。
 
-
-
 ## 与台湾地区学历的区别
 
 需要特别说明的是，台湾地区学历的处理方式与港澳不同。北京留学生落户规则中对台湾地区学习人员没有直接写明"参照办理"，通常以留服中心能否出具认证书为判断前提。如果留服中心出具了台湾地区学历认证书，在实际操作中可能与港澳学历走类似通道，但具体的适用规则建议在申请前通过用人单位向人社部门确认。不能因为港澳有明确参照办理条款，就推断台湾学历一定适用相同规则。
@@ -88,7 +86,6 @@ ogImage: "https://img.liuxue.bj.cn/edu/hk-macau-degree-beijing-settlement-1-2026
 
 ## 延伸阅读
 
-- [beijing/hukou/returnee settlement guide](/beijing/hukou/returnee-settlement-guide)
 - [2026 北京海归落户不看世界前 100：硕士、留学时长、回国两年和单位计划详解](/blog/beijing-returnee-settlement-no-ranking/)
 - [北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道](/blog/beijing-youpei-vs-selection-2026/)
 - [海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断](/blog/overseas-masters-beijing-civil-service-2026/)

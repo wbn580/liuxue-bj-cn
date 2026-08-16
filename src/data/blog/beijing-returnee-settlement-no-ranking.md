@@ -77,7 +77,6 @@ ogImage: "https://img.liuxue.bj.cn/edu/beijing-returnee-settlement-no-ranking-1-
 
 ## 延伸阅读
 
-- [beijing/hukou/returnee settlement guide](/beijing/hukou/returnee-settlement-guide)
 - [香港、澳门学历能不能走北京留学生落户：参照办理条件与认证材料](/blog/hk-macau-degree-beijing-settlement/)
 - [北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道](/blog/beijing-youpei-vs-selection-2026/)
 - [海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断](/blog/overseas-masters-beijing-civil-service-2026/)

@@ -45,8 +45,6 @@ ogImage: "https://img.liuxue.bj.cn/edu/overseas-masters-beijing-civil-service-20
 
 留服认证是报考公务员的基本材料，认证周期通常需要一至两个月，繁忙时段可能更长。由于2026年度北京市公务员统考的学位取得窗口截止日期为二零二六年七月三十一日，而认证耗时可能跨越这一节点，建议毕业生在取得学位证书后第一时间启动认证申请。如果在报考或面试阶段认证尚未完成，需向招录单位说明情况并确认是否接受"认证办理中"的临时证明文件，但最终录用以正式认证书为必要文件。
 
-
-
 ## 公务员统考与优培、落户的三者关系
 
 在北京市2026年度的体制内入口版图中，海外硕士毕业生有三条路径可以同时关注：公务员统考、优培计划，以及留学生落户（与就业绑定而非独立的"进体制"通道）。三条路径在排名要求上有本质区别：公务员统考通常不以排名为门槛，优培要求软科前100且境内本科前置，留学生落户完全不设排名条件。在身份起点上，公务员统考录用的多数是行政编制，优培是事业编或企业编，留学生落户则是户口身份而非工作岗位。
@@ -92,7 +90,6 @@ ogImage: "https://img.liuxue.bj.cn/edu/overseas-masters-beijing-civil-service-20
 
 ## 延伸阅读
 
-- [beijing/civil service/overseas graduates](/beijing/civil-service/overseas-graduates)
 - [2026 北京海归落户不看世界前 100：硕士、留学时长、回国两年和单位计划详解](/blog/beijing-returnee-settlement-no-ranking/)
 - [北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道](/blog/beijing-youpei-vs-selection-2026/)
 - [北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么](/blog/beijing-youpei-arwu-top100-dual/)

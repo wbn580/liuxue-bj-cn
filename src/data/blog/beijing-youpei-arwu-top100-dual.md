@@ -47,8 +47,6 @@ ogImage: "https://img.liuxue.bj.cn/edu/beijing-youpei-arwu-top100-dual-1-2026-12
 
 另一个实际问题是：一年制硕士的课程通常在当年秋季开始、次年夏季结束，从毕业到优培报名窗口的衔接时间非常紧凑。如果学位证书的颁发延迟，认证周期和报名时间可能重叠，建议尽早与学校沟通学位证书的获取安排。
 
-
-
 ## 本科前置的名单到底怎么查
 
 优培公告中对"本科阶段在优培计划面向的境内相关学校或学科就读"的表述，对应的是公告附件中的三份名单：四十三所双一流建设高校、二十五所高校双一流建设学科、二十所北京市属高校高精尖学科。具体而言，如果你的本科学校属于四十三所双一流建设高校，通常全校所有专业都在覆盖范围内；如果你的本科学校只出现在二十五所双一流建设学科名单中，那么只有相关学科的专业才符合条件；如果你本科就读于北京市属高校且专业属于高精尖学科，同样在覆盖范围内。公告附件名单是判定本科前置条件的唯一依据，不能凭学校名气或综合排名自行推断。
@@ -100,7 +98,6 @@ ogImage: "https://img.liuxue.bj.cn/edu/beijing-youpei-arwu-top100-dual-1-2026-12
 
 ## 延伸阅读
 
-- [beijing/youpei/overseas eligibility](/beijing/youpei/overseas-eligibility)
 - [2026 北京海归落户不看世界前 100：硕士、留学时长、回国两年和单位计划详解](/blog/beijing-returnee-settlement-no-ranking/)
 - [北京 2026 优培和定向选调有什么区别：海外前 100 只进入哪一条通道](/blog/beijing-youpei-vs-selection-2026/)
 - [海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断](/blog/overseas-masters-beijing-civil-service-2026/)

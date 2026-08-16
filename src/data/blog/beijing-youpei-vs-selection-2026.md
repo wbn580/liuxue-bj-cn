@@ -39,8 +39,6 @@ ogImage: "https://img.liuxue.bj.cn/edu/beijing-youpei-vs-selection-2026-1-2026-1
 
 三条路线的身份起点也有本质区别。定向选调录用后是行政编制公务员，有明确的培养和晋升路径。优培计划录用后是市属企事业单位的职位，身份为事业编或企业编，不自动转为公务员。公务员统考录用的岗位视具体职位而定，多数为行政编制。建议申请人根据自身学历背景、本科院校、排名情况和职业目标，分别评估三条路线的可行性和匹配度，而不是笼统地追求"进体制"。
 
-
-
 ## 优培计划与公务员统考的实操衔接
 
 有些申请人会同时准备优培计划和公务员统考，以增加进入体制的概率。两条通道在时间线上通常不存在硬冲突——优培的报名和笔试一般在秋季进行，而北京公务员统考通常在年底或次年初——但两条通道的报考条件和后续流程需要分别准备。优培的海外院校排名筛选以公告发布时的名单为准，公务员统考则以职位表中的具体条件为准，两者的报名系统和材料要求相互独立。
@@ -86,7 +84,6 @@ ogImage: "https://img.liuxue.bj.cn/edu/beijing-youpei-vs-selection-2026-1-2026-1
 
 ## 延伸阅读
 
-- [beijing/youpei/overseas eligibility](/beijing/youpei/overseas-eligibility)
 - [2026 北京海归落户不看世界前 100：硕士、留学时长、回国两年和单位计划详解](/blog/beijing-returnee-settlement-no-ranking/)
 - [海外硕士报考北京 2026 公务员：应届身份、户口与留服认证怎么判断](/blog/overseas-masters-beijing-civil-service-2026/)
 - [北京优培的软科前 100＋国内本科双门槛：一年制硕士也要注意什么](/blog/beijing-youpei-arwu-top100-dual/)

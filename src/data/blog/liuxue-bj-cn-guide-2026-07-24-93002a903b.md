@@ -25,16 +25,7 @@ tags:
 
 ## 延伸阅读
 
-- [相关指南甲](/2026-aoying-liuxue-zhongjie-feiyong-duibi-moshi/)
-
 ![与本指南主题相关的资料图片甲](https://img.liuxue.bj.cn/留学/liuxue-bj-cn-guide-2026-07-24-93002a903b-image-01-2026-auto.jpg)
-
-
-- [相关指南乙](/2026-aozhou-daxue-tuixue-shensu-showcause-chenggong/)
-
-- [相关指南丙](/2026-aozhou-liuxue-guake-shensu-showcause-shangsu/)
-
-- [相关指南丁](/2026-aozhou-liuxue-oshc-baoxian-zenme-xuan-zhongjie-vs-zigou/)
 
 ## FAQ
 
