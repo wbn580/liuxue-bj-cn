@@ -1,5 +1,4 @@
 ---
-hideFromHome: true
 title: '2026年留学DIY还是找中介？过来人的血泪教训帮你避坑'
 description: '2026年留学申请中，DIY和找中介各有各的坑。本文收集真实案例中的常见陷阱，帮你提前规避，少走弯路。'
 pubDatetime: '2026-07-03T00:00:00Z'

@@ -7,8 +7,6 @@ pubDatetime: "2026-06-15T00:00:00Z"
 readingTime: 8
 tags: []
 ogImage: "/images/留学_beijing-faq-country-choice-2026-1880x1291.jpg"
-hideFromHome: true
-
 ---
 
 # 英美澳加怎么选？北京家庭留学目的国选择问答

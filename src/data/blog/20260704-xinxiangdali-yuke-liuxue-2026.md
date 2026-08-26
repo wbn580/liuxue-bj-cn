@@ -3,7 +3,6 @@ title: "2026新西兰预科留学：八大预科课程与入学条件详解"
 description: "2026新西兰预科留学：八大预科课程与入学条件详解。本文基于UNILINK案例库真实数据，提供客观、可操作的信息与建议。"
 pubDatetime: "2026-07-04T00:00:00Z"
 modDatetime: "2026-07-04T00:00:00Z"
-hideFromHome: true
 tags:
   - 北京留学中介
   - 预科课程

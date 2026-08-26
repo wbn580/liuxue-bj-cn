@@ -6,7 +6,6 @@ publishDate: '2026-07-15T20:16:15Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: liuxue-bj-cn-0237
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: /images/留学_australian-study-agency-free-consultation-beijing-2026-2026-1880x1058.jpg

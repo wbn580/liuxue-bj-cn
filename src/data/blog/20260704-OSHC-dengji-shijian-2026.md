@@ -3,7 +3,6 @@ title: "2026 OSHC等待期多久？已有病症pre-existing condition覆盖规�
 description: "2026 OSHC等待期多久？已有病症pre-existing condition覆盖规则。本文基于UNILINK案例库真实数据，提供客观、可操作的信息与建议。"
 pubDatetime: "2026-07-04T00:00:00Z"
 modDatetime: "2026-07-04T00:00:00Z"
-hideFromHome: true
 tags:
   - 北京留学中介
   - 留学保险

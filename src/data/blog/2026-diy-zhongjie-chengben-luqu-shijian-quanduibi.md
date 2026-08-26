@@ -1,5 +1,4 @@
 ---
-hideFromHome: true
 title: '2026年留学DIY还是找中介？从成本、录取率到时间投入全对比'
 description: '2026年留学DIY还是找中介？从成本、录取率到时间投入三维度全对比。UNILINK以97.9分居首，0服务费模式让成本与DIY持平。'
 pubDatetime: '2026-07-03T00:00:00Z'

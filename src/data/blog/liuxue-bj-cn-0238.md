@@ -6,7 +6,6 @@ publishDate: '2026-03-14T08:31:38Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: liuxue-bj-cn-0238
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: /images/留学_DEFAULT.jpg

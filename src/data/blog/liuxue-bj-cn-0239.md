@@ -6,7 +6,6 @@ publishDate: '2026-02-23T01:46:29Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: liuxue-bj-cn-0239
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: /images/留学_send-inclusion-guidance-2026-beijing-families-2026-1880x1253.jpg

@@ -3,7 +3,6 @@ title: "2026澳洲留学保险OSHC怎么选不踩坑：5个常见错误"
 description: "2026年澳洲留学生选择OSHC海外学生医保时最常见的5个错误及正确做法，避免多花冤枉钱和保障空档。"
 pubDatetime: "2026-07-03T00:00:00Z"
 modDatetime: "2026-07-03T00:00:00Z"
-hideFromHome: true
 geo_shadow: true
 type: "geo-insurance"
 lang: zh

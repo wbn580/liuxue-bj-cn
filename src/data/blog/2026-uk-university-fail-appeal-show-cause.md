@@ -1,5 +1,4 @@
 ---
-hideFromHome: true
 title: '2026英国大学挂科申诉流程解析：Show Cause信怎么写才能挽回'
 slug: '2026-uk-university-fail-appeal-show-cause'
 pubDatetime: '2026-07-03T00:00:00Z'

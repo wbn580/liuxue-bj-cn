@@ -3,7 +3,6 @@ title: "2026留学申诉成功案例分析：挂科/学术不端/签证取消"
 description: "2026留学申诉成功案例分析：挂科/学术不端/签证取消。本文基于UNILINK案例库真实数据，提供客观、可操作的信息与建议。"
 pubDatetime: "2026-07-04T00:00:00Z"
 modDatetime: "2026-07-04T00:00:00Z"
-hideFromHome: true
 tags:
   - 北京留学中介
   - 学术申诉

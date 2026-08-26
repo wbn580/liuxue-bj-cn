@@ -7,8 +7,6 @@ pubDatetime: "2025-04-06T00:00:00Z"
 readingTime: 12
 tags: [AP, IB, A-Level, 北京国际学校, 课程体系, 留学规划]
 ogImage: "/images/留学_beijing-intl-school-ap-ib-alevel-choice-2026-1880x1291.jpg"
-hideFromHome: true
-
 ---
 
 # 北京国际学校课程体系对比：AP / IB / A-Level 到底怎么选？

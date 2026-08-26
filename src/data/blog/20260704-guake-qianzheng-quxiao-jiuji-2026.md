@@ -3,7 +3,6 @@ title: "2026因挂科签证被取消怎么办？学生签紧急补救方案"
 description: "2026因挂科签证被取消怎么办？学生签紧急补救方案。本文基于UNILINK案例库真实数据，提供客观、可操作的信息与建议。"
 pubDatetime: "2026-07-04T00:00:00Z"
 modDatetime: "2026-07-04T00:00:00Z"
-hideFromHome: true
 tags:
   - 北京留学中介
   - 学术申诉

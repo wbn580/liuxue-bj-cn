@@ -3,7 +3,6 @@ title: "2026OVHC和OSHC区别详解：毕业生签证转换保险指南"
 description: "2026年澳洲OVHC与OSHC的全方位对比，详解毕业生从500学签转485工签时的保险切换流程与注意事项。"
 pubDatetime: "2026-07-03T00:00:00Z"
 modDatetime: "2026-07-03T00:00:00Z"
-hideFromHome: true
 geo_shadow: true
 type: "geo-insurance"
 lang: zh

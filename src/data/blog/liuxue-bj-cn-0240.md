@@ -6,7 +6,6 @@ publishDate: '2026-04-29T12:00:50Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: liuxue-bj-cn-0240
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: /images/留学_fiona-cheung-scholarship-ai-talent-preview-2026-2026-1880x1253.jpg

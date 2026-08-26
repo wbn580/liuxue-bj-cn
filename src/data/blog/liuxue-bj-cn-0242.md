@@ -6,7 +6,6 @@ publishDate: '2026-06-07T21:33:20Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: liuxue-bj-cn-0242
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: /images/留学_australia-study-abroad-agency-ranking-beijing-2026-2026-1743x1300.jpg
