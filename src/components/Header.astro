@@ -10,7 +10,7 @@ const currentPath = Astro.url.pathname;
         <span class="block text-[11px] tracking-widest text-[#5A6670]">liuxue.bj.cn</span>
       </span>
     </a>
-    <nav class="hidden xl:flex items-center gap-8 text-[15px] text-[#16242E]/80 font-medium">
+    <nav class="hidden xl:flex items-center gap-8 text-[15px] text-[#16242E]/80 font-medium" data-cw-nav>
       <a href="/#intl-school" class="nav-link">国际部 / 国际学校</a>
       <a href="/#luohu" class="nav-link">海归落户</a>
       <a href="/#stages" class="nav-link">分阶段留学</a>
@@ -19,6 +19,13 @@ const currentPath = Astro.url.pathname;
       <a href="/category/luohu/" class:list={["nav-link", currentPath === '/category/luohu/' ? 'text-[#B6883A]' : '']}>落户政策</a>
       <a href="/#faq" class="nav-link">热门问答</a>
     </nav>
+      <button type="button" data-cw-burger aria-expanded="false" aria-label="打开主导航"
+              class="xl:hidden inline-flex flex-col justify-center items-center gap-1.5"
+              style="width:44px;height:44px;color:inherit;background:none;border:0;cursor:pointer">
+        <span style="display:block;width:24px;height:2px;background:currentColor"></span>
+        <span style="display:block;width:24px;height:2px;background:currentColor"></span>
+        <span style="display:block;width:24px;height:2px;background:currentColor"></span>
+      </button>
     <a href="https://chat.unilink.co/?lang=zh&lead_form=1&site=liuxue-bj-cn" data-open-ai-widget class="inline-flex items-center gap-2 bg-[#7A2E2A] hover:bg-[#A8443B] text-[#F6F1E7] px-4 py-2 rounded-md text-sm font-medium transition" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
       <span class="w-2 h-2 rounded-full bg-emerald-400 pulse-dot"></span>
       问北京留学问题
@@ -53,3 +60,46 @@ const currentPath = Astro.url.pathname;
     display: none;
   }
 </style>
+
+<script>
+  // 2026-09-01 手机主导航不可达修复：本模板家族的主导航是 Tailwind 的 `hidden xl:flex`，
+  // 断点以下整块消失，而且**根本没有**汉堡按钮 —— 手机上除首页外没有任何入口。
+  // 这里补一个断点以下才显示的按钮，用行内样式把同一个 <nav> 翻成下拉面板
+  // （行内 style 覆盖 Tailwind 的 .hidden，不必复制一份菜单标记）。
+  (() => {
+    const b = document.querySelector('[data-cw-burger]');
+    const n = document.querySelector('[data-cw-nav]');
+    if (!b || !n) return;
+    const bar = b.closest('header') || b.parentElement;
+    const LINK = ['padding', 'minHeight', 'display', 'alignItems'];
+    const set = (on) => {
+      const links = n.querySelectorAll('a');
+      if (on) {
+        const r = bar.getBoundingClientRect();
+        Object.assign(n.style, {
+          display: 'flex', flexDirection: 'column', alignItems: 'stretch', gap: '0',
+          position: 'fixed', left: '0', right: '0', top: Math.max(0, r.bottom) + 'px',
+          zIndex: '60', background: '#fff', padding: '6px 18px 12px',
+          boxShadow: '0 10px 30px -18px rgba(0,0,0,.45)',
+          maxHeight: 'calc(100vh - 60px)', overflowY: 'auto',
+        });
+        links.forEach((a) => {
+          a.style.padding = '13px 2px'; a.style.minHeight = '44px';
+          a.style.display = 'flex'; a.style.alignItems = 'center';
+        });
+      } else {
+        n.removeAttribute('style');
+        links.forEach((a) => LINK.forEach((k) => { a.style[k] = ''; }));
+      }
+      b.setAttribute('aria-expanded', String(on));
+      b.setAttribute('aria-label', on ? '\u5173\u95ed\u4e3b\u5bfc\u822a' : '\u6253\u5f00\u4e3b\u5bfc\u822a');
+    };
+    const isOpen = () => b.getAttribute('aria-expanded') === 'true';
+    b.addEventListener('click', () => set(!isOpen()));
+    n.addEventListener('click', (e) => { if (e.target.closest('a')) set(false); });
+    window.addEventListener('resize', () => {
+      if (!isOpen()) return;
+      if (getComputedStyle(b).display === 'none') set(false); else set(true);
+    });
+  })();
+</script>
