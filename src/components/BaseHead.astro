@@ -102,3 +102,32 @@ const siteName = '北京留学网';
   .prose img{border-radius:0.75rem;margin:2rem auto;display:block;max-width:100%;height:auto}
   .prose .callout{background:rgba(168,68,59,0.06);border:1px solid rgba(168,68,59,0.15);border-radius:0.75rem;padding:1rem 1.25rem;margin:1.5rem 0;font-size:0.95rem}
 </style>
+
+<script is:inline>
+  // Scroll reveal for .fade-up blocks (previously had no observer wiring them up,
+  // so every .fade-up element stayed opacity:0 forever — 2026-09-08 fix).
+  (function () {
+    function reveal() {
+      var els = document.querySelectorAll('.fade-up');
+      if (!els.length) return;
+      if (!('IntersectionObserver' in window)) {
+        els.forEach(function (el) { el.classList.add('in'); });
+        return;
+      }
+      var observer = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('in');
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+      els.forEach(function (el) { observer.observe(el); });
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', reveal);
+    } else {
+      reveal();
+    }
+  })();
+</script>
