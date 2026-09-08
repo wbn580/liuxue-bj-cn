@@ -78,7 +78,7 @@ QS 排名中，学术声誉和雇主声誉是两项核心指标。美国 184 所
 
 ## 数据说明
 
-本文数据来源为 QS World University Rankings 2027（Quacquarelli Symonds (QS)），数据基准日为 2026-06-18。榜单覆盖 1504 所院校、106 个国家与地区，已于 2026-07-28 与 Kaggle 官方 QS 2027 数据集交叉核验条数吻合。官方页面：https://www.topuniversities.com/world-university-rankings。
+本文数据来源为 QS World University Rankings 2027（Quacquarelli Symonds (QS)），数据基准日为 2026-06-18。榜单覆盖 1504 所院校、106 个国家与地区，已于 2026-07-28 与 Kaggle 官方 QS 2027 数据集交叉核验条数吻合。官方页面：[https://www.topuniversities.com/world-university-rankings](https://www.topuniversities.com/world-university-rankings)。
 
 统计口径为：按 country 字段筛选出美国院校后，对名次分档、中位数与年度变化进行统计；名次区间取下界整数比较。年度变化仅针对 2026 与 2027 两版榜单中均可比的 181 所院校，新增上榜或数据口径调整的院校不纳入变化统计。
 
