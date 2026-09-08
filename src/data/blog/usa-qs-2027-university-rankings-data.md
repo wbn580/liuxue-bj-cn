@@ -8,7 +8,7 @@ modDatetime: "2026-09-07T17:04:50Z"
 lang: "zh-CN"
 language: "zh-CN"
 category: "排名"
-ogImage: "https://img.liuxue.bj.cn/统计数据/usa-qs-2027-university-rankings-data-2026-1880x1253.jpg"
+ogImage: ""
 tags:
   - "QS2027"
   - "美国大学排名"
