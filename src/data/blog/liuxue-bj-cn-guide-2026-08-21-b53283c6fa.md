@@ -44,7 +44,7 @@ tags:
 
 发出邮件后，如果教授在合理时间内未回复，可以礼貌地发送一封跟进邮件。跟进时，注意：
 
-![学生与教授讨论推荐信](https://img.ulec.com.cn/留学/liuxue-bj-cn-guide-2026-08-21-b53283c6fa-image-01-2026-1280x853.jpg)
+![学生与教授讨论推荐信](https://img.liuxue.bj.cn/留学/liuxue-bj-cn-guide-2026-08-21-b53283c6fa-image-01-2026-1280x853.jpg)
 
 
 - 保持简短，重申请求。

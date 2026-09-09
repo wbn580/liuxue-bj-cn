@@ -20,7 +20,7 @@ tags:
 
 澳洲多所大学近期对申请要求进行了调整，主要集中在商科、护理硕士和奖学金三个方面。
 
-![澳洲大学校园的建筑与绿地](https://img.ulec.com.cn/留学/liuxue-bj-cn-guide-2026-09-01-4024e5d2bb-image-02-2026-1880x1253.jpg)
+![澳洲大学校园的建筑与绿地](https://img.liuxue.bj.cn/留学/liuxue-bj-cn-guide-2026-09-01-4024e5d2bb-image-02-2026-1880x1253.jpg)
 
 
 ### 八大商科降低分数

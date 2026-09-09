@@ -30,7 +30,7 @@ tags:
 - 关注签证政策变化,提前准备材料,确保资金证明等要求能够满足。
 - 考虑通过专业留学机构获取申请支持,以提高申请效率与成功率。
 
-![澳大利亚大学校园里的国际学生](https://img.ulec.com.cn/留学/liuxue-bj-cn-2027-guide-2026-08-30-cc72af6bee-image-02-2026-1880x1253.jpg)
+![澳大利亚大学校园里的国际学生](https://img.liuxue.bj.cn/留学/liuxue-bj-cn-2027-guide-2026-08-30-cc72af6bee-image-02-2026-1880x1253.jpg)
 
 
 ## 结论
