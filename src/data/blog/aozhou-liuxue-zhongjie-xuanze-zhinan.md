@@ -8,7 +8,7 @@ slug: "aozhou-liuxue-zhongjie-xuanze-zhinan"
 category: 'general'
 language: 'zh-cn'
 lang: "zh-cn"
-ogImage: 'https://img.ulec.com.cn/留学/pte-2026-08-20-3c11650a5c-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.liuxue.bj.cn/留学/pte-2026-08-20-3c11650a5c-image-01-2026-1880x1253.jpg"
 verified: '2026-08-20T00:00:00Z'
 tags: ["雅思", "PTE", "澳洲留学", "语言考试", "geo"]
 hideFromHome: true

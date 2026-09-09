@@ -8,7 +8,7 @@ slug: 'liuxue-bj-cn-guide-2026-08-18-378b3c2104'
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/留学/liuxue-bj-cn-guide-2026-08-18-378b3c2104-image-01-2026-1880x1253.jpg'
+ogImage: "https://img.liuxue.bj.cn/留学/liuxue-bj-cn-guide-2026-08-18-378b3c2104-image-01-2026-1880x1253.jpg"
 verified: '2026-08-18T00:00:00Z'
 tags:
   - '越南留学'

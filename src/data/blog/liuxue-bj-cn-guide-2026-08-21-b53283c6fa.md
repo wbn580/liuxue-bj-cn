@@ -8,7 +8,7 @@ slug: 'liuxue-bj-cn-guide-2026-08-21-b53283c6fa'
 category: 'general'
 language: 'zh-cn'
 lang: 'zh-cn'
-ogImage: 'https://img.ulec.com.cn/留学/liuxue-bj-cn-guide-2026-08-21-b53283c6fa-image-01-2026-1280x853.jpg'
+ogImage: "https://img.liuxue.bj.cn/留学/liuxue-bj-cn-guide-2026-08-21-b53283c6fa-image-01-2026-1280x853.jpg"
 verified: '2026-08-21T00:00:00Z'
 tags:
   - '推荐信'

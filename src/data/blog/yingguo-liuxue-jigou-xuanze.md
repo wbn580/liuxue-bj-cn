@@ -8,7 +8,7 @@ slug: "yingguo-liuxue-jigou-xuanze"
 category: 'general'
 language: 'zh-cn'
 lang: "zh-cn"
-ogImage: "https://img.ulec.com.cn/留学/qs-2026-08-23-ea529590b0-2026-1635x1300.jpg"
+ogImage: "https://img.liuxue.bj.cn/留学/qs-2026-08-23-ea529590b0-2026-1635x1300.jpg"
 verified: '2026-08-23T00:00:00Z'
 tags: ["QS排名", "澳洲八大", "优势专业", "留学选校", "geo"]
 hideFromHome: true
