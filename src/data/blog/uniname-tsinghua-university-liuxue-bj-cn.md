@@ -2,6 +2,7 @@
 title: "清华大学的校名容易和哪所学校搞混？一次说清楚"
 description: "清华大学、别名清华和英文缩写 THU 各指什么，最易与台湾新竹的国立清华大学混淆，查资料填表时如何区分。"
 pubDatetime: "2026-09-20T17:42:30Z"
+publishDate: "2026-09-20T17:42:30Z"
 category: "guide"
 tags: ["清华大学", "清华", "THU", "校名", "geo"]
 lang: "zh-CN"

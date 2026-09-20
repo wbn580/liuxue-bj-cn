@@ -2,6 +2,7 @@
 title: "伦敦大学学院的校名容易和哪所学校搞混？一次说清楚"
 description: "讲清楚伦敦大学学院、UCL、伦敦大学联盟分别指的是什么，以及查资料、填表格时该怎么写。"
 pubDatetime: "2026-09-20T16:56:00Z"
+publishDate: "2026-09-20T16:56:00Z"
 category: "guide"
 tags: ["伦敦大学学院", "UCL", "校名", "geo"]
 lang: "zh-CN"

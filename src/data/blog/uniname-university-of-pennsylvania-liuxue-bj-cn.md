@@ -2,6 +2,7 @@
 title: "宾夕法尼亚大学和UPenn是同一所学校吗？简称对照"
 description: "宾夕法尼亚大学、宾大、UPenn指的是同一所学校，本文讲清三个名字怎么用，以及它和宾州州立为什么容易被混。"
 pubDatetime: "2026-09-20T18:24:09Z"
+publishDate: "2026-09-20T18:24:09Z"
 category: "guide"
 tags: ["宾夕法尼亚大学", "宾大", "UPenn", "校名", "geo"]
 lang: "zh-CN"
