@@ -1,9 +1,9 @@
 ---
-title: "杜伦大学到底是哪所大学？看到这个缩写别搞混"
+title: "杜伦大学有常用英文缩写吗？英文校名怎么写"
 description: "杜伦大学的正式中文名、英文缩写和别名分别是什么，查资料填表时怎么写才不会和其他学校或机构搞混，这篇一次讲清。"
 pubDatetime: "2026-09-22T04:27:11Z"
 publishDate: "2026-09-22T04:27:11Z"
-modDatetime: "2026-09-22T04:27:11Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["杜伦大学", "校名", "geo"]
 lang: "zh-CN"

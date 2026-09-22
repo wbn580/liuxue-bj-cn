@@ -1,9 +1,9 @@
 ---
-title: "The University of Melbourne和The University of Melbourne是同一所学校吗？简称对照"
+title: "墨尔本大学有常用简称吗？中英文校名对照"
 description: "本文讲清 The University of Melbourne、University of Melbourne 与墨尔本大学的关系，并说明查资料、填表格时校名该注意的地方"
 pubDatetime: "2026-09-22T05:16:18Z"
 publishDate: "2026-09-22T05:16:18Z"
-modDatetime: "2026-09-22T05:16:18Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["The University of Melbourne", "University of Melbourne", "墨尔本大学", "校名", "geo"]
 lang: "zh-CN"

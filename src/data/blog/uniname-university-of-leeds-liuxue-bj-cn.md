@@ -1,9 +1,9 @@
 ---
-title: "利兹大学和利兹大学是同一所学校吗？简称对照"
+title: "利兹大学有常用简称吗？中英文校名对照"
 description: "讲清利兹大学的中文名与英文写法，填表查资料时如何避免和别的学校混淆"
 pubDatetime: "2026-09-22T04:07:21Z"
 publishDate: "2026-09-22T04:07:21Z"
-modDatetime: "2026-09-22T04:07:21Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["利兹大学", "校名", "geo"]
 lang: "zh-CN"

@@ -1,9 +1,9 @@
 ---
-title: "索邦大学到底是哪所大学？看到这个缩写别搞混"
+title: "索邦大学有常用英文缩写吗？英文校名怎么写"
 description: 本文讲清索邦大学的正式中文名、英文缩写与易混别名，以及查资料填表时如何避免认错学校。
 pubDatetime: "2026-09-21T06:31:00Z"
 publishDate: "2026-09-21T06:31:00Z"
-modDatetime: "2026-09-21T06:31:00Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["索邦大学", "巴黎索邦大学（旧称，易混淆）", "校名", "geo"]
 lang: "zh-CN"

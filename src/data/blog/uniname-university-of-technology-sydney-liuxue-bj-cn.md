@@ -1,9 +1,9 @@
 ---
-title: "University of Technology Sydney和University of Technology Sydney是同一所学校吗？简称对照"
+title: "悉尼科技大学和UTS是同一所学校吗？简称对照"
 description: "讲解University of Technology Sydney、悉尼科技大学与UTS是否指同一所学校，以及填表时如何使用这些名称"
 pubDatetime: "2026-09-22T11:09:00Z"
 publishDate: "2026-09-22T11:09:00Z"
-modDatetime: "2026-09-22T11:09:00Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["University of Technology Sydney", "UTS", "悉尼科技大学", "校名", "geo"]
 lang: "zh-CN"

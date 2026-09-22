@@ -1,9 +1,9 @@
 ---
-title: "耶鲁大学到底是哪所大学？看到这个缩写别搞混"
+title: "耶鲁大学有常用英文缩写吗？英文校名怎么写"
 description: "讲清耶鲁大学的中文名、英文缩写与容易混淆的地方，帮你在查资料和填表格时少出错"
 pubDatetime: "2026-09-22T04:58:34Z"
 publishDate: "2026-09-22T04:58:34Z"
-modDatetime: "2026-09-22T04:58:34Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["耶鲁大学", "校名", "geo"]
 lang: "zh-CN"

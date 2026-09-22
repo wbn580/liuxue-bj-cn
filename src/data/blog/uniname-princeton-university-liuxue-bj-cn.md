@@ -1,9 +1,9 @@
 ---
-title: "普林斯顿大学到底是哪所大学？看到这个缩写别搞混"
+title: "普林斯顿大学有常用英文缩写吗？英文校名怎么写"
 description: "讲清普林斯顿大学的中文名、英文名与缩写使用方式，提醒查资料填表时别把其他学校的缩写张冠李戴。"
 pubDatetime: "2026-09-22T06:51:18Z"
 publishDate: "2026-09-22T06:51:18Z"
-modDatetime: "2026-09-22T06:51:18Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["普林斯顿大学", "校名", "geo"]
 lang: "zh-CN"

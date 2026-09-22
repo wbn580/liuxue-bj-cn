@@ -1,9 +1,9 @@
 ---
-title: 格拉斯哥大学到底是哪所大学？看到这个缩写别搞混
+title: "格拉斯哥大学有常用英文缩写吗？英文校名怎么写"
 description: 格拉斯哥大学的中文名、英文名分别是什么，有没有常用英文缩写，查资料和填表时怎么避免把学校名字搞混。
 pubDatetime: 2026-09-22T04:13:24Z
 publishDate: 2026-09-22T04:13:24Z
-modDatetime: 2026-09-22T04:13:24Z
+modDatetime: "2026-09-22T16:11:19Z"
 category: guide
 tags: ["格拉斯哥大学", "校名", "geo"]
 lang: zh-CN

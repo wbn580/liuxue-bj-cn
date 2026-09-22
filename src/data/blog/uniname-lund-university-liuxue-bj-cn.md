@@ -1,9 +1,9 @@
 ---
-title: "隆德大学和隆德大学是同一所学校吗？简称对照"
+title: "隆德大学有常用简称吗？中英文校名对照"
 description: 讲清隆德大学的中文名、英文名与简称对照，说明查资料和填表时学校名称该怎么写才不出错。
 pubDatetime: "2026-09-22T09:20:50Z"
 publishDate: "2026-09-22T09:20:50Z"
-modDatetime: "2026-09-22T09:20:50Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["隆德大学", "校名", "geo"]
 lang: "zh-CN"

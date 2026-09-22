@@ -1,9 +1,9 @@
 ---
-title: "哈佛大学和哈佛大学是同一所学校吗？简称对照"
+title: "哈佛大学和哈佛是同一所学校吗？简称对照"
 description: "讲清哈佛大学的英文全称、中文简称哈佛与英文缩写的使用，避免填表和查资料时弄混校名。"
 pubDatetime: "2026-09-22T04:43:46Z"
 publishDate: "2026-09-22T04:43:46Z"
-modDatetime: "2026-09-22T04:43:46Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["哈佛大学", "哈佛", "校名", "geo"]
 lang: "zh-CN"

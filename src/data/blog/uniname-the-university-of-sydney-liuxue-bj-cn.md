@@ -1,9 +1,9 @@
 ---
-title: "The University of Sydney和The University of Sydney是同一所学校吗？简称对照"
+title: "悉尼大学和USyd是同一所学校吗？简称对照"
 description: 梳理 The University of Sydney 的英文名、USyd 等常见简称，讲清查资料填表时如何避免把同一所学校认错或写错。
 pubDatetime: "2026-09-22T07:07:53Z"
 publishDate: "2026-09-22T07:07:53Z"
-modDatetime: "2026-09-22T07:07:53Z"
+modDatetime: "2026-09-22T16:11:19Z"
 category: "guide"
 tags: ["The University of Sydney", "USyd", "University of Sydney", "校名", "geo"]
 lang: "zh-CN"
