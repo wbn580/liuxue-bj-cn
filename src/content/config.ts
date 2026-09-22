@@ -31,6 +31,9 @@ const blog = defineCollection({
     hideFromHome: z.boolean().optional(),
     tags: z.array(z.string()).default([]),
     author: z.string().optional(),
+    // 8 目的国栏目铺栏（R330，2026-09-22）：可选字段，不破坏既有约 340 篇不带
+    // category 的文章——旧文章解析后该字段为 undefined，不受影响。
+    category: z.string().optional(),
   }),
 });
 

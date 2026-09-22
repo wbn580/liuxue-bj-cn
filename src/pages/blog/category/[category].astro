@@ -1,0 +1,91 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  const categories = [...new Set(posts.map(p => p.data.category).filter(Boolean))];
+  return categories.map((category) => ({
+    params: { category },
+    props: { category },
+  }));
+}
+
+const { category } = Astro.props;
+const allPosts = await getCollection('blog');
+const posts = allPosts
+  .filter(p => p.data.category === category && p.data.hideFromHome !== true)
+  .sort((a, b) => b.data.pubDatetime.localeCompare(a.data.pubDatetime));
+
+// 8 个目的国栏目的展示文案先留 fallback（category 原样展示），
+// 定稿后再逐个补齐中文标签——不阻塞这一轮的分类页上线。
+const catLabels: Record<string, string> = {
+  'luohu': '海归落户',
+  'intl-schools': '国际部 / 国际学校',
+  'stages': '分阶段留学',
+  'resource': '京内资源',
+  'faq': '留学问答',
+};
+const catLabel = catLabels[category] || category;
+---
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <BaseHead title={catLabel} description={`北京留学网「${catLabel}」栏目文章列表`} />
+</head>
+<body>
+  <Header />
+  <main>
+    <section class="py-16 lg:py-20">
+      <div class="max-w-7xl mx-auto px-5 lg:px-8">
+        <!-- Category header -->
+        <div class="mb-12">
+          <nav class="text-sm text-[#5A6670] mb-6">
+            <a href="/" class="hover:text-[#A8443B] transition">首页</a>
+            <span class="mx-2">/</span>
+            <a href="/blog/" class="hover:text-[#A8443B] transition">文章</a>
+            <span class="mx-2">/</span>
+            <span class="text-[#16242E]">{catLabel}</span>
+          </nav>
+          <h1 class="font-serif-cn font-black text-3xl lg:text-4xl text-[#16242E] mb-3">{catLabel}</h1>
+        </div>
+
+        <div class="gold-line mb-12"></div>
+
+        <!-- Articles grid -->
+        {posts.length > 0 ? (
+          <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {posts.map((post) => (
+              <a href={`/blog/${post.data.slug || post.id}/`} class="card-hover bg-white rounded-2xl p-6 border-t-4 border-[#B6883A] block" style="box-shadow:0 10px 40px -12px rgba(22,36,46,0.18)">
+                <span class="text-xs text-[#A8443B] seal-stamp tracking-widest">{catLabel}</span>
+                <h2 class="font-serif-cn font-bold text-lg text-[#16242E] mt-2 mb-2 leading-snug">{post.data.title}</h2>
+                <p class="text-[#5A6670] text-sm leading-relaxed mb-4 line-clamp-2">{post.data.description}</p>
+                <div class="flex items-center gap-3 text-xs text-[#5A6670]">
+                  <time datetime={post.data.pubDatetime}>{post.data.pubDatetime}</time>
+                </div>
+              </a>
+            ))}
+          </div>
+        ) : (
+          <div class="text-center py-12 text-[#5A6670]">
+            <p class="text-lg mb-3">该分类下暂无文章</p>
+            <a href="/" class="text-[#A8443B] hover:text-[#B6883A] transition">返回首页</a>
+          </div>
+        )}
+
+        <!-- Back to home -->
+        <div class="mt-12 text-center">
+          <a href="/" class="inline-flex items-center gap-2 text-[#A8443B] hover:text-[#B6883A] transition">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="1.6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
+            返回首页
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+  <Footer />
+</body>
+</html>
